@@ -1,0 +1,264 @@
+[
+  {
+    "slug": "bareme-irg-algerie",
+    "titleFr": "Guide Complet du Barème IRG et des Salaires en Algérie (2024)",
+    "titleAr": "الدليل الشامل لسلم ضريبة الدخل الإجمالي IRG وحساب الرواتب في الجزائر",
+    "summaryFr": "Analyse exhaustive du barème officiel de l'Impôt sur le Revenu Global : tranches de calcul, abattement forfaitaire de 40%, formule de lissage et avantages spécifiques du Régime Sud.",
+    "summaryAr": "شرح مفصل لسلم الضريبة على الدخل الإجمالي الجديد: شرائح الحساب، التخفيض الجزافي 40%، صيغة التخفيف لرواتب 30 ألف إلى 35 ألف دج، وامتيازات ولايات الجنوب.",
+    "readingTime": "8 min",
+    "updatedAt": "Octobre 2024",
+    "author": "Équipe Juridique & Fiscale HissabDZ",
+    "sectionsFr": [
+      {
+        "heading": "1. Fonctionnement du barème par tranches progressives",
+        "content": "La Loi de Finances a refondu le barème de l'IRG pour alléger la pression fiscale sur les salariés algériens. Le calcul de l'impôt ne s'effectue pas sur le salaire global, mais par tranches marginales progressives sur le salaire imposable :",
+        "list": [
+          "Jusqu'à 20 000 DA : Taux 0% (Totalement exonéré).",
+          "De 20 001 à 40 000 DA : Taux de 23% appliqué sur le différentiel.",
+          "De 40 001 à 80 000 DA : Taux de 27%.",
+          "De 80 001 à 160 000 DA : Taux de 30%.",
+          "De 160 001 à 320 000 DA : Taux de 33%.",
+          "Plus de 320 000 DA : Taux marginal maximal de 35%."
+        ]
+      },
+      {
+        "heading": "2. L'abattement général et l'exonération jusqu'à 30 000 DA",
+        "content": "Le code des impôts accorde un abattement automatique de 40% sur le montant de l'IRG brut obtenu. Cet abattement ne peut être inférieur à 1 000 DA ni supérieur à 1 500 DA par mois. En outre, une exonération totale s'applique pour tout travailleur dont le salaire imposable ne dépasse pas le seuil légal de 30 000 DA."
+      },
+      {
+        "heading": "3. Le mécanisme de lissage entre 30 001 DA et 35 000 DA",
+        "content": "Afin d'éviter un effet de seuil brutal pour les salariés gagnant légèrement plus que 30 000 DA, le législateur a prévu une formule de lissage mathématique dégressive : IRG = IRG_après_abattement * (137 / 51) - (27925 / 8). Cela permet une réintégration progressive et indolore de l'impôt."
+      },
+      {
+        "heading": "4. Régime spécifique du Grand Sud (Adrar, Illizi, Tamanrasset...)",
+        "content": "Pour encourager l'emploi et compenser la rigueur climatique des wilayas du Sud, les travailleurs bénéficient d'une réduction supplémentaire de 50% sur l'IRG final ainsi que d'indemnités de zone géographique et de relève non soumises aux cotisations CNAS."
+      }
+    ],
+    "sectionsAr": [
+      {
+        "heading": "1. كيفية تطبيق سلم الشرائح التصاعدية لضريبة IRG",
+        "content": "أقر قانون المالية إصلاحاً جوهرياً لسلم الضريبة على الدخل الإجمالي لتخفيف العبء الضريبي على العمال والموظفين الجزائريين، حيث يتم الاحتساب عبر شرائح تصاعدية على الراتب الخاضع للضريبة:",
+        "list": [
+          "إلى غاية 20 000 دج: معفى تماماً بنسبة 0%.",
+          "من 20 001 إلى 40 000 دج: نسبة 23%.",
+          "من 40 001 إلى 80 000 دج: نسبة 27%.",
+          "من 80 001 إلى 160 000 دج: نسبة 30%.",
+          "من 160 001 إلى 320 000 دج: نسبة 33%.",
+          "أكثر من 320 000 دج: النسبة القصوى 35%."
+        ]
+      },
+      {
+        "heading": "2. التخفيض العام والإعفاء التام حتى 30 000 دج",
+        "content": "يمنح قانون الضرائب تخفيضاً آلياً بنسبة 40% من قيمة الضريبة المحسوبة، بحيث لا يقل هذا التخفيض عن 1000 دج شهرياً ولا يزيد عن 1500 دج. كما يستفيد كل أجير يقل راتبه الخاضع للضريبة عن 30 000 دج من إعفاء كلي وتام."
+      },
+      {
+        "heading": "3. آلية التخفيف للشريحة بين 30 001 و35 000 دج",
+        "content": "لتفادي القفزة الضريبية المفاجئة لمن تتجاوز رواتبهم 30 ألف دينار بقليل، اعتمد المشرع معادلة تلطيف خاصة تجعل الاقتطاع يرتفع تدريجياً وبشكل عادل للغاية."
+      },
+      {
+        "heading": "4. الامتيازات الجبائية الخاصة بولايات الجنوب الكبير",
+        "content": "دعماً للاستقرار وتحفيزاً للعمل في ولايات الجنوب (أدرار، إليزي، تمنراست، تندوف وغيرها)، يستفيد العاملون هناك من تخفيض إضافي بنسبة 50% على الضريبة النهائية إلى جانب تعويضات المنطقة المعفاة."
+      }
+    ]
+  },
+  {
+    "slug": "article-110-douane-voiture-moins-3-ans",
+    "titleFr": "Article 110 : Tout Savoir sur le Dédouanement des Voitures de Moins de 3 Ans",
+    "titleAr": "المادة 110: دليلك الكامل لجمركة السيارات المستعملة أقل من 3 سنوات في الجزائر",
+    "summaryFr": "Guide pratique étape par étape pour dédouaner un véhicule d'occasion : abattements fiscaux de 80% et 50%, calcul de la valeur CIF, décote pour vétusté et démarches auprès des douanes portuaires.",
+    "summaryAr": "دليل عملي شامل لإجراءات جمركة واستيراد السيارات المستعملة: نسب التخفيض الجمركي 80% و50%، حساب القيمة الجمركية، ونسب تخفيض القدم الجمركي.",
+    "readingTime": "10 min",
+    "updatedAt": "Octobre 2024",
+    "author": "Expert Transit & Douane HissabDZ",
+    "sectionsFr": [
+      {
+        "heading": "1. Conditions d'éligibilité pour l'acquéreur résident",
+        "content": "Conformément à l'article 110 de la Loi de Finances et au décret exécutif régissant l'importation des voitures de moins de trois ans par les particuliers résidents en Algérie, plusieurs critères stricts sont exigés :",
+        "list": [
+          "Le véhicule doit avoir moins de 36 mois entre sa date de première immatriculation et la date d'entrée sur le territoire.",
+          "L'achat doit être financé sur les devises propres du citoyen (aucune allocation bancaire).",
+          "Un seul véhicule par personne physique tous les trois ans.",
+          "Motorisations autorisées : essence, hybride ou 100% électrique (les motorisations diesel restent exclues)."
+        ]
+      },
+      {
+        "heading": "2. Les trois paliers d'abattements fiscaux officiels",
+        "content": "Pour encourager les véhicules sobres et peu polluants, les droits de douane et taxes intérieures ont été massivement allégés :",
+        "list": [
+          "Électrique ou Essence ≤ 1200 cm³ : Abattement exceptionnel de 80% (taxe effective globale d'environ 28,5%).",
+          "Essence ou Hybride 1201 à 1800 cm³ : Abattement de 50% (taxe effective globale de 39,2%).",
+          "Essence ou Hybride > 1800 cm³ : Abattement réduit à 20% + soumission à la Taxe Intérieure de Consommation TIC (taux global 80%)."
+        ]
+      },
+      {
+        "heading": "3. Règle de la décote pour vétusté",
+        "content": "L'administration des douanes applique une décote sur la valeur vénale de la facture d'achat : 10% pour un véhicule d'un an, 20% pour deux ans, et 30% pour trois ans. La valeur en Dinars est ensuite convertie au cours officiel de la Banque d'Algérie pour établir l'assiette taxable CIF."
+      }
+    ],
+    "sectionsAr": [
+      {
+        "heading": "1. شروط استيراد السيارات أقل من 3 سنوات للمواطنين",
+        "content": "وفقاً للمادة 110 من قانون المالية والمرسوم التنفيذي المحدد لكيفيات استيراد السيارات المستعملة من قبل الأفراد المقيمين، يشترط ما يلي:",
+        "list": [
+          "ألا يتجاوز عمر المركبة 36 شهراً من تاريخ أول سير إلى تاريخ الدخول إلى الميناء.",
+          "التمويل من الأموال الخاصة بالعملة الصعبة دون اللجوء إلى التمويل البنكي الرسمي.",
+          "سيارة واحدة لكل شخص طبيعي كل ثلاث سنوات.",
+          "المحركات المسموح بها: بنزين، هجين أو كهربائي (محركات الديزل غير مسموح بها للمواطنين)."
+        ]
+      },
+      {
+        "heading": "2. شرائح التخفيض الجمركي والجبائي",
+        "content": "تشجيعاً للمركبات الاقتصادية والصديقة للبيئة، أقرت الدولة نسب تخفيض جبائي معتبرة:",
+        "list": [
+          "السيارات الكهربائية أو البنزين ≤ 1200 سم³: تخفيض بنسبة 80% (مجموع الرسوم حوالي 28.5%).",
+          "محركات البنزين أو الهجين 1201 إلى 1800 سم³: تخفيض بنسبة 50% (مجموع الرسوم حوالي 39.2%).",
+          "محركات تفوق 1800 سم³: تخفيض 20% مع الخضوع لرسم الاستهلاك الداخلي (مجموع الرسوم 80%)."
+        ]
+      },
+      {
+        "heading": "3. قاعدة التخفيض حسب عمر المركبة",
+        "content": "تطبق مصالح الجمارك تخفيضاً على قيمة السيارة في الفاتورة: 10% لسيارة عمرها سنة، 20% لسنتين، و30% لثلاث سنوات، ثم يتم احتساب الرسوم بالدينار الجزائري وفق سعر الصرف الرسمي لبنك الجزائر."
+      }
+    ]
+  },
+  {
+    "slug": "frais-notaire-achat-immobilier-algerie",
+    "titleFr": "Frais de Notaire et Acte de Vente Immobilier : Le Guide Pratique",
+    "titleAr": "دليل مصاريف الموثق وعقد البيع العقاري وإشهار الملكية في الجزائر",
+    "summaryFr": "Détail chiffré des frais lors d'une transaction immobilière : honoraires dégressifs légaux, droits d'enregistrement au fisc (2.5%), taxe de publicité foncière (1%) et obtention du livret foncier.",
+    "summaryAr": "تفصيل حسابي دقيق لجميع مصاريف المعاملات العقارية: السلم التنازلي لأتعاب الموثق، حقوق التسجيل الضريبي 2.5%، ورسوم المحافظة العقارية 1%.",
+    "readingTime": "7 min",
+    "updatedAt": "Octobre 2024",
+    "author": "Chambre des Notaires & Rédaction HissabDZ",
+    "sectionsFr": [
+      {
+        "heading": "1. Les honoraires légaux du notaire",
+        "content": "Les honoraires des notaires en Algérie sont strictement encadrés par décret et ne sont pas négociables. Ils sont calculés selon un barème par tranches de prix du bien :",
+        "list": [
+          "De 1 à 500 000 DA : 3% de la tranche.",
+          "De 500 001 à 1 000 000 DA : 2% de la tranche.",
+          "Au-delà de 1 000 000 DA : 1% sur le restant de la somme.",
+          "Une TVA de 19% est obligatoirement collectée sur l'ensemble des honoraires HT."
+        ]
+      },
+      {
+        "heading": "2. Les droits d'enregistrement (Direction des Impôts)",
+        "content": "La formalité de l'enregistrement de l'acte authentique de vente est assujettie à une taxe fiscale globale de 5% de la valeur déclarée du bien. Dans la pratique contractuelle la plus courante, la part acquéreur est fixée à 2.5%, le vendeur s'acquittant le cas échéant de la plus-value immobilière ou de sa quote-part."
+      },
+      {
+        "heading": "3. Conservation foncière et formalités de publicité",
+        "content": "Pour être opposable aux tiers et permettre l'établissement du livret foncier au nom du nouveau propriétaire, l'acte notarié doit faire l'objet d'une publicité à la conservation foncière de la wilaya, soumise à une taxe fixe de 1.0% de la valeur de la transaction."
+      }
+    ],
+    "sectionsAr": [
+      {
+        "heading": "1. السلم الرسمي لأتعاب الموثق",
+        "content": "أتعاب الموثق في الجزائر محددة قانوناً بموجب مرسوم تنفيذي ولا تخضع للمفاوضة، ويتم احتسابها عبر شرائح تنازلية:",
+        "list": [
+          "من 1 إلى 500 000 دج: نسبة 3%.",
+          "من 500 001 إلى 1 000 000 دج: نسبة 2%.",
+          "ما زاد عن 1 000 000 دج: نسبة 1%.",
+          "يضاف إلى الأتعاب الرسم على القيمة المضافة TVA بنسبة 19%."
+        ]
+      },
+      {
+        "heading": "2. حقوق التسجيل لدى قباضة الضرائب",
+        "content": "يخضع العقد التوثيقي لرسم تسجيل جبائي إجمالي قدره 5%، وفي العرف العقاري يتحمل المشتري نسبة 2.5% من قيمة العقار المصرح بها لدى كتابة العقد."
+      },
+      {
+        "heading": "3. رسوم المحافظة العقارية والدفتر العقاري",
+        "content": "لضمان حماية الملكية وإصدار الدفتر العقاري باسم المالك الجديد، يشهر العقد لدى المحافظة العقارية المختصة إقليمياً مقابل رسم قدره 1% من قيمة العقار."
+      }
+    ]
+  },
+  {
+    "slug": "declaration-cnas-salaires-algerie",
+    "titleFr": "Cotisation CNAS à 9% : Calcul, Droits et Couverture Sociale",
+    "titleAr": "اشتراك الضمان الاجتماعي CNAS بنسبة 9%: الحساب والحقوق والتغطية الصحية",
+    "summaryFr": "Comment est calculée la retenue de sécurité sociale de 9% sur le salaire brut, quelles indemnités sont soumises à cotisation et quelles prestations sont garanties au travailleur.",
+    "summaryAr": "كيفية حساب اقتطاع الضمان الاجتماعي بنسبة 9% على الراتب الخام، العلاوات الخاضعة للاشتراك والحقوق المضمونة للأجير.",
+    "readingTime": "6 min",
+    "updatedAt": "Octobre 2024",
+    "author": "Expert Paie & RH HissabDZ",
+    "sectionsFr": [
+      {
+        "heading": "1. Assiette de cotisation CNAS",
+        "content": "La cotisation de sécurité sociale à la charge du salarié est fixée à 9% du salaire de poste brut cotisable. Cette assiette comprend le salaire de base, les indemnités de technicité, d'ancienneté, les primes de rendement collectif et individuel. En contrepartie, l'employeur verse la part patronale de 26%, portant la contribution totale à 35%."
+      },
+      {
+        "heading": "2. Droits ouverts au salarié",
+        "content": "La cotisation CNAS ouvre droit au remboursement des ordonnances et médicaments via la carte Chifa, aux indemnités journalières de maladie, de maternité, aux rentes d'accidents du travail et valide les trimestres de cotisation auprès de la CNR pour la retraite."
+      }
+    ],
+    "sectionsAr": [
+      {
+        "heading": "1. وعاء اشتراك الضمان الاجتماعي للأجور",
+        "content": "تبلغ نسبة اشتراك العامل في الضمان الاجتماعي 9% تقتطع مباشرة من راتب المنصب الخام الخاضع للاشتراك، ويدفع صاحب العمل حصة إضافية بنسبة 26% لتبلغ النسبة الإجمالية للاشتراكات 35%."
+      },
+      {
+        "heading": "2. الحقوق المكتسبة للمؤمن له اجتماعياً",
+        "content": "يضمن اشتراك CNAS الاستفادة من التغطية الصحية وبطاقة الشفاء، تعويضات العطل المرضية، عطل الأمومة، التأمين ضد حوادث العمل واحتساب سنوات الخدمة للتقاعد لدى الصندوق الوطني للتقاعد CNR."
+      }
+    ]
+  },
+  {
+    "slug": "marche-parallele-square-port-said-change",
+    "titleFr": "Square Port-Saïd vs Banque d'Algérie : Comprendre le Double Marché des Devises",
+    "titleAr": "سوق بورسعيد (السكوار) مقابل بنك الجزائر: فهم آليات سوق الصرف المزدوج",
+    "summaryFr": "Analyse économique des mécanismes du marché parallèle de devises en Algérie : facteurs influençant le cours de l'Euro, écarts avec le taux officiel et lexique monétaire populaire.",
+    "summaryAr": "تحليل اقتصادي لأسباب وجود الفارق بين سعر الصرف في السوق الموازي والسعر البنكي الرسمي، والعوامل المؤثرة على سعر اليورو في الجزائر.",
+    "readingTime": "9 min",
+    "updatedAt": "Octobre 2024",
+    "author": "Analyste Macro-Économie HissabDZ",
+    "sectionsFr": [
+      {
+        "heading": "1. Pourquoi existe-t-il un double marché en Algérie ?",
+        "content": "Le marché officiel de la Banque d'Algérie est réservé aux opérations de commerce extérieur encadrées (importations d'équipements, produits alimentaires de base) et à l'allocation voyage forfaitaire plafonnée à environ 95 € par an. Pour tout autre besoin (tourisme, importation auto < 3 ans, études à l'étranger, épargne), les citoyens se tournent vers le marché parallèle dont le centre névralgique historique est le Square Port-Saïd à Alger."
+      },
+      {
+        "heading": "2. Les facteurs qui font varier le cours du Square",
+        "content": "Le cours fluctue selon les saisons : fortes hausses avant les périodes de vacances estivales, départs pour la Omra et le Hadj, et pics de demande liés aux vagues d'importation de véhicules de moins de 3 ans."
+      }
+    ],
+    "sectionsAr": [
+      {
+        "heading": "1. أسباب وجود سوق موازي للصرف في الجزائر",
+        "content": "يقتصر الصرف البنكي الرسمي على العمليات التجارية والاستيرادية المعتمدة من الدولة ومنحة السفر السياحية المقدرة بحوالي 95 يورو، مما يدفع المواطنين للجوء إلى ساحة بورسعيد لتلبية احتياجاتهم كالسفر، العلاج، استيراد السيارات أو الادخار."
+      },
+      {
+        "heading": "2. العوامل المحددة لارتفاع أو انخفاض سعر العملة",
+        "content": "يتأثر سعر العملة في السكوار بمواسم العمرة والحج، عطلة الصيف، وتدفقات استيراد المركبات المستعملة التي ترفع الطلب على اليورو والدولار."
+      }
+    ]
+  },
+  {
+    "slug": "importation-vehicule-neuf-vs-occasion-3-ans",
+    "titleFr": "Acheter Neuf chez un Concessionnaire ou Importer Moins de 3 Ans ? Le Comparatif",
+    "titleAr": "شراء سيارة جديدة من الوكيل أم استيراد أقل من 3 سنوات؟ مقارنة شاملة",
+    "summaryFr": "Comparatif financier et technique complet entre les véhicules neufs vendus par les concessionnaires agréés en Algérie et l'importation d'un véhicule d'occasion européen de moins de 3 ans.",
+    "summaryAr": "مقارنة مالية وتقنية شاملة بين اقتناء سيارة جديدة عبر وكلاء السيارات المعتمدين في الجزائر واستيراد سيارة أقل من 3 سنوات من أوروبا.",
+    "readingTime": "8 min",
+    "updatedAt": "Octobre 2024",
+    "author": "Rédacteur Automobile HissabDZ",
+    "sectionsFr": [
+      {
+        "heading": "1. Délais et disponibilité",
+        "content": "Si l'achat chez le concessionnaire officiel bénéficie d'une garantie constructeur de 3 à 5 ans et d'une facturation en Dinars, les délais de livraison peuvent être longs en fonction des quotas. L'importation de moins de 3 ans permet une disponibilité immédiate et un choix de finitions et d'options beaucoup plus étendu."
+      },
+      {
+        "heading": "2. Comparaison budgétaire globale",
+        "content": "Grâce aux abattements fiscaux de 80% sur les moteurs de moins de 1200 cm³ et de 50% jusqu'à 1800 cm³, une citadine européenne récente (Clio 5, 208, Sandero) importée reste souvent très compétitive par rapport aux prix du marché de l'occasion local."
+      }
+    ],
+    "sectionsAr": [
+      {
+        "heading": "1. آجال التسليم والضمان المصنعي",
+        "content": "يتميز الشراء من الوكيل المعتمد بالاستفادة من الضمان المصنعي الرسمي بالدينار الجزائري، بينما يتيح استيراد سيارة أقل من 3 سنوات توفراً فورياً وتنوعاً كبيراً في التجهيزات والخيارات."
+      },
+      {
+        "heading": "2. الموازنة المالية بين الخيارين",
+        "content": "تمنح التخفيضات الجمركية الكبيرة على المحركات الاقتصادية ميزة تنافسية ممتازة للسيارات المستوردة مقارنة بأسعار السوق المحلية."
+      }
+    ]
+  }
+]

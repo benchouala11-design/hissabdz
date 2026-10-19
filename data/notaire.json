@@ -1,0 +1,1136 @@
+[
+  {
+    "slug": "100-millions-centimes",
+    "montantDA": 1000000,
+    "millionsCts": 100,
+    "isAdsensePriority": false,
+    "titleFr": "Frais de Notaire pour 100 Millions de centimes (100 000 DA) en Algérie (Achat Immobilier)",
+    "titleAr": "مصاريف الموثق لعقار بقيمة 100 مليون سنتيم في الجزائر (عقد البيع)",
+    "descriptionFr": "Calcul exact des frais de notaire pour un bien de 100 Millions de centimes (100 000 DA) (1 000 000 DA) : droits d'enregistrement 2.5%, conservation foncière 1%, honoraires et timbres.",
+    "descriptionAr": "حساب دقيق لمصاريف الموثق لعقار بقيمة 100 مليون سنتيم (1 000 000 دج): رسوم التسجيل 2.5%، المحافظة العقارية 1%، أتعاب الموثق والطوابع.",
+    "calc": {
+      "montantDA": 1000000,
+      "montantMillions": "100.0",
+      "enregistrementDA": 25000,
+      "conservationDA": 10000,
+      "honorairesTTC": 29750,
+      "dossierDA": 15000,
+      "totalFraisDA": 79750,
+      "coutTotalDA": 1079750,
+      "totalFraisMillions": "7.97",
+      "coutTotalMillions": "108.0",
+      "pourcentageFrais": "7.98"
+    },
+    "comparatif": [
+      {
+        "posteFr": "Droits d'enregistrement (Impôts 2.5%)",
+        "posteAr": "حقوق التسجيل العقاري (الضرائب 2.5%)",
+        "taux": "2.5%",
+        "montantDA": 25000,
+        "montantMillions": "2.50"
+      },
+      {
+        "posteFr": "Conservation Foncière (Publicité 1.0%)",
+        "posteAr": "المحافظة العقارية والإشهار (1%)",
+        "taux": "1.0%",
+        "montantDA": 10000,
+        "montantMillions": "1.00"
+      },
+      {
+        "posteFr": "Honoraires du Notaire (TTC avec 19% TVA)",
+        "posteAr": "أتعاب الموثق الإجمالية (مع الرسم 19%)",
+        "taux": "Dégressif légal",
+        "montantDA": 29750,
+        "montantMillions": "2.98"
+      },
+      {
+        "posteFr": "Frais de dossier et timbres fiscaux",
+        "posteAr": "مصاريف الملف والطوابع الجبائية",
+        "taux": "Forfait légal",
+        "montantDA": 15000,
+        "montantMillions": "1.50"
+      }
+    ],
+    "faqFr": [
+      {
+        "q": "Combien coûtent les frais de notaire pour un achat de 100 Millions de centimes (100 000 DA) ?",
+        "a": "Pour un bien immobilier évalué à 100 Millions de centimes (100 000 DA) (1 000 000 DA), l'ensemble des frais d'acte s'élève à 79 750 DA (soit 7.97 Millions de centimes), ce qui représente environ 7.98% de la valeur du bien."
+      },
+      {
+        "q": "Qui paye les droits d'enregistrement et la publicité foncière ?",
+        "a": "En pratique immobilière courante en Algérie, la part de 2.5% des droits d'enregistrement et la taxe de publicité foncière de 1% sont acquittées par l'acheteur chez le notaire avant la délivrance du livret foncier ou de l'acte notarié publié."
+      },
+      {
+        "q": "Quel est le coût global total pour l'acquéreur ?",
+        "a": "Le coût global d'acquisition (valeur du bien + l'intégralité des frais administratifs et notariaux) s'élève à 1 079 750 DA, soit 108.0 Millions de centimes."
+      }
+    ],
+    "faqAr": [
+      {
+        "q": "كم تبلغ مصاريف الموثق لشراء عقار بقيمة 100 مليون سنتيم؟",
+        "a": "لعقار بقيمة 100 مليون سنتيم (1 000 000 دج)، يبلغ مجموع مصاريف العقد ورسوم الدولة 79 750 دج (أي ما يعادل 7.97 مليون سنتيم)، وهو ما يمثل حوالي 7.98% من ثمن العقار."
+      },
+      {
+        "q": "من يتحمل رسوم التسجيل والمحافظة العقارية في القانون الجزائري؟",
+        "a": "في المعاملات العقارية الجارية في الجزائر، يتحمل المشتري رسوم التسجيل لدى مصلحة الضرائب (2.5%) ورسم المحافظة العقارية (1%) لدى الموثق لاستكمال إجراءات الإشهار العقاري."
+      },
+      {
+        "q": "ما هي التكلفة الإجمالية التي يدفعها المشتري؟",
+        "a": "التكلفة الإجمالية للشراء (ثمن العقار كاملاً + جميع مصاريف التوثيق والضرائب) تبلغ 1 079 750 دج، أي ما يقارب 108.0 مليون سنتيم."
+      }
+    ]
+  },
+  {
+    "slug": "200-millions-centimes",
+    "montantDA": 2000000,
+    "millionsCts": 200,
+    "isAdsensePriority": true,
+    "titleFr": "Frais de Notaire pour 200 Millions de centimes en Algérie (Achat Immobilier)",
+    "titleAr": "مصاريف الموثق لعقار بقيمة 200 مليون سنتيم في الجزائر (عقد البيع)",
+    "descriptionFr": "Calcul exact des frais de notaire pour un bien de 200 Millions de centimes (2 000 000 DA) : droits d'enregistrement 2.5%, conservation foncière 1%, honoraires et timbres.",
+    "descriptionAr": "حساب دقيق لمصاريف الموثق لعقار بقيمة 200 مليون سنتيم (2 000 000 دج): رسوم التسجيل 2.5%، المحافظة العقارية 1%، أتعاب الموثق والطوابع.",
+    "calc": {
+      "montantDA": 2000000,
+      "montantMillions": "200.0",
+      "enregistrementDA": 50000,
+      "conservationDA": 20000,
+      "honorairesTTC": 41650,
+      "dossierDA": 15000,
+      "totalFraisDA": 126650,
+      "coutTotalDA": 2126650,
+      "totalFraisMillions": "12.66",
+      "coutTotalMillions": "212.7",
+      "pourcentageFrais": "6.33"
+    },
+    "comparatif": [
+      {
+        "posteFr": "Droits d'enregistrement (Impôts 2.5%)",
+        "posteAr": "حقوق التسجيل العقاري (الضرائب 2.5%)",
+        "taux": "2.5%",
+        "montantDA": 50000,
+        "montantMillions": "5.00"
+      },
+      {
+        "posteFr": "Conservation Foncière (Publicité 1.0%)",
+        "posteAr": "المحافظة العقارية والإشهار (1%)",
+        "taux": "1.0%",
+        "montantDA": 20000,
+        "montantMillions": "2.00"
+      },
+      {
+        "posteFr": "Honoraires du Notaire (TTC avec 19% TVA)",
+        "posteAr": "أتعاب الموثق الإجمالية (مع الرسم 19%)",
+        "taux": "Dégressif légal",
+        "montantDA": 41650,
+        "montantMillions": "4.17"
+      },
+      {
+        "posteFr": "Frais de dossier et timbres fiscaux",
+        "posteAr": "مصاريف الملف والطوابع الجبائية",
+        "taux": "Forfait légal",
+        "montantDA": 15000,
+        "montantMillions": "1.50"
+      }
+    ],
+    "faqFr": [
+      {
+        "q": "Combien coûtent les frais de notaire pour un achat de 200 Millions de centimes ?",
+        "a": "Pour un bien immobilier évalué à 200 Millions de centimes (2 000 000 DA), l'ensemble des frais d'acte s'élève à 126 650 DA (soit 12.66 Millions de centimes), ce qui représente environ 6.33% de la valeur du bien."
+      },
+      {
+        "q": "Qui paye les droits d'enregistrement et la publicité foncière ?",
+        "a": "En pratique immobilière courante en Algérie, la part de 2.5% des droits d'enregistrement et la taxe de publicité foncière de 1% sont acquittées par l'acheteur chez le notaire avant la délivrance du livret foncier ou de l'acte notarié publié."
+      },
+      {
+        "q": "Quel est le coût global total pour l'acquéreur ?",
+        "a": "Le coût global d'acquisition (valeur du bien + l'intégralité des frais administratifs et notariaux) s'élève à 2 126 650 DA, soit 212.7 Millions de centimes."
+      }
+    ],
+    "faqAr": [
+      {
+        "q": "كم تبلغ مصاريف الموثق لشراء عقار بقيمة 200 مليون سنتيم؟",
+        "a": "لعقار بقيمة 200 مليون سنتيم (2 000 000 دج)، يبلغ مجموع مصاريف العقد ورسوم الدولة 126 650 دج (أي ما يعادل 12.66 مليون سنتيم)، وهو ما يمثل حوالي 6.33% من ثمن العقار."
+      },
+      {
+        "q": "من يتحمل رسوم التسجيل والمحافظة العقارية في القانون الجزائري؟",
+        "a": "في المعاملات العقارية الجارية في الجزائر، يتحمل المشتري رسوم التسجيل لدى مصلحة الضرائب (2.5%) ورسم المحافظة العقارية (1%) لدى الموثق لاستكمال إجراءات الإشهار العقاري."
+      },
+      {
+        "q": "ما هي التكلفة الإجمالية التي يدفعها المشتري؟",
+        "a": "التكلفة الإجمالية للشراء (ثمن العقار كاملاً + جميع مصاريف التوثيق والضرائب) تبلغ 2 126 650 دج، أي ما يقارب 212.7 مليون سنتيم."
+      }
+    ]
+  },
+  {
+    "slug": "300-millions-centimes",
+    "montantDA": 3000000,
+    "millionsCts": 300,
+    "isAdsensePriority": false,
+    "titleFr": "Frais de Notaire pour 300 Millions de centimes en Algérie (Achat Immobilier)",
+    "titleAr": "مصاريف الموثق لعقار بقيمة 300 مليون سنتيم في الجزائر (عقد البيع)",
+    "descriptionFr": "Calcul exact des frais de notaire pour un bien de 300 Millions de centimes (3 000 000 DA) : droits d'enregistrement 2.5%, conservation foncière 1%, honoraires et timbres.",
+    "descriptionAr": "حساب دقيق لمصاريف الموثق لعقار بقيمة 300 مليون سنتيم (3 000 000 دج): رسوم التسجيل 2.5%، المحافظة العقارية 1%، أتعاب الموثق والطوابع.",
+    "calc": {
+      "montantDA": 3000000,
+      "montantMillions": "300.0",
+      "enregistrementDA": 75000,
+      "conservationDA": 30000,
+      "honorairesTTC": 53550,
+      "dossierDA": 15000,
+      "totalFraisDA": 173550,
+      "coutTotalDA": 3173550,
+      "totalFraisMillions": "17.36",
+      "coutTotalMillions": "317.4",
+      "pourcentageFrais": "5.79"
+    },
+    "comparatif": [
+      {
+        "posteFr": "Droits d'enregistrement (Impôts 2.5%)",
+        "posteAr": "حقوق التسجيل العقاري (الضرائب 2.5%)",
+        "taux": "2.5%",
+        "montantDA": 75000,
+        "montantMillions": "7.50"
+      },
+      {
+        "posteFr": "Conservation Foncière (Publicité 1.0%)",
+        "posteAr": "المحافظة العقارية والإشهار (1%)",
+        "taux": "1.0%",
+        "montantDA": 30000,
+        "montantMillions": "3.00"
+      },
+      {
+        "posteFr": "Honoraires du Notaire (TTC avec 19% TVA)",
+        "posteAr": "أتعاب الموثق الإجمالية (مع الرسم 19%)",
+        "taux": "Dégressif légal",
+        "montantDA": 53550,
+        "montantMillions": "5.36"
+      },
+      {
+        "posteFr": "Frais de dossier et timbres fiscaux",
+        "posteAr": "مصاريف الملف والطوابع الجبائية",
+        "taux": "Forfait légal",
+        "montantDA": 15000,
+        "montantMillions": "1.50"
+      }
+    ],
+    "faqFr": [
+      {
+        "q": "Combien coûtent les frais de notaire pour un achat de 300 Millions de centimes ?",
+        "a": "Pour un bien immobilier évalué à 300 Millions de centimes (3 000 000 DA), l'ensemble des frais d'acte s'élève à 173 550 DA (soit 17.36 Millions de centimes), ce qui représente environ 5.79% de la valeur du bien."
+      },
+      {
+        "q": "Qui paye les droits d'enregistrement et la publicité foncière ?",
+        "a": "En pratique immobilière courante en Algérie, la part de 2.5% des droits d'enregistrement et la taxe de publicité foncière de 1% sont acquittées par l'acheteur chez le notaire avant la délivrance du livret foncier ou de l'acte notarié publié."
+      },
+      {
+        "q": "Quel est le coût global total pour l'acquéreur ?",
+        "a": "Le coût global d'acquisition (valeur du bien + l'intégralité des frais administratifs et notariaux) s'élève à 3 173 550 DA, soit 317.4 Millions de centimes."
+      }
+    ],
+    "faqAr": [
+      {
+        "q": "كم تبلغ مصاريف الموثق لشراء عقار بقيمة 300 مليون سنتيم؟",
+        "a": "لعقار بقيمة 300 مليون سنتيم (3 000 000 دج)، يبلغ مجموع مصاريف العقد ورسوم الدولة 173 550 دج (أي ما يعادل 17.36 مليون سنتيم)، وهو ما يمثل حوالي 5.79% من ثمن العقار."
+      },
+      {
+        "q": "من يتحمل رسوم التسجيل والمحافظة العقارية في القانون الجزائري؟",
+        "a": "في المعاملات العقارية الجارية في الجزائر، يتحمل المشتري رسوم التسجيل لدى مصلحة الضرائب (2.5%) ورسم المحافظة العقارية (1%) لدى الموثق لاستكمال إجراءات الإشهار العقاري."
+      },
+      {
+        "q": "ما هي التكلفة الإجمالية التي يدفعها المشتري؟",
+        "a": "التكلفة الإجمالية للشراء (ثمن العقار كاملاً + جميع مصاريف التوثيق والضرائب) تبلغ 3 173 550 دج، أي ما يقارب 317.4 مليون سنتيم."
+      }
+    ]
+  },
+  {
+    "slug": "500-millions-centimes",
+    "montantDA": 5000000,
+    "millionsCts": 500,
+    "isAdsensePriority": true,
+    "titleFr": "Frais de Notaire pour 500 Millions de centimes (50 Millions DA) en Algérie (Achat Immobilier)",
+    "titleAr": "مصاريف الموثق لعقار بقيمة 500 مليون سنتيم في الجزائر (عقد البيع)",
+    "descriptionFr": "Calcul exact des frais de notaire pour un bien de 500 Millions de centimes (50 Millions DA) (5 000 000 DA) : droits d'enregistrement 2.5%, conservation foncière 1%, honoraires et timbres.",
+    "descriptionAr": "حساب دقيق لمصاريف الموثق لعقار بقيمة 500 مليون سنتيم (5 000 000 دج): رسوم التسجيل 2.5%، المحافظة العقارية 1%، أتعاب الموثق والطوابع.",
+    "calc": {
+      "montantDA": 5000000,
+      "montantMillions": "500.0",
+      "enregistrementDA": 125000,
+      "conservationDA": 50000,
+      "honorairesTTC": 77350,
+      "dossierDA": 15000,
+      "totalFraisDA": 267350,
+      "coutTotalDA": 5267350,
+      "totalFraisMillions": "26.73",
+      "coutTotalMillions": "526.7",
+      "pourcentageFrais": "5.35"
+    },
+    "comparatif": [
+      {
+        "posteFr": "Droits d'enregistrement (Impôts 2.5%)",
+        "posteAr": "حقوق التسجيل العقاري (الضرائب 2.5%)",
+        "taux": "2.5%",
+        "montantDA": 125000,
+        "montantMillions": "12.50"
+      },
+      {
+        "posteFr": "Conservation Foncière (Publicité 1.0%)",
+        "posteAr": "المحافظة العقارية والإشهار (1%)",
+        "taux": "1.0%",
+        "montantDA": 50000,
+        "montantMillions": "5.00"
+      },
+      {
+        "posteFr": "Honoraires du Notaire (TTC avec 19% TVA)",
+        "posteAr": "أتعاب الموثق الإجمالية (مع الرسم 19%)",
+        "taux": "Dégressif légal",
+        "montantDA": 77350,
+        "montantMillions": "7.74"
+      },
+      {
+        "posteFr": "Frais de dossier et timbres fiscaux",
+        "posteAr": "مصاريف الملف والطوابع الجبائية",
+        "taux": "Forfait légal",
+        "montantDA": 15000,
+        "montantMillions": "1.50"
+      }
+    ],
+    "faqFr": [
+      {
+        "q": "Combien coûtent les frais de notaire pour un achat de 500 Millions de centimes (50 Millions DA) ?",
+        "a": "Pour un bien immobilier évalué à 500 Millions de centimes (50 Millions DA) (5 000 000 DA), l'ensemble des frais d'acte s'élève à 267 350 DA (soit 26.73 Millions de centimes), ce qui représente environ 5.35% de la valeur du bien."
+      },
+      {
+        "q": "Qui paye les droits d'enregistrement et la publicité foncière ?",
+        "a": "En pratique immobilière courante en Algérie, la part de 2.5% des droits d'enregistrement et la taxe de publicité foncière de 1% sont acquittées par l'acheteur chez le notaire avant la délivrance du livret foncier ou de l'acte notarié publié."
+      },
+      {
+        "q": "Quel est le coût global total pour l'acquéreur ?",
+        "a": "Le coût global d'acquisition (valeur du bien + l'intégralité des frais administratifs et notariaux) s'élève à 5 267 350 DA, soit 526.7 Millions de centimes."
+      }
+    ],
+    "faqAr": [
+      {
+        "q": "كم تبلغ مصاريف الموثق لشراء عقار بقيمة 500 مليون سنتيم؟",
+        "a": "لعقار بقيمة 500 مليون سنتيم (5 000 000 دج)، يبلغ مجموع مصاريف العقد ورسوم الدولة 267 350 دج (أي ما يعادل 26.73 مليون سنتيم)، وهو ما يمثل حوالي 5.35% من ثمن العقار."
+      },
+      {
+        "q": "من يتحمل رسوم التسجيل والمحافظة العقارية في القانون الجزائري؟",
+        "a": "في المعاملات العقارية الجارية في الجزائر، يتحمل المشتري رسوم التسجيل لدى مصلحة الضرائب (2.5%) ورسم المحافظة العقارية (1%) لدى الموثق لاستكمال إجراءات الإشهار العقاري."
+      },
+      {
+        "q": "ما هي التكلفة الإجمالية التي يدفعها المشتري؟",
+        "a": "التكلفة الإجمالية للشراء (ثمن العقار كاملاً + جميع مصاريف التوثيق والضرائب) تبلغ 5 267 350 دج، أي ما يقارب 526.7 مليون سنتيم."
+      }
+    ]
+  },
+  {
+    "slug": "700-millions-centimes",
+    "montantDA": 7000000,
+    "millionsCts": 700,
+    "isAdsensePriority": true,
+    "titleFr": "Frais de Notaire pour 700 Millions de centimes en Algérie (Achat Immobilier)",
+    "titleAr": "مصاريف الموثق لعقار بقيمة 700 مليون سنتيم في الجزائر (عقد البيع)",
+    "descriptionFr": "Calcul exact des frais de notaire pour un bien de 700 Millions de centimes (7 000 000 DA) : droits d'enregistrement 2.5%, conservation foncière 1%, honoraires et timbres.",
+    "descriptionAr": "حساب دقيق لمصاريف الموثق لعقار بقيمة 700 مليون سنتيم (7 000 000 دج): رسوم التسجيل 2.5%، المحافظة العقارية 1%، أتعاب الموثق والطوابع.",
+    "calc": {
+      "montantDA": 7000000,
+      "montantMillions": "700.0",
+      "enregistrementDA": 175000,
+      "conservationDA": 70000,
+      "honorairesTTC": 101150,
+      "dossierDA": 15000,
+      "totalFraisDA": 361150,
+      "coutTotalDA": 7361150,
+      "totalFraisMillions": "36.12",
+      "coutTotalMillions": "736.1",
+      "pourcentageFrais": "5.16"
+    },
+    "comparatif": [
+      {
+        "posteFr": "Droits d'enregistrement (Impôts 2.5%)",
+        "posteAr": "حقوق التسجيل العقاري (الضرائب 2.5%)",
+        "taux": "2.5%",
+        "montantDA": 175000,
+        "montantMillions": "17.50"
+      },
+      {
+        "posteFr": "Conservation Foncière (Publicité 1.0%)",
+        "posteAr": "المحافظة العقارية والإشهار (1%)",
+        "taux": "1.0%",
+        "montantDA": 70000,
+        "montantMillions": "7.00"
+      },
+      {
+        "posteFr": "Honoraires du Notaire (TTC avec 19% TVA)",
+        "posteAr": "أتعاب الموثق الإجمالية (مع الرسم 19%)",
+        "taux": "Dégressif légal",
+        "montantDA": 101150,
+        "montantMillions": "10.12"
+      },
+      {
+        "posteFr": "Frais de dossier et timbres fiscaux",
+        "posteAr": "مصاريف الملف والطوابع الجبائية",
+        "taux": "Forfait légal",
+        "montantDA": 15000,
+        "montantMillions": "1.50"
+      }
+    ],
+    "faqFr": [
+      {
+        "q": "Combien coûtent les frais de notaire pour un achat de 700 Millions de centimes ?",
+        "a": "Pour un bien immobilier évalué à 700 Millions de centimes (7 000 000 DA), l'ensemble des frais d'acte s'élève à 361 150 DA (soit 36.12 Millions de centimes), ce qui représente environ 5.16% de la valeur du bien."
+      },
+      {
+        "q": "Qui paye les droits d'enregistrement et la publicité foncière ?",
+        "a": "En pratique immobilière courante en Algérie, la part de 2.5% des droits d'enregistrement et la taxe de publicité foncière de 1% sont acquittées par l'acheteur chez le notaire avant la délivrance du livret foncier ou de l'acte notarié publié."
+      },
+      {
+        "q": "Quel est le coût global total pour l'acquéreur ?",
+        "a": "Le coût global d'acquisition (valeur du bien + l'intégralité des frais administratifs et notariaux) s'élève à 7 361 150 DA, soit 736.1 Millions de centimes."
+      }
+    ],
+    "faqAr": [
+      {
+        "q": "كم تبلغ مصاريف الموثق لشراء عقار بقيمة 700 مليون سنتيم؟",
+        "a": "لعقار بقيمة 700 مليون سنتيم (7 000 000 دج)، يبلغ مجموع مصاريف العقد ورسوم الدولة 361 150 دج (أي ما يعادل 36.12 مليون سنتيم)، وهو ما يمثل حوالي 5.16% من ثمن العقار."
+      },
+      {
+        "q": "من يتحمل رسوم التسجيل والمحافظة العقارية في القانون الجزائري؟",
+        "a": "في المعاملات العقارية الجارية في الجزائر، يتحمل المشتري رسوم التسجيل لدى مصلحة الضرائب (2.5%) ورسم المحافظة العقارية (1%) لدى الموثق لاستكمال إجراءات الإشهار العقاري."
+      },
+      {
+        "q": "ما هي التكلفة الإجمالية التي يدفعها المشتري؟",
+        "a": "التكلفة الإجمالية للشراء (ثمن العقار كاملاً + جميع مصاريف التوثيق والضرائب) تبلغ 7 361 150 دج، أي ما يقارب 736.1 مليون سنتيم."
+      }
+    ]
+  },
+  {
+    "slug": "1000-millions-centimes",
+    "montantDA": 10000000,
+    "millionsCts": 1000,
+    "isAdsensePriority": true,
+    "titleFr": "Frais de Notaire pour 1 Milliard de centimes (1 000 Millions) en Algérie (Achat Immobilier)",
+    "titleAr": "مصاريف الموثق لعقار بقيمة مليار سنتيم (1000 مليون) في الجزائر (عقد البيع)",
+    "descriptionFr": "Calcul exact des frais de notaire pour un bien de 1 Milliard de centimes (1 000 Millions) (10 000 000 DA) : droits d'enregistrement 2.5%, conservation foncière 1%, honoraires et timbres.",
+    "descriptionAr": "حساب دقيق لمصاريف الموثق لعقار بقيمة مليار سنتيم (1000 مليون) (10 000 000 دج): رسوم التسجيل 2.5%، المحافظة العقارية 1%، أتعاب الموثق والطوابع.",
+    "calc": {
+      "montantDA": 10000000,
+      "montantMillions": "1000.0",
+      "enregistrementDA": 250000,
+      "conservationDA": 100000,
+      "honorairesTTC": 136850,
+      "dossierDA": 15000,
+      "totalFraisDA": 501850,
+      "coutTotalDA": 10501850,
+      "totalFraisMillions": "50.19",
+      "coutTotalMillions": "1050.2",
+      "pourcentageFrais": "5.02"
+    },
+    "comparatif": [
+      {
+        "posteFr": "Droits d'enregistrement (Impôts 2.5%)",
+        "posteAr": "حقوق التسجيل العقاري (الضرائب 2.5%)",
+        "taux": "2.5%",
+        "montantDA": 250000,
+        "montantMillions": "25.00"
+      },
+      {
+        "posteFr": "Conservation Foncière (Publicité 1.0%)",
+        "posteAr": "المحافظة العقارية والإشهار (1%)",
+        "taux": "1.0%",
+        "montantDA": 100000,
+        "montantMillions": "10.00"
+      },
+      {
+        "posteFr": "Honoraires du Notaire (TTC avec 19% TVA)",
+        "posteAr": "أتعاب الموثق الإجمالية (مع الرسم 19%)",
+        "taux": "Dégressif légal",
+        "montantDA": 136850,
+        "montantMillions": "13.69"
+      },
+      {
+        "posteFr": "Frais de dossier et timbres fiscaux",
+        "posteAr": "مصاريف الملف والطوابع الجبائية",
+        "taux": "Forfait légal",
+        "montantDA": 15000,
+        "montantMillions": "1.50"
+      }
+    ],
+    "faqFr": [
+      {
+        "q": "Combien coûtent les frais de notaire pour un achat de 1 Milliard de centimes (1 000 Millions) ?",
+        "a": "Pour un bien immobilier évalué à 1 Milliard de centimes (1 000 Millions) (10 000 000 DA), l'ensemble des frais d'acte s'élève à 501 850 DA (soit 50.19 Millions de centimes), ce qui représente environ 5.02% de la valeur du bien."
+      },
+      {
+        "q": "Qui paye les droits d'enregistrement et la publicité foncière ?",
+        "a": "En pratique immobilière courante en Algérie, la part de 2.5% des droits d'enregistrement et la taxe de publicité foncière de 1% sont acquittées par l'acheteur chez le notaire avant la délivrance du livret foncier ou de l'acte notarié publié."
+      },
+      {
+        "q": "Quel est le coût global total pour l'acquéreur ?",
+        "a": "Le coût global d'acquisition (valeur du bien + l'intégralité des frais administratifs et notariaux) s'élève à 10 501 850 DA, soit 1050.2 Millions de centimes."
+      }
+    ],
+    "faqAr": [
+      {
+        "q": "كم تبلغ مصاريف الموثق لشراء عقار بقيمة مليار سنتيم (1000 مليون)؟",
+        "a": "لعقار بقيمة مليار سنتيم (1000 مليون) (10 000 000 دج)، يبلغ مجموع مصاريف العقد ورسوم الدولة 501 850 دج (أي ما يعادل 50.19 مليون سنتيم)، وهو ما يمثل حوالي 5.02% من ثمن العقار."
+      },
+      {
+        "q": "من يتحمل رسوم التسجيل والمحافظة العقارية في القانون الجزائري؟",
+        "a": "في المعاملات العقارية الجارية في الجزائر، يتحمل المشتري رسوم التسجيل لدى مصلحة الضرائب (2.5%) ورسم المحافظة العقارية (1%) لدى الموثق لاستكمال إجراءات الإشهار العقاري."
+      },
+      {
+        "q": "ما هي التكلفة الإجمالية التي يدفعها المشتري؟",
+        "a": "التكلفة الإجمالية للشراء (ثمن العقار كاملاً + جميع مصاريف التوثيق والضرائب) تبلغ 10 501 850 دج، أي ما يقارب 1050.2 مليون سنتيم."
+      }
+    ]
+  },
+  {
+    "slug": "1200-millions-centimes",
+    "montantDA": 12000000,
+    "millionsCts": 1200,
+    "isAdsensePriority": true,
+    "titleFr": "Frais de Notaire pour 1,2 Milliard de centimes (1 200 Millions) en Algérie (Achat Immobilier)",
+    "titleAr": "مصاريف الموثق لعقار بقيمة مليار و200 مليون سنتيم في الجزائر (عقد البيع)",
+    "descriptionFr": "Calcul exact des frais de notaire pour un bien de 1,2 Milliard de centimes (1 200 Millions) (12 000 000 DA) : droits d'enregistrement 2.5%, conservation foncière 1%, honoraires et timbres.",
+    "descriptionAr": "حساب دقيق لمصاريف الموثق لعقار بقيمة مليار و200 مليون سنتيم (12 000 000 دج): رسوم التسجيل 2.5%، المحافظة العقارية 1%، أتعاب الموثق والطوابع.",
+    "calc": {
+      "montantDA": 12000000,
+      "montantMillions": "1200.0",
+      "enregistrementDA": 300000,
+      "conservationDA": 120000,
+      "honorairesTTC": 160650,
+      "dossierDA": 15000,
+      "totalFraisDA": 595650,
+      "coutTotalDA": 12595650,
+      "totalFraisMillions": "59.56",
+      "coutTotalMillions": "1259.6",
+      "pourcentageFrais": "4.96"
+    },
+    "comparatif": [
+      {
+        "posteFr": "Droits d'enregistrement (Impôts 2.5%)",
+        "posteAr": "حقوق التسجيل العقاري (الضرائب 2.5%)",
+        "taux": "2.5%",
+        "montantDA": 300000,
+        "montantMillions": "30.00"
+      },
+      {
+        "posteFr": "Conservation Foncière (Publicité 1.0%)",
+        "posteAr": "المحافظة العقارية والإشهار (1%)",
+        "taux": "1.0%",
+        "montantDA": 120000,
+        "montantMillions": "12.00"
+      },
+      {
+        "posteFr": "Honoraires du Notaire (TTC avec 19% TVA)",
+        "posteAr": "أتعاب الموثق الإجمالية (مع الرسم 19%)",
+        "taux": "Dégressif légal",
+        "montantDA": 160650,
+        "montantMillions": "16.07"
+      },
+      {
+        "posteFr": "Frais de dossier et timbres fiscaux",
+        "posteAr": "مصاريف الملف والطوابع الجبائية",
+        "taux": "Forfait légal",
+        "montantDA": 15000,
+        "montantMillions": "1.50"
+      }
+    ],
+    "faqFr": [
+      {
+        "q": "Combien coûtent les frais de notaire pour un achat de 1,2 Milliard de centimes (1 200 Millions) ?",
+        "a": "Pour un bien immobilier évalué à 1,2 Milliard de centimes (1 200 Millions) (12 000 000 DA), l'ensemble des frais d'acte s'élève à 595 650 DA (soit 59.56 Millions de centimes), ce qui représente environ 4.96% de la valeur du bien."
+      },
+      {
+        "q": "Qui paye les droits d'enregistrement et la publicité foncière ?",
+        "a": "En pratique immobilière courante en Algérie, la part de 2.5% des droits d'enregistrement et la taxe de publicité foncière de 1% sont acquittées par l'acheteur chez le notaire avant la délivrance du livret foncier ou de l'acte notarié publié."
+      },
+      {
+        "q": "Quel est le coût global total pour l'acquéreur ?",
+        "a": "Le coût global d'acquisition (valeur du bien + l'intégralité des frais administratifs et notariaux) s'élève à 12 595 650 DA, soit 1259.6 Millions de centimes."
+      }
+    ],
+    "faqAr": [
+      {
+        "q": "كم تبلغ مصاريف الموثق لشراء عقار بقيمة مليار و200 مليون سنتيم؟",
+        "a": "لعقار بقيمة مليار و200 مليون سنتيم (12 000 000 دج)، يبلغ مجموع مصاريف العقد ورسوم الدولة 595 650 دج (أي ما يعادل 59.56 مليون سنتيم)، وهو ما يمثل حوالي 4.96% من ثمن العقار."
+      },
+      {
+        "q": "من يتحمل رسوم التسجيل والمحافظة العقارية في القانون الجزائري؟",
+        "a": "في المعاملات العقارية الجارية في الجزائر، يتحمل المشتري رسوم التسجيل لدى مصلحة الضرائب (2.5%) ورسم المحافظة العقارية (1%) لدى الموثق لاستكمال إجراءات الإشهار العقاري."
+      },
+      {
+        "q": "ما هي التكلفة الإجمالية التي يدفعها المشتري؟",
+        "a": "التكلفة الإجمالية للشراء (ثمن العقار كاملاً + جميع مصاريف التوثيق والضرائب) تبلغ 12 595 650 دج، أي ما يقارب 1259.6 مليون سنتيم."
+      }
+    ]
+  },
+  {
+    "slug": "1500-millions-centimes",
+    "montantDA": 15000000,
+    "millionsCts": 1500,
+    "isAdsensePriority": true,
+    "titleFr": "Frais de Notaire pour 1,5 Milliard de centimes (1 500 Millions) en Algérie (Achat Immobilier)",
+    "titleAr": "مصاريف الموثق لعقار بقيمة مليار و500 مليون سنتيم في الجزائر (عقد البيع)",
+    "descriptionFr": "Calcul exact des frais de notaire pour un bien de 1,5 Milliard de centimes (1 500 Millions) (15 000 000 DA) : droits d'enregistrement 2.5%, conservation foncière 1%, honoraires et timbres.",
+    "descriptionAr": "حساب دقيق لمصاريف الموثق لعقار بقيمة مليار و500 مليون سنتيم (15 000 000 دج): رسوم التسجيل 2.5%، المحافظة العقارية 1%، أتعاب الموثق والطوابع.",
+    "calc": {
+      "montantDA": 15000000,
+      "montantMillions": "1500.0",
+      "enregistrementDA": 375000,
+      "conservationDA": 150000,
+      "honorairesTTC": 196350,
+      "dossierDA": 15000,
+      "totalFraisDA": 736350,
+      "coutTotalDA": 15736350,
+      "totalFraisMillions": "73.64",
+      "coutTotalMillions": "1573.6",
+      "pourcentageFrais": "4.91"
+    },
+    "comparatif": [
+      {
+        "posteFr": "Droits d'enregistrement (Impôts 2.5%)",
+        "posteAr": "حقوق التسجيل العقاري (الضرائب 2.5%)",
+        "taux": "2.5%",
+        "montantDA": 375000,
+        "montantMillions": "37.50"
+      },
+      {
+        "posteFr": "Conservation Foncière (Publicité 1.0%)",
+        "posteAr": "المحافظة العقارية والإشهار (1%)",
+        "taux": "1.0%",
+        "montantDA": 150000,
+        "montantMillions": "15.00"
+      },
+      {
+        "posteFr": "Honoraires du Notaire (TTC avec 19% TVA)",
+        "posteAr": "أتعاب الموثق الإجمالية (مع الرسم 19%)",
+        "taux": "Dégressif légal",
+        "montantDA": 196350,
+        "montantMillions": "19.64"
+      },
+      {
+        "posteFr": "Frais de dossier et timbres fiscaux",
+        "posteAr": "مصاريف الملف والطوابع الجبائية",
+        "taux": "Forfait légal",
+        "montantDA": 15000,
+        "montantMillions": "1.50"
+      }
+    ],
+    "faqFr": [
+      {
+        "q": "Combien coûtent les frais de notaire pour un achat de 1,5 Milliard de centimes (1 500 Millions) ?",
+        "a": "Pour un bien immobilier évalué à 1,5 Milliard de centimes (1 500 Millions) (15 000 000 DA), l'ensemble des frais d'acte s'élève à 736 350 DA (soit 73.64 Millions de centimes), ce qui représente environ 4.91% de la valeur du bien."
+      },
+      {
+        "q": "Qui paye les droits d'enregistrement et la publicité foncière ?",
+        "a": "En pratique immobilière courante en Algérie, la part de 2.5% des droits d'enregistrement et la taxe de publicité foncière de 1% sont acquittées par l'acheteur chez le notaire avant la délivrance du livret foncier ou de l'acte notarié publié."
+      },
+      {
+        "q": "Quel est le coût global total pour l'acquéreur ?",
+        "a": "Le coût global d'acquisition (valeur du bien + l'intégralité des frais administratifs et notariaux) s'élève à 15 736 350 DA, soit 1573.6 Millions de centimes."
+      }
+    ],
+    "faqAr": [
+      {
+        "q": "كم تبلغ مصاريف الموثق لشراء عقار بقيمة مليار و500 مليون سنتيم؟",
+        "a": "لعقار بقيمة مليار و500 مليون سنتيم (15 000 000 دج)، يبلغ مجموع مصاريف العقد ورسوم الدولة 736 350 دج (أي ما يعادل 73.64 مليون سنتيم)، وهو ما يمثل حوالي 4.91% من ثمن العقار."
+      },
+      {
+        "q": "من يتحمل رسوم التسجيل والمحافظة العقارية في القانون الجزائري؟",
+        "a": "في المعاملات العقارية الجارية في الجزائر، يتحمل المشتري رسوم التسجيل لدى مصلحة الضرائب (2.5%) ورسم المحافظة العقارية (1%) لدى الموثق لاستكمال إجراءات الإشهار العقاري."
+      },
+      {
+        "q": "ما هي التكلفة الإجمالية التي يدفعها المشتري؟",
+        "a": "التكلفة الإجمالية للشراء (ثمن العقار كاملاً + جميع مصاريف التوثيق والضرائب) تبلغ 15 736 350 دج، أي ما يقارب 1573.6 مليون سنتيم."
+      }
+    ]
+  },
+  {
+    "slug": "1800-millions-centimes",
+    "montantDA": 18000000,
+    "millionsCts": 1800,
+    "isAdsensePriority": true,
+    "titleFr": "Frais de Notaire pour 1,8 Milliard de centimes (1 800 Millions) en Algérie (Achat Immobilier)",
+    "titleAr": "مصاريف الموثق لعقار بقيمة مليار و800 مليون سنتيم في الجزائر (عقد البيع)",
+    "descriptionFr": "Calcul exact des frais de notaire pour un bien de 1,8 Milliard de centimes (1 800 Millions) (18 000 000 DA) : droits d'enregistrement 2.5%, conservation foncière 1%, honoraires et timbres.",
+    "descriptionAr": "حساب دقيق لمصاريف الموثق لعقار بقيمة مليار و800 مليون سنتيم (18 000 000 دج): رسوم التسجيل 2.5%، المحافظة العقارية 1%، أتعاب الموثق والطوابع.",
+    "calc": {
+      "montantDA": 18000000,
+      "montantMillions": "1800.0",
+      "enregistrementDA": 450000,
+      "conservationDA": 180000,
+      "honorairesTTC": 232050,
+      "dossierDA": 15000,
+      "totalFraisDA": 877050,
+      "coutTotalDA": 18877050,
+      "totalFraisMillions": "87.70",
+      "coutTotalMillions": "1887.7",
+      "pourcentageFrais": "4.87"
+    },
+    "comparatif": [
+      {
+        "posteFr": "Droits d'enregistrement (Impôts 2.5%)",
+        "posteAr": "حقوق التسجيل العقاري (الضرائب 2.5%)",
+        "taux": "2.5%",
+        "montantDA": 450000,
+        "montantMillions": "45.00"
+      },
+      {
+        "posteFr": "Conservation Foncière (Publicité 1.0%)",
+        "posteAr": "المحافظة العقارية والإشهار (1%)",
+        "taux": "1.0%",
+        "montantDA": 180000,
+        "montantMillions": "18.00"
+      },
+      {
+        "posteFr": "Honoraires du Notaire (TTC avec 19% TVA)",
+        "posteAr": "أتعاب الموثق الإجمالية (مع الرسم 19%)",
+        "taux": "Dégressif légal",
+        "montantDA": 232050,
+        "montantMillions": "23.20"
+      },
+      {
+        "posteFr": "Frais de dossier et timbres fiscaux",
+        "posteAr": "مصاريف الملف والطوابع الجبائية",
+        "taux": "Forfait légal",
+        "montantDA": 15000,
+        "montantMillions": "1.50"
+      }
+    ],
+    "faqFr": [
+      {
+        "q": "Combien coûtent les frais de notaire pour un achat de 1,8 Milliard de centimes (1 800 Millions) ?",
+        "a": "Pour un bien immobilier évalué à 1,8 Milliard de centimes (1 800 Millions) (18 000 000 DA), l'ensemble des frais d'acte s'élève à 877 050 DA (soit 87.70 Millions de centimes), ce qui représente environ 4.87% de la valeur du bien."
+      },
+      {
+        "q": "Qui paye les droits d'enregistrement et la publicité foncière ?",
+        "a": "En pratique immobilière courante en Algérie, la part de 2.5% des droits d'enregistrement et la taxe de publicité foncière de 1% sont acquittées par l'acheteur chez le notaire avant la délivrance du livret foncier ou de l'acte notarié publié."
+      },
+      {
+        "q": "Quel est le coût global total pour l'acquéreur ?",
+        "a": "Le coût global d'acquisition (valeur du bien + l'intégralité des frais administratifs et notariaux) s'élève à 18 877 050 DA, soit 1887.7 Millions de centimes."
+      }
+    ],
+    "faqAr": [
+      {
+        "q": "كم تبلغ مصاريف الموثق لشراء عقار بقيمة مليار و800 مليون سنتيم؟",
+        "a": "لعقار بقيمة مليار و800 مليون سنتيم (18 000 000 دج)، يبلغ مجموع مصاريف العقد ورسوم الدولة 877 050 دج (أي ما يعادل 87.70 مليون سنتيم)، وهو ما يمثل حوالي 4.87% من ثمن العقار."
+      },
+      {
+        "q": "من يتحمل رسوم التسجيل والمحافظة العقارية في القانون الجزائري؟",
+        "a": "في المعاملات العقارية الجارية في الجزائر، يتحمل المشتري رسوم التسجيل لدى مصلحة الضرائب (2.5%) ورسم المحافظة العقارية (1%) لدى الموثق لاستكمال إجراءات الإشهار العقاري."
+      },
+      {
+        "q": "ما هي التكلفة الإجمالية التي يدفعها المشتري؟",
+        "a": "التكلفة الإجمالية للشراء (ثمن العقار كاملاً + جميع مصاريف التوثيق والضرائب) تبلغ 18 877 050 دج، أي ما يقارب 1887.7 مليون سنتيم."
+      }
+    ]
+  },
+  {
+    "slug": "2000-millions-centimes",
+    "montantDA": 20000000,
+    "millionsCts": 2000,
+    "isAdsensePriority": true,
+    "titleFr": "Frais de Notaire pour 2 Milliards de centimes (2 000 Millions) en Algérie (Achat Immobilier)",
+    "titleAr": "مصاريف الموثق لعقار بقيمة مليارين سنتيم (2000 مليون) في الجزائر (عقد البيع)",
+    "descriptionFr": "Calcul exact des frais de notaire pour un bien de 2 Milliards de centimes (2 000 Millions) (20 000 000 DA) : droits d'enregistrement 2.5%, conservation foncière 1%, honoraires et timbres.",
+    "descriptionAr": "حساب دقيق لمصاريف الموثق لعقار بقيمة مليارين سنتيم (2000 مليون) (20 000 000 دج): رسوم التسجيل 2.5%، المحافظة العقارية 1%، أتعاب الموثق والطوابع.",
+    "calc": {
+      "montantDA": 20000000,
+      "montantMillions": "2000.0",
+      "enregistrementDA": 500000,
+      "conservationDA": 200000,
+      "honorairesTTC": 255850,
+      "dossierDA": 15000,
+      "totalFraisDA": 970850,
+      "coutTotalDA": 20970850,
+      "totalFraisMillions": "97.08",
+      "coutTotalMillions": "2097.1",
+      "pourcentageFrais": "4.85"
+    },
+    "comparatif": [
+      {
+        "posteFr": "Droits d'enregistrement (Impôts 2.5%)",
+        "posteAr": "حقوق التسجيل العقاري (الضرائب 2.5%)",
+        "taux": "2.5%",
+        "montantDA": 500000,
+        "montantMillions": "50.00"
+      },
+      {
+        "posteFr": "Conservation Foncière (Publicité 1.0%)",
+        "posteAr": "المحافظة العقارية والإشهار (1%)",
+        "taux": "1.0%",
+        "montantDA": 200000,
+        "montantMillions": "20.00"
+      },
+      {
+        "posteFr": "Honoraires du Notaire (TTC avec 19% TVA)",
+        "posteAr": "أتعاب الموثق الإجمالية (مع الرسم 19%)",
+        "taux": "Dégressif légal",
+        "montantDA": 255850,
+        "montantMillions": "25.59"
+      },
+      {
+        "posteFr": "Frais de dossier et timbres fiscaux",
+        "posteAr": "مصاريف الملف والطوابع الجبائية",
+        "taux": "Forfait légal",
+        "montantDA": 15000,
+        "montantMillions": "1.50"
+      }
+    ],
+    "faqFr": [
+      {
+        "q": "Combien coûtent les frais de notaire pour un achat de 2 Milliards de centimes (2 000 Millions) ?",
+        "a": "Pour un bien immobilier évalué à 2 Milliards de centimes (2 000 Millions) (20 000 000 DA), l'ensemble des frais d'acte s'élève à 970 850 DA (soit 97.08 Millions de centimes), ce qui représente environ 4.85% de la valeur du bien."
+      },
+      {
+        "q": "Qui paye les droits d'enregistrement et la publicité foncière ?",
+        "a": "En pratique immobilière courante en Algérie, la part de 2.5% des droits d'enregistrement et la taxe de publicité foncière de 1% sont acquittées par l'acheteur chez le notaire avant la délivrance du livret foncier ou de l'acte notarié publié."
+      },
+      {
+        "q": "Quel est le coût global total pour l'acquéreur ?",
+        "a": "Le coût global d'acquisition (valeur du bien + l'intégralité des frais administratifs et notariaux) s'élève à 20 970 850 DA, soit 2097.1 Millions de centimes."
+      }
+    ],
+    "faqAr": [
+      {
+        "q": "كم تبلغ مصاريف الموثق لشراء عقار بقيمة مليارين سنتيم (2000 مليون)؟",
+        "a": "لعقار بقيمة مليارين سنتيم (2000 مليون) (20 000 000 دج)، يبلغ مجموع مصاريف العقد ورسوم الدولة 970 850 دج (أي ما يعادل 97.08 مليون سنتيم)، وهو ما يمثل حوالي 4.85% من ثمن العقار."
+      },
+      {
+        "q": "من يتحمل رسوم التسجيل والمحافظة العقارية في القانون الجزائري؟",
+        "a": "في المعاملات العقارية الجارية في الجزائر، يتحمل المشتري رسوم التسجيل لدى مصلحة الضرائب (2.5%) ورسم المحافظة العقارية (1%) لدى الموثق لاستكمال إجراءات الإشهار العقاري."
+      },
+      {
+        "q": "ما هي التكلفة الإجمالية التي يدفعها المشتري؟",
+        "a": "التكلفة الإجمالية للشراء (ثمن العقار كاملاً + جميع مصاريف التوثيق والضرائب) تبلغ 20 970 850 دج، أي ما يقارب 2097.1 مليون سنتيم."
+      }
+    ]
+  },
+  {
+    "slug": "2500-millions-centimes",
+    "montantDA": 25000000,
+    "millionsCts": 2500,
+    "isAdsensePriority": false,
+    "titleFr": "Frais de Notaire pour 2,5 Milliards de centimes en Algérie (Achat Immobilier)",
+    "titleAr": "مصاريف الموثق لعقار بقيمة مليارين و500 مليون سنتيم في الجزائر (عقد البيع)",
+    "descriptionFr": "Calcul exact des frais de notaire pour un bien de 2,5 Milliards de centimes (25 000 000 DA) : droits d'enregistrement 2.5%, conservation foncière 1%, honoraires et timbres.",
+    "descriptionAr": "حساب دقيق لمصاريف الموثق لعقار بقيمة مليارين و500 مليون سنتيم (25 000 000 دج): رسوم التسجيل 2.5%، المحافظة العقارية 1%، أتعاب الموثق والطوابع.",
+    "calc": {
+      "montantDA": 25000000,
+      "montantMillions": "2500.0",
+      "enregistrementDA": 625000,
+      "conservationDA": 250000,
+      "honorairesTTC": 315350,
+      "dossierDA": 15000,
+      "totalFraisDA": 1205350,
+      "coutTotalDA": 26205350,
+      "totalFraisMillions": "120.53",
+      "coutTotalMillions": "2620.5",
+      "pourcentageFrais": "4.82"
+    },
+    "comparatif": [
+      {
+        "posteFr": "Droits d'enregistrement (Impôts 2.5%)",
+        "posteAr": "حقوق التسجيل العقاري (الضرائب 2.5%)",
+        "taux": "2.5%",
+        "montantDA": 625000,
+        "montantMillions": "62.50"
+      },
+      {
+        "posteFr": "Conservation Foncière (Publicité 1.0%)",
+        "posteAr": "المحافظة العقارية والإشهار (1%)",
+        "taux": "1.0%",
+        "montantDA": 250000,
+        "montantMillions": "25.00"
+      },
+      {
+        "posteFr": "Honoraires du Notaire (TTC avec 19% TVA)",
+        "posteAr": "أتعاب الموثق الإجمالية (مع الرسم 19%)",
+        "taux": "Dégressif légal",
+        "montantDA": 315350,
+        "montantMillions": "31.54"
+      },
+      {
+        "posteFr": "Frais de dossier et timbres fiscaux",
+        "posteAr": "مصاريف الملف والطوابع الجبائية",
+        "taux": "Forfait légal",
+        "montantDA": 15000,
+        "montantMillions": "1.50"
+      }
+    ],
+    "faqFr": [
+      {
+        "q": "Combien coûtent les frais de notaire pour un achat de 2,5 Milliards de centimes ?",
+        "a": "Pour un bien immobilier évalué à 2,5 Milliards de centimes (25 000 000 DA), l'ensemble des frais d'acte s'élève à 1 205 350 DA (soit 120.53 Millions de centimes), ce qui représente environ 4.82% de la valeur du bien."
+      },
+      {
+        "q": "Qui paye les droits d'enregistrement et la publicité foncière ?",
+        "a": "En pratique immobilière courante en Algérie, la part de 2.5% des droits d'enregistrement et la taxe de publicité foncière de 1% sont acquittées par l'acheteur chez le notaire avant la délivrance du livret foncier ou de l'acte notarié publié."
+      },
+      {
+        "q": "Quel est le coût global total pour l'acquéreur ?",
+        "a": "Le coût global d'acquisition (valeur du bien + l'intégralité des frais administratifs et notariaux) s'élève à 26 205 350 DA, soit 2620.5 Millions de centimes."
+      }
+    ],
+    "faqAr": [
+      {
+        "q": "كم تبلغ مصاريف الموثق لشراء عقار بقيمة مليارين و500 مليون سنتيم؟",
+        "a": "لعقار بقيمة مليارين و500 مليون سنتيم (25 000 000 دج)، يبلغ مجموع مصاريف العقد ورسوم الدولة 1 205 350 دج (أي ما يعادل 120.53 مليون سنتيم)، وهو ما يمثل حوالي 4.82% من ثمن العقار."
+      },
+      {
+        "q": "من يتحمل رسوم التسجيل والمحافظة العقارية في القانون الجزائري؟",
+        "a": "في المعاملات العقارية الجارية في الجزائر، يتحمل المشتري رسوم التسجيل لدى مصلحة الضرائب (2.5%) ورسم المحافظة العقارية (1%) لدى الموثق لاستكمال إجراءات الإشهار العقاري."
+      },
+      {
+        "q": "ما هي التكلفة الإجمالية التي يدفعها المشتري؟",
+        "a": "التكلفة الإجمالية للشراء (ثمن العقار كاملاً + جميع مصاريف التوثيق والضرائب) تبلغ 26 205 350 دج، أي ما يقارب 2620.5 مليون سنتيم."
+      }
+    ]
+  },
+  {
+    "slug": "3000-millions-centimes",
+    "montantDA": 30000000,
+    "millionsCts": 3000,
+    "isAdsensePriority": true,
+    "titleFr": "Frais de Notaire pour 3 Milliards de centimes en Algérie (Achat Immobilier)",
+    "titleAr": "مصاريف الموثق لعقار بقيمة 3 ملايير سنتيم في الجزائر (عقد البيع)",
+    "descriptionFr": "Calcul exact des frais de notaire pour un bien de 3 Milliards de centimes (30 000 000 DA) : droits d'enregistrement 2.5%, conservation foncière 1%, honoraires et timbres.",
+    "descriptionAr": "حساب دقيق لمصاريف الموثق لعقار بقيمة 3 ملايير سنتيم (30 000 000 دج): رسوم التسجيل 2.5%، المحافظة العقارية 1%، أتعاب الموثق والطوابع.",
+    "calc": {
+      "montantDA": 30000000,
+      "montantMillions": "3000.0",
+      "enregistrementDA": 750000,
+      "conservationDA": 300000,
+      "honorairesTTC": 374850,
+      "dossierDA": 15000,
+      "totalFraisDA": 1439850,
+      "coutTotalDA": 31439850,
+      "totalFraisMillions": "143.99",
+      "coutTotalMillions": "3144.0",
+      "pourcentageFrais": "4.80"
+    },
+    "comparatif": [
+      {
+        "posteFr": "Droits d'enregistrement (Impôts 2.5%)",
+        "posteAr": "حقوق التسجيل العقاري (الضرائب 2.5%)",
+        "taux": "2.5%",
+        "montantDA": 750000,
+        "montantMillions": "75.00"
+      },
+      {
+        "posteFr": "Conservation Foncière (Publicité 1.0%)",
+        "posteAr": "المحافظة العقارية والإشهار (1%)",
+        "taux": "1.0%",
+        "montantDA": 300000,
+        "montantMillions": "30.00"
+      },
+      {
+        "posteFr": "Honoraires du Notaire (TTC avec 19% TVA)",
+        "posteAr": "أتعاب الموثق الإجمالية (مع الرسم 19%)",
+        "taux": "Dégressif légal",
+        "montantDA": 374850,
+        "montantMillions": "37.48"
+      },
+      {
+        "posteFr": "Frais de dossier et timbres fiscaux",
+        "posteAr": "مصاريف الملف والطوابع الجبائية",
+        "taux": "Forfait légal",
+        "montantDA": 15000,
+        "montantMillions": "1.50"
+      }
+    ],
+    "faqFr": [
+      {
+        "q": "Combien coûtent les frais de notaire pour un achat de 3 Milliards de centimes ?",
+        "a": "Pour un bien immobilier évalué à 3 Milliards de centimes (30 000 000 DA), l'ensemble des frais d'acte s'élève à 1 439 850 DA (soit 143.99 Millions de centimes), ce qui représente environ 4.80% de la valeur du bien."
+      },
+      {
+        "q": "Qui paye les droits d'enregistrement et la publicité foncière ?",
+        "a": "En pratique immobilière courante en Algérie, la part de 2.5% des droits d'enregistrement et la taxe de publicité foncière de 1% sont acquittées par l'acheteur chez le notaire avant la délivrance du livret foncier ou de l'acte notarié publié."
+      },
+      {
+        "q": "Quel est le coût global total pour l'acquéreur ?",
+        "a": "Le coût global d'acquisition (valeur du bien + l'intégralité des frais administratifs et notariaux) s'élève à 31 439 850 DA, soit 3144.0 Millions de centimes."
+      }
+    ],
+    "faqAr": [
+      {
+        "q": "كم تبلغ مصاريف الموثق لشراء عقار بقيمة 3 ملايير سنتيم؟",
+        "a": "لعقار بقيمة 3 ملايير سنتيم (30 000 000 دج)، يبلغ مجموع مصاريف العقد ورسوم الدولة 1 439 850 دج (أي ما يعادل 143.99 مليون سنتيم)، وهو ما يمثل حوالي 4.80% من ثمن العقار."
+      },
+      {
+        "q": "من يتحمل رسوم التسجيل والمحافظة العقارية في القانون الجزائري؟",
+        "a": "في المعاملات العقارية الجارية في الجزائر، يتحمل المشتري رسوم التسجيل لدى مصلحة الضرائب (2.5%) ورسم المحافظة العقارية (1%) لدى الموثق لاستكمال إجراءات الإشهار العقاري."
+      },
+      {
+        "q": "ما هي التكلفة الإجمالية التي يدفعها المشتري؟",
+        "a": "التكلفة الإجمالية للشراء (ثمن العقار كاملاً + جميع مصاريف التوثيق والضرائب) تبلغ 31 439 850 دج، أي ما يقارب 3144.0 مليون سنتيم."
+      }
+    ]
+  },
+  {
+    "slug": "4000-millions-centimes",
+    "montantDA": 40000000,
+    "millionsCts": 4000,
+    "isAdsensePriority": false,
+    "titleFr": "Frais de Notaire pour 4 Milliards de centimes en Algérie (Achat Immobilier)",
+    "titleAr": "مصاريف الموثق لعقار بقيمة 4 ملايير سنتيم في الجزائر (عقد البيع)",
+    "descriptionFr": "Calcul exact des frais de notaire pour un bien de 4 Milliards de centimes (40 000 000 DA) : droits d'enregistrement 2.5%, conservation foncière 1%, honoraires et timbres.",
+    "descriptionAr": "حساب دقيق لمصاريف الموثق لعقار بقيمة 4 ملايير سنتيم (40 000 000 دج): رسوم التسجيل 2.5%، المحافظة العقارية 1%، أتعاب الموثق والطوابع.",
+    "calc": {
+      "montantDA": 40000000,
+      "montantMillions": "4000.0",
+      "enregistrementDA": 1000000,
+      "conservationDA": 400000,
+      "honorairesTTC": 493850,
+      "dossierDA": 15000,
+      "totalFraisDA": 1908850,
+      "coutTotalDA": 41908850,
+      "totalFraisMillions": "190.88",
+      "coutTotalMillions": "4190.9",
+      "pourcentageFrais": "4.77"
+    },
+    "comparatif": [
+      {
+        "posteFr": "Droits d'enregistrement (Impôts 2.5%)",
+        "posteAr": "حقوق التسجيل العقاري (الضرائب 2.5%)",
+        "taux": "2.5%",
+        "montantDA": 1000000,
+        "montantMillions": "100.00"
+      },
+      {
+        "posteFr": "Conservation Foncière (Publicité 1.0%)",
+        "posteAr": "المحافظة العقارية والإشهار (1%)",
+        "taux": "1.0%",
+        "montantDA": 400000,
+        "montantMillions": "40.00"
+      },
+      {
+        "posteFr": "Honoraires du Notaire (TTC avec 19% TVA)",
+        "posteAr": "أتعاب الموثق الإجمالية (مع الرسم 19%)",
+        "taux": "Dégressif légal",
+        "montantDA": 493850,
+        "montantMillions": "49.38"
+      },
+      {
+        "posteFr": "Frais de dossier et timbres fiscaux",
+        "posteAr": "مصاريف الملف والطوابع الجبائية",
+        "taux": "Forfait légal",
+        "montantDA": 15000,
+        "montantMillions": "1.50"
+      }
+    ],
+    "faqFr": [
+      {
+        "q": "Combien coûtent les frais de notaire pour un achat de 4 Milliards de centimes ?",
+        "a": "Pour un bien immobilier évalué à 4 Milliards de centimes (40 000 000 DA), l'ensemble des frais d'acte s'élève à 1 908 850 DA (soit 190.88 Millions de centimes), ce qui représente environ 4.77% de la valeur du bien."
+      },
+      {
+        "q": "Qui paye les droits d'enregistrement et la publicité foncière ?",
+        "a": "En pratique immobilière courante en Algérie, la part de 2.5% des droits d'enregistrement et la taxe de publicité foncière de 1% sont acquittées par l'acheteur chez le notaire avant la délivrance du livret foncier ou de l'acte notarié publié."
+      },
+      {
+        "q": "Quel est le coût global total pour l'acquéreur ?",
+        "a": "Le coût global d'acquisition (valeur du bien + l'intégralité des frais administratifs et notariaux) s'élève à 41 908 850 DA, soit 4190.9 Millions de centimes."
+      }
+    ],
+    "faqAr": [
+      {
+        "q": "كم تبلغ مصاريف الموثق لشراء عقار بقيمة 4 ملايير سنتيم؟",
+        "a": "لعقار بقيمة 4 ملايير سنتيم (40 000 000 دج)، يبلغ مجموع مصاريف العقد ورسوم الدولة 1 908 850 دج (أي ما يعادل 190.88 مليون سنتيم)، وهو ما يمثل حوالي 4.77% من ثمن العقار."
+      },
+      {
+        "q": "من يتحمل رسوم التسجيل والمحافظة العقارية في القانون الجزائري؟",
+        "a": "في المعاملات العقارية الجارية في الجزائر، يتحمل المشتري رسوم التسجيل لدى مصلحة الضرائب (2.5%) ورسم المحافظة العقارية (1%) لدى الموثق لاستكمال إجراءات الإشهار العقاري."
+      },
+      {
+        "q": "ما هي التكلفة الإجمالية التي يدفعها المشتري؟",
+        "a": "التكلفة الإجمالية للشراء (ثمن العقار كاملاً + جميع مصاريف التوثيق والضرائب) تبلغ 41 908 850 دج، أي ما يقارب 4190.9 مليون سنتيم."
+      }
+    ]
+  },
+  {
+    "slug": "5000-millions-centimes",
+    "montantDA": 50000000,
+    "millionsCts": 5000,
+    "isAdsensePriority": true,
+    "titleFr": "Frais de Notaire pour 5 Milliards de centimes en Algérie (Achat Immobilier)",
+    "titleAr": "مصاريف الموثق لعقار بقيمة 5 ملايير سنتيم في الجزائر (عقد البيع)",
+    "descriptionFr": "Calcul exact des frais de notaire pour un bien de 5 Milliards de centimes (50 000 000 DA) : droits d'enregistrement 2.5%, conservation foncière 1%, honoraires et timbres.",
+    "descriptionAr": "حساب دقيق لمصاريف الموثق لعقار بقيمة 5 ملايير سنتيم (50 000 000 دج): رسوم التسجيل 2.5%، المحافظة العقارية 1%، أتعاب الموثق والطوابع.",
+    "calc": {
+      "montantDA": 50000000,
+      "montantMillions": "5000.0",
+      "enregistrementDA": 1250000,
+      "conservationDA": 500000,
+      "honorairesTTC": 612850,
+      "dossierDA": 15000,
+      "totalFraisDA": 2377850,
+      "coutTotalDA": 52377850,
+      "totalFraisMillions": "237.78",
+      "coutTotalMillions": "5237.8",
+      "pourcentageFrais": "4.76"
+    },
+    "comparatif": [
+      {
+        "posteFr": "Droits d'enregistrement (Impôts 2.5%)",
+        "posteAr": "حقوق التسجيل العقاري (الضرائب 2.5%)",
+        "taux": "2.5%",
+        "montantDA": 1250000,
+        "montantMillions": "125.00"
+      },
+      {
+        "posteFr": "Conservation Foncière (Publicité 1.0%)",
+        "posteAr": "المحافظة العقارية والإشهار (1%)",
+        "taux": "1.0%",
+        "montantDA": 500000,
+        "montantMillions": "50.00"
+      },
+      {
+        "posteFr": "Honoraires du Notaire (TTC avec 19% TVA)",
+        "posteAr": "أتعاب الموثق الإجمالية (مع الرسم 19%)",
+        "taux": "Dégressif légal",
+        "montantDA": 612850,
+        "montantMillions": "61.28"
+      },
+      {
+        "posteFr": "Frais de dossier et timbres fiscaux",
+        "posteAr": "مصاريف الملف والطوابع الجبائية",
+        "taux": "Forfait légal",
+        "montantDA": 15000,
+        "montantMillions": "1.50"
+      }
+    ],
+    "faqFr": [
+      {
+        "q": "Combien coûtent les frais de notaire pour un achat de 5 Milliards de centimes ?",
+        "a": "Pour un bien immobilier évalué à 5 Milliards de centimes (50 000 000 DA), l'ensemble des frais d'acte s'élève à 2 377 850 DA (soit 237.78 Millions de centimes), ce qui représente environ 4.76% de la valeur du bien."
+      },
+      {
+        "q": "Qui paye les droits d'enregistrement et la publicité foncière ?",
+        "a": "En pratique immobilière courante en Algérie, la part de 2.5% des droits d'enregistrement et la taxe de publicité foncière de 1% sont acquittées par l'acheteur chez le notaire avant la délivrance du livret foncier ou de l'acte notarié publié."
+      },
+      {
+        "q": "Quel est le coût global total pour l'acquéreur ?",
+        "a": "Le coût global d'acquisition (valeur du bien + l'intégralité des frais administratifs et notariaux) s'élève à 52 377 850 DA, soit 5237.8 Millions de centimes."
+      }
+    ],
+    "faqAr": [
+      {
+        "q": "كم تبلغ مصاريف الموثق لشراء عقار بقيمة 5 ملايير سنتيم؟",
+        "a": "لعقار بقيمة 5 ملايير سنتيم (50 000 000 دج)، يبلغ مجموع مصاريف العقد ورسوم الدولة 2 377 850 دج (أي ما يعادل 237.78 مليون سنتيم)، وهو ما يمثل حوالي 4.76% من ثمن العقار."
+      },
+      {
+        "q": "من يتحمل رسوم التسجيل والمحافظة العقارية في القانون الجزائري؟",
+        "a": "في المعاملات العقارية الجارية في الجزائر، يتحمل المشتري رسوم التسجيل لدى مصلحة الضرائب (2.5%) ورسم المحافظة العقارية (1%) لدى الموثق لاستكمال إجراءات الإشهار العقاري."
+      },
+      {
+        "q": "ما هي التكلفة الإجمالية التي يدفعها المشتري؟",
+        "a": "التكلفة الإجمالية للشراء (ثمن العقار كاملاً + جميع مصاريف التوثيق والضرائب) تبلغ 52 377 850 دج، أي ما يقارب 5237.8 مليون سنتيم."
+      }
+    ]
+  }
+]

@@ -1,0 +1,3722 @@
+[
+  {
+    "slug": "renault-clio-5",
+    "marque": "Renault",
+    "modele": "Clio 5 1.0 TCe",
+    "cylindree": 999,
+    "categorie": "electrique_ou_petit_essence",
+    "prix2024": 14500,
+    "prix2025": 15500,
+    "prix2026": 16500,
+    "isAdsensePriority": true,
+    "titleFr": "Dédouanement Renault Clio 5 1.0 TCe (< 3 ans) en Algérie : Prix & Taxes 2024",
+    "titleAr": "جمركة Renault Clio 5 1.0 TCe (أقل من 3 سنوات) في الجزائر: الأسعار والرسوم",
+    "descriptionFr": "Combien coûte le dédouanement d'une Renault Clio 5 1.0 TCe en Algérie ? Droits de douane Article 110, décote 3 ans, coût Square et prix de revient total en Dinars.",
+    "descriptionAr": "كم تبلغ تكلفة جمركة Renault Clio 5 1.0 TCe في الجزائر؟ الرسوم الجمركية وفق المادة 110، التخفيض، وسعر التكلفة الإجمالي بالدينار والسكوار.",
+    "calc": {
+      "prixEur": 14500,
+      "age": 2,
+      "tauxDecote": 20,
+      "valeurCifEur": 12300,
+      "valeurCifDA": 1894200,
+      "taxesDouaneDA": 539847,
+      "coutSquareDA": 3876000,
+      "prixRevientTotalDA": 4415847,
+      "prixRevientMillions": "441.6",
+      "taxesDouaneMillions": "54.0",
+      "coutSquareMillions": "387.6"
+    },
+    "calc1an": {
+      "prixEur": 14500,
+      "age": 1,
+      "tauxDecote": 10,
+      "valeurCifEur": 13750,
+      "valeurCifDA": 2117500,
+      "taxesDouaneDA": 603488,
+      "coutSquareDA": 3876000,
+      "prixRevientTotalDA": 4479488,
+      "prixRevientMillions": "447.9",
+      "taxesDouaneMillions": "60.3",
+      "coutSquareMillions": "387.6"
+    },
+    "calc2ans": {
+      "prixEur": 14500,
+      "age": 2,
+      "tauxDecote": 20,
+      "valeurCifEur": 12300,
+      "valeurCifDA": 1894200,
+      "taxesDouaneDA": 539847,
+      "coutSquareDA": 3876000,
+      "prixRevientTotalDA": 4415847,
+      "prixRevientMillions": "441.6",
+      "taxesDouaneMillions": "54.0",
+      "coutSquareMillions": "387.6"
+    },
+    "calc3ans": {
+      "prixEur": 14500,
+      "age": 3,
+      "tauxDecote": 30,
+      "valeurCifEur": 10850,
+      "valeurCifDA": 1670900,
+      "taxesDouaneDA": 476206,
+      "coutSquareDA": 3876000,
+      "prixRevientTotalDA": 4352206,
+      "prixRevientMillions": "435.2",
+      "taxesDouaneMillions": "47.6",
+      "coutSquareMillions": "387.6"
+    },
+    "comparatif": [
+      {
+        "ageFr": "1 an d'ancienneté (-10% décote)",
+        "ageAr": "سنة واحدة (تخفيض 10%)",
+        "valeurCifEur": 13750,
+        "taxesDouaneDA": 603488,
+        "coutSquareDA": 3876000,
+        "prixRevientTotalDA": 4479488,
+        "prixRevientMillions": "447.9"
+      },
+      {
+        "ageFr": "2 ans d'ancienneté (-20% décote)",
+        "ageAr": "سنتان (تخفيض 20%)",
+        "valeurCifEur": 12300,
+        "taxesDouaneDA": 539847,
+        "coutSquareDA": 3876000,
+        "prixRevientTotalDA": 4415847,
+        "prixRevientMillions": "441.6"
+      },
+      {
+        "ageFr": "3 ans d'ancienneté (-30% décote)",
+        "ageAr": "3 سنوات (تخفيض 30%)",
+        "valeurCifEur": 10850,
+        "taxesDouaneDA": 476206,
+        "coutSquareDA": 3876000,
+        "prixRevientTotalDA": 4352206,
+        "prixRevientMillions": "435.2"
+      }
+    ],
+    "faqFr": [
+      {
+        "q": "Combien coûte le dédouanement d'une Renault Clio 5 1.0 TCe en Algérie ?",
+        "a": "Pour un véhicule de 2 ans acheté environ 14 500 €, les taxes et droits de douane s'élèvent à environ 539 847 DA (soit 54.0 Millions de centimes) grâce à l'abattement fiscal prévu par la Loi de Finances."
+      },
+      {
+        "q": "Quel est le prix de revient total au taux du Square ?",
+        "a": "Le coût global d'acquisition (achat des devises au cours du Square Port-Saïd + frais de transport 700 € + dédouanement au port algérien) revient à environ 4 415 847 DA, soit 441.6 Millions de centimes."
+      },
+      {
+        "q": "Quelle est la cylindrée fiscale et l'abattement douanier de ce modèle ?",
+        "a": "Ce modèle dispose d'un moteur de 999 cm³. Il relève de la catégorie \"Moins de 1200 cm³ (Abattement 80%)\"."
+      }
+    ],
+    "faqAr": [
+      {
+        "q": "كم تكلفة جمركة سيارة Renault Clio 5 1.0 TCe في الجزائر؟",
+        "a": "لسيارة عمرها سنتان وسعرها حوالي 14 500 يورو، تقدر الرسوم الجمركية بحوالي 539 847 دج (أي ما يعادل 54.0 مليون سنتيم) بفضل التخفيض المنصوص عليه في قانون المالية."
+      },
+      {
+        "q": "كم يبلغ سعر التكلفة الإجمالي بحساب سعر السكوار؟",
+        "a": "التكلفة الإجمالية (شراء اليورو من ساحة بورسعيد + الشحن 700 يورو + الجمركة عند الوصول إلى الميناء الجزائري) تبلغ حوالي 4 415 847 دج، أي ما يقارب 441.6 مليون سنتيم."
+      },
+      {
+        "q": "ما هي سعة المحرك ونسبة التخفيض الجمركي لهذه السيارة؟",
+        "a": "تبلغ سعة محرك هذا الموديل 999 سم³، ويندرج تحت فئة \"أقل من 1200 سم³ (تخفيض 80%)\"."
+      }
+    ]
+  },
+  {
+    "slug": "peugeot-208",
+    "marque": "Peugeot",
+    "modele": "208 1.2 PureTech",
+    "cylindree": 1199,
+    "categorie": "electrique_ou_petit_essence",
+    "prix2024": 14800,
+    "prix2025": 15800,
+    "prix2026": 16900,
+    "isAdsensePriority": true,
+    "titleFr": "Dédouanement Peugeot 208 1.2 PureTech (< 3 ans) en Algérie : Prix & Taxes 2024",
+    "titleAr": "جمركة Peugeot 208 1.2 PureTech (أقل من 3 سنوات) في الجزائر: الأسعار والرسوم",
+    "descriptionFr": "Combien coûte le dédouanement d'une Peugeot 208 1.2 PureTech en Algérie ? Droits de douane Article 110, décote 3 ans, coût Square et prix de revient total en Dinars.",
+    "descriptionAr": "كم تبلغ تكلفة جمركة Peugeot 208 1.2 PureTech في الجزائر؟ الرسوم الجمركية وفق المادة 110، التخفيض، وسعر التكلفة الإجمالي بالدينار والسكوار.",
+    "calc": {
+      "prixEur": 14800,
+      "age": 2,
+      "tauxDecote": 20,
+      "valeurCifEur": 12540,
+      "valeurCifDA": 1931160,
+      "taxesDouaneDA": 550381,
+      "coutSquareDA": 3952500,
+      "prixRevientTotalDA": 4502881,
+      "prixRevientMillions": "450.3",
+      "taxesDouaneMillions": "55.0",
+      "coutSquareMillions": "395.3"
+    },
+    "calc1an": {
+      "prixEur": 14800,
+      "age": 1,
+      "tauxDecote": 10,
+      "valeurCifEur": 14020,
+      "valeurCifDA": 2159080,
+      "taxesDouaneDA": 615338,
+      "coutSquareDA": 3952500,
+      "prixRevientTotalDA": 4567838,
+      "prixRevientMillions": "456.8",
+      "taxesDouaneMillions": "61.5",
+      "coutSquareMillions": "395.3"
+    },
+    "calc2ans": {
+      "prixEur": 14800,
+      "age": 2,
+      "tauxDecote": 20,
+      "valeurCifEur": 12540,
+      "valeurCifDA": 1931160,
+      "taxesDouaneDA": 550381,
+      "coutSquareDA": 3952500,
+      "prixRevientTotalDA": 4502881,
+      "prixRevientMillions": "450.3",
+      "taxesDouaneMillions": "55.0",
+      "coutSquareMillions": "395.3"
+    },
+    "calc3ans": {
+      "prixEur": 14800,
+      "age": 3,
+      "tauxDecote": 30,
+      "valeurCifEur": 11060,
+      "valeurCifDA": 1703240,
+      "taxesDouaneDA": 485423,
+      "coutSquareDA": 3952500,
+      "prixRevientTotalDA": 4437923,
+      "prixRevientMillions": "443.8",
+      "taxesDouaneMillions": "48.5",
+      "coutSquareMillions": "395.3"
+    },
+    "comparatif": [
+      {
+        "ageFr": "1 an d'ancienneté (-10% décote)",
+        "ageAr": "سنة واحدة (تخفيض 10%)",
+        "valeurCifEur": 14020,
+        "taxesDouaneDA": 615338,
+        "coutSquareDA": 3952500,
+        "prixRevientTotalDA": 4567838,
+        "prixRevientMillions": "456.8"
+      },
+      {
+        "ageFr": "2 ans d'ancienneté (-20% décote)",
+        "ageAr": "سنتان (تخفيض 20%)",
+        "valeurCifEur": 12540,
+        "taxesDouaneDA": 550381,
+        "coutSquareDA": 3952500,
+        "prixRevientTotalDA": 4502881,
+        "prixRevientMillions": "450.3"
+      },
+      {
+        "ageFr": "3 ans d'ancienneté (-30% décote)",
+        "ageAr": "3 سنوات (تخفيض 30%)",
+        "valeurCifEur": 11060,
+        "taxesDouaneDA": 485423,
+        "coutSquareDA": 3952500,
+        "prixRevientTotalDA": 4437923,
+        "prixRevientMillions": "443.8"
+      }
+    ],
+    "faqFr": [
+      {
+        "q": "Combien coûte le dédouanement d'une Peugeot 208 1.2 PureTech en Algérie ?",
+        "a": "Pour un véhicule de 2 ans acheté environ 14 800 €, les taxes et droits de douane s'élèvent à environ 550 381 DA (soit 55.0 Millions de centimes) grâce à l'abattement fiscal prévu par la Loi de Finances."
+      },
+      {
+        "q": "Quel est le prix de revient total au taux du Square ?",
+        "a": "Le coût global d'acquisition (achat des devises au cours du Square Port-Saïd + frais de transport 700 € + dédouanement au port algérien) revient à environ 4 502 881 DA, soit 450.3 Millions de centimes."
+      },
+      {
+        "q": "Quelle est la cylindrée fiscale et l'abattement douanier de ce modèle ?",
+        "a": "Ce modèle dispose d'un moteur de 1199 cm³. Il relève de la catégorie \"Moins de 1200 cm³ (Abattement 80%)\"."
+      }
+    ],
+    "faqAr": [
+      {
+        "q": "كم تكلفة جمركة سيارة Peugeot 208 1.2 PureTech في الجزائر؟",
+        "a": "لسيارة عمرها سنتان وسعرها حوالي 14 800 يورو، تقدر الرسوم الجمركية بحوالي 550 381 دج (أي ما يعادل 55.0 مليون سنتيم) بفضل التخفيض المنصوص عليه في قانون المالية."
+      },
+      {
+        "q": "كم يبلغ سعر التكلفة الإجمالي بحساب سعر السكوار؟",
+        "a": "التكلفة الإجمالية (شراء اليورو من ساحة بورسعيد + الشحن 700 يورو + الجمركة عند الوصول إلى الميناء الجزائري) تبلغ حوالي 4 502 881 دج، أي ما يقارب 450.3 مليون سنتيم."
+      },
+      {
+        "q": "ما هي سعة المحرك ونسبة التخفيض الجمركي لهذه السيارة؟",
+        "a": "تبلغ سعة محرك هذا الموديل 1199 سم³، ويندرج تحت فئة \"أقل من 1200 سم³ (تخفيض 80%)\"."
+      }
+    ]
+  },
+  {
+    "slug": "dacia-sandero-stepway",
+    "marque": "Dacia",
+    "modele": "Sandero Stepway 1.0 TCe",
+    "cylindree": 999,
+    "categorie": "electrique_ou_petit_essence",
+    "prix2024": 13900,
+    "prix2025": 14800,
+    "prix2026": 15800,
+    "isAdsensePriority": true,
+    "titleFr": "Dédouanement Dacia Sandero Stepway 1.0 TCe (< 3 ans) en Algérie : Prix & Taxes 2024",
+    "titleAr": "جمركة Dacia Sandero Stepway 1.0 TCe (أقل من 3 سنوات) في الجزائر: الأسعار والرسوم",
+    "descriptionFr": "Combien coûte le dédouanement d'une Dacia Sandero Stepway 1.0 TCe en Algérie ? Droits de douane Article 110, décote 3 ans, coût Square et prix de revient total en Dinars.",
+    "descriptionAr": "كم تبلغ تكلفة جمركة Dacia Sandero Stepway 1.0 TCe في الجزائر؟ الرسوم الجمركية وفق المادة 110، التخفيض، وسعر التكلفة الإجمالي بالدينار والسكوار.",
+    "calc": {
+      "prixEur": 13900,
+      "age": 2,
+      "tauxDecote": 20,
+      "valeurCifEur": 11820,
+      "valeurCifDA": 1820280,
+      "taxesDouaneDA": 518780,
+      "coutSquareDA": 3723000,
+      "prixRevientTotalDA": 4241780,
+      "prixRevientMillions": "424.2",
+      "taxesDouaneMillions": "51.9",
+      "coutSquareMillions": "372.3"
+    },
+    "calc1an": {
+      "prixEur": 13900,
+      "age": 1,
+      "tauxDecote": 10,
+      "valeurCifEur": 13210,
+      "valeurCifDA": 2034340,
+      "taxesDouaneDA": 579787,
+      "coutSquareDA": 3723000,
+      "prixRevientTotalDA": 4302787,
+      "prixRevientMillions": "430.3",
+      "taxesDouaneMillions": "58.0",
+      "coutSquareMillions": "372.3"
+    },
+    "calc2ans": {
+      "prixEur": 13900,
+      "age": 2,
+      "tauxDecote": 20,
+      "valeurCifEur": 11820,
+      "valeurCifDA": 1820280,
+      "taxesDouaneDA": 518780,
+      "coutSquareDA": 3723000,
+      "prixRevientTotalDA": 4241780,
+      "prixRevientMillions": "424.2",
+      "taxesDouaneMillions": "51.9",
+      "coutSquareMillions": "372.3"
+    },
+    "calc3ans": {
+      "prixEur": 13900,
+      "age": 3,
+      "tauxDecote": 30,
+      "valeurCifEur": 10430,
+      "valeurCifDA": 1606220,
+      "taxesDouaneDA": 457773,
+      "coutSquareDA": 3723000,
+      "prixRevientTotalDA": 4180773,
+      "prixRevientMillions": "418.1",
+      "taxesDouaneMillions": "45.8",
+      "coutSquareMillions": "372.3"
+    },
+    "comparatif": [
+      {
+        "ageFr": "1 an d'ancienneté (-10% décote)",
+        "ageAr": "سنة واحدة (تخفيض 10%)",
+        "valeurCifEur": 13210,
+        "taxesDouaneDA": 579787,
+        "coutSquareDA": 3723000,
+        "prixRevientTotalDA": 4302787,
+        "prixRevientMillions": "430.3"
+      },
+      {
+        "ageFr": "2 ans d'ancienneté (-20% décote)",
+        "ageAr": "سنتان (تخفيض 20%)",
+        "valeurCifEur": 11820,
+        "taxesDouaneDA": 518780,
+        "coutSquareDA": 3723000,
+        "prixRevientTotalDA": 4241780,
+        "prixRevientMillions": "424.2"
+      },
+      {
+        "ageFr": "3 ans d'ancienneté (-30% décote)",
+        "ageAr": "3 سنوات (تخفيض 30%)",
+        "valeurCifEur": 10430,
+        "taxesDouaneDA": 457773,
+        "coutSquareDA": 3723000,
+        "prixRevientTotalDA": 4180773,
+        "prixRevientMillions": "418.1"
+      }
+    ],
+    "faqFr": [
+      {
+        "q": "Combien coûte le dédouanement d'une Dacia Sandero Stepway 1.0 TCe en Algérie ?",
+        "a": "Pour un véhicule de 2 ans acheté environ 13 900 €, les taxes et droits de douane s'élèvent à environ 518 780 DA (soit 51.9 Millions de centimes) grâce à l'abattement fiscal prévu par la Loi de Finances."
+      },
+      {
+        "q": "Quel est le prix de revient total au taux du Square ?",
+        "a": "Le coût global d'acquisition (achat des devises au cours du Square Port-Saïd + frais de transport 700 € + dédouanement au port algérien) revient à environ 4 241 780 DA, soit 424.2 Millions de centimes."
+      },
+      {
+        "q": "Quelle est la cylindrée fiscale et l'abattement douanier de ce modèle ?",
+        "a": "Ce modèle dispose d'un moteur de 999 cm³. Il relève de la catégorie \"Moins de 1200 cm³ (Abattement 80%)\"."
+      }
+    ],
+    "faqAr": [
+      {
+        "q": "كم تكلفة جمركة سيارة Dacia Sandero Stepway 1.0 TCe في الجزائر؟",
+        "a": "لسيارة عمرها سنتان وسعرها حوالي 13 900 يورو، تقدر الرسوم الجمركية بحوالي 518 780 دج (أي ما يعادل 51.9 مليون سنتيم) بفضل التخفيض المنصوص عليه في قانون المالية."
+      },
+      {
+        "q": "كم يبلغ سعر التكلفة الإجمالي بحساب سعر السكوار؟",
+        "a": "التكلفة الإجمالية (شراء اليورو من ساحة بورسعيد + الشحن 700 يورو + الجمركة عند الوصول إلى الميناء الجزائري) تبلغ حوالي 4 241 780 دج، أي ما يقارب 424.2 مليون سنتيم."
+      },
+      {
+        "q": "ما هي سعة المحرك ونسبة التخفيض الجمركي لهذه السيارة؟",
+        "a": "تبلغ سعة محرك هذا الموديل 999 سم³، ويندرج تحت فئة \"أقل من 1200 سم³ (تخفيض 80%)\"."
+      }
+    ]
+  },
+  {
+    "slug": "dacia-duster",
+    "marque": "Dacia",
+    "modele": "Duster 1.3 TCe",
+    "cylindree": 1332,
+    "categorie": "moyenne_cylindree",
+    "prix2024": 17200,
+    "prix2025": 18500,
+    "prix2026": 19800,
+    "isAdsensePriority": true,
+    "titleFr": "Dédouanement Dacia Duster 1.3 TCe (< 3 ans) en Algérie : Prix & Taxes 2024",
+    "titleAr": "جمركة Dacia Duster 1.3 TCe (أقل من 3 سنوات) في الجزائر: الأسعار والرسوم",
+    "descriptionFr": "Combien coûte le dédouanement d'une Dacia Duster 1.3 TCe en Algérie ? Droits de douane Article 110, décote 3 ans, coût Square et prix de revient total en Dinars.",
+    "descriptionAr": "كم تبلغ تكلفة جمركة Dacia Duster 1.3 TCe في الجزائر؟ الرسوم الجمركية وفق المادة 110، التخفيض، وسعر التكلفة الإجمالي بالدينار والسكوار.",
+    "calc": {
+      "prixEur": 17200,
+      "age": 2,
+      "tauxDecote": 20,
+      "valeurCifEur": 14460,
+      "valeurCifDA": 2226840,
+      "taxesDouaneDA": 872921,
+      "coutSquareDA": 4564500,
+      "prixRevientTotalDA": 5437421,
+      "prixRevientMillions": "543.7",
+      "taxesDouaneMillions": "87.3",
+      "coutSquareMillions": "456.4"
+    },
+    "calc1an": {
+      "prixEur": 17200,
+      "age": 1,
+      "tauxDecote": 10,
+      "valeurCifEur": 16180,
+      "valeurCifDA": 2491720,
+      "taxesDouaneDA": 976754,
+      "coutSquareDA": 4564500,
+      "prixRevientTotalDA": 5541254,
+      "prixRevientMillions": "554.1",
+      "taxesDouaneMillions": "97.7",
+      "coutSquareMillions": "456.4"
+    },
+    "calc2ans": {
+      "prixEur": 17200,
+      "age": 2,
+      "tauxDecote": 20,
+      "valeurCifEur": 14460,
+      "valeurCifDA": 2226840,
+      "taxesDouaneDA": 872921,
+      "coutSquareDA": 4564500,
+      "prixRevientTotalDA": 5437421,
+      "prixRevientMillions": "543.7",
+      "taxesDouaneMillions": "87.3",
+      "coutSquareMillions": "456.4"
+    },
+    "calc3ans": {
+      "prixEur": 17200,
+      "age": 3,
+      "tauxDecote": 30,
+      "valeurCifEur": 12740,
+      "valeurCifDA": 1961960,
+      "taxesDouaneDA": 769088,
+      "coutSquareDA": 4564500,
+      "prixRevientTotalDA": 5333588,
+      "prixRevientMillions": "533.4",
+      "taxesDouaneMillions": "76.9",
+      "coutSquareMillions": "456.4"
+    },
+    "comparatif": [
+      {
+        "ageFr": "1 an d'ancienneté (-10% décote)",
+        "ageAr": "سنة واحدة (تخفيض 10%)",
+        "valeurCifEur": 16180,
+        "taxesDouaneDA": 976754,
+        "coutSquareDA": 4564500,
+        "prixRevientTotalDA": 5541254,
+        "prixRevientMillions": "554.1"
+      },
+      {
+        "ageFr": "2 ans d'ancienneté (-20% décote)",
+        "ageAr": "سنتان (تخفيض 20%)",
+        "valeurCifEur": 14460,
+        "taxesDouaneDA": 872921,
+        "coutSquareDA": 4564500,
+        "prixRevientTotalDA": 5437421,
+        "prixRevientMillions": "543.7"
+      },
+      {
+        "ageFr": "3 ans d'ancienneté (-30% décote)",
+        "ageAr": "3 سنوات (تخفيض 30%)",
+        "valeurCifEur": 12740,
+        "taxesDouaneDA": 769088,
+        "coutSquareDA": 4564500,
+        "prixRevientTotalDA": 5333588,
+        "prixRevientMillions": "533.4"
+      }
+    ],
+    "faqFr": [
+      {
+        "q": "Combien coûte le dédouanement d'une Dacia Duster 1.3 TCe en Algérie ?",
+        "a": "Pour un véhicule de 2 ans acheté environ 17 200 €, les taxes et droits de douane s'élèvent à environ 872 921 DA (soit 87.3 Millions de centimes) grâce à l'abattement fiscal prévu par la Loi de Finances."
+      },
+      {
+        "q": "Quel est le prix de revient total au taux du Square ?",
+        "a": "Le coût global d'acquisition (achat des devises au cours du Square Port-Saïd + frais de transport 700 € + dédouanement au port algérien) revient à environ 5 437 421 DA, soit 543.7 Millions de centimes."
+      },
+      {
+        "q": "Quelle est la cylindrée fiscale et l'abattement douanier de ce modèle ?",
+        "a": "Ce modèle dispose d'un moteur de 1332 cm³. Il relève de la catégorie \"1201 à 1800 cm³ (Abattement 50%)\"."
+      }
+    ],
+    "faqAr": [
+      {
+        "q": "كم تكلفة جمركة سيارة Dacia Duster 1.3 TCe في الجزائر؟",
+        "a": "لسيارة عمرها سنتان وسعرها حوالي 17 200 يورو، تقدر الرسوم الجمركية بحوالي 872 921 دج (أي ما يعادل 87.3 مليون سنتيم) بفضل التخفيض المنصوص عليه في قانون المالية."
+      },
+      {
+        "q": "كم يبلغ سعر التكلفة الإجمالي بحساب سعر السكوار؟",
+        "a": "التكلفة الإجمالية (شراء اليورو من ساحة بورسعيد + الشحن 700 يورو + الجمركة عند الوصول إلى الميناء الجزائري) تبلغ حوالي 5 437 421 دج، أي ما يقارب 543.7 مليون سنتيم."
+      },
+      {
+        "q": "ما هي سعة المحرك ونسبة التخفيض الجمركي لهذه السيارة؟",
+        "a": "تبلغ سعة محرك هذا الموديل 1332 سم³، ويندرج تحت فئة \"1201 إلى 1800 سم³ (تخفيض 50%)\"."
+      }
+    ]
+  },
+  {
+    "slug": "volkswagen-golf-8",
+    "marque": "Volkswagen",
+    "modele": "Golf 8 1.5 eTSI",
+    "cylindree": 1498,
+    "categorie": "moyenne_cylindree",
+    "prix2024": 22500,
+    "prix2025": 24000,
+    "prix2026": 25500,
+    "isAdsensePriority": true,
+    "titleFr": "Dédouanement Volkswagen Golf 8 1.5 eTSI (< 3 ans) en Algérie : Prix & Taxes 2024",
+    "titleAr": "جمركة Volkswagen Golf 8 1.5 eTSI (أقل من 3 سنوات) في الجزائر: الأسعار والرسوم",
+    "descriptionFr": "Combien coûte le dédouanement d'une Volkswagen Golf 8 1.5 eTSI en Algérie ? Droits de douane Article 110, décote 3 ans, coût Square et prix de revient total en Dinars.",
+    "descriptionAr": "كم تبلغ تكلفة جمركة Volkswagen Golf 8 1.5 eTSI في الجزائر؟ الرسوم الجمركية وفق المادة 110، التخفيض، وسعر التكلفة الإجمالي بالدينار والسكوار.",
+    "calc": {
+      "prixEur": 22500,
+      "age": 2,
+      "tauxDecote": 20,
+      "valeurCifEur": 18700,
+      "valeurCifDA": 2879800,
+      "taxesDouaneDA": 1128882,
+      "coutSquareDA": 5916000,
+      "prixRevientTotalDA": 7044882,
+      "prixRevientMillions": "704.5",
+      "taxesDouaneMillions": "112.9",
+      "coutSquareMillions": "591.6"
+    },
+    "calc1an": {
+      "prixEur": 22500,
+      "age": 1,
+      "tauxDecote": 10,
+      "valeurCifEur": 20950,
+      "valeurCifDA": 3226300,
+      "taxesDouaneDA": 1264710,
+      "coutSquareDA": 5916000,
+      "prixRevientTotalDA": 7180710,
+      "prixRevientMillions": "718.1",
+      "taxesDouaneMillions": "126.5",
+      "coutSquareMillions": "591.6"
+    },
+    "calc2ans": {
+      "prixEur": 22500,
+      "age": 2,
+      "tauxDecote": 20,
+      "valeurCifEur": 18700,
+      "valeurCifDA": 2879800,
+      "taxesDouaneDA": 1128882,
+      "coutSquareDA": 5916000,
+      "prixRevientTotalDA": 7044882,
+      "prixRevientMillions": "704.5",
+      "taxesDouaneMillions": "112.9",
+      "coutSquareMillions": "591.6"
+    },
+    "calc3ans": {
+      "prixEur": 22500,
+      "age": 3,
+      "tauxDecote": 30,
+      "valeurCifEur": 16450,
+      "valeurCifDA": 2533300,
+      "taxesDouaneDA": 993054,
+      "coutSquareDA": 5916000,
+      "prixRevientTotalDA": 6909054,
+      "prixRevientMillions": "690.9",
+      "taxesDouaneMillions": "99.3",
+      "coutSquareMillions": "591.6"
+    },
+    "comparatif": [
+      {
+        "ageFr": "1 an d'ancienneté (-10% décote)",
+        "ageAr": "سنة واحدة (تخفيض 10%)",
+        "valeurCifEur": 20950,
+        "taxesDouaneDA": 1264710,
+        "coutSquareDA": 5916000,
+        "prixRevientTotalDA": 7180710,
+        "prixRevientMillions": "718.1"
+      },
+      {
+        "ageFr": "2 ans d'ancienneté (-20% décote)",
+        "ageAr": "سنتان (تخفيض 20%)",
+        "valeurCifEur": 18700,
+        "taxesDouaneDA": 1128882,
+        "coutSquareDA": 5916000,
+        "prixRevientTotalDA": 7044882,
+        "prixRevientMillions": "704.5"
+      },
+      {
+        "ageFr": "3 ans d'ancienneté (-30% décote)",
+        "ageAr": "3 سنوات (تخفيض 30%)",
+        "valeurCifEur": 16450,
+        "taxesDouaneDA": 993054,
+        "coutSquareDA": 5916000,
+        "prixRevientTotalDA": 6909054,
+        "prixRevientMillions": "690.9"
+      }
+    ],
+    "faqFr": [
+      {
+        "q": "Combien coûte le dédouanement d'une Volkswagen Golf 8 1.5 eTSI en Algérie ?",
+        "a": "Pour un véhicule de 2 ans acheté environ 22 500 €, les taxes et droits de douane s'élèvent à environ 1 128 882 DA (soit 112.9 Millions de centimes) grâce à l'abattement fiscal prévu par la Loi de Finances."
+      },
+      {
+        "q": "Quel est le prix de revient total au taux du Square ?",
+        "a": "Le coût global d'acquisition (achat des devises au cours du Square Port-Saïd + frais de transport 700 € + dédouanement au port algérien) revient à environ 7 044 882 DA, soit 704.5 Millions de centimes."
+      },
+      {
+        "q": "Quelle est la cylindrée fiscale et l'abattement douanier de ce modèle ?",
+        "a": "Ce modèle dispose d'un moteur de 1498 cm³. Il relève de la catégorie \"1201 à 1800 cm³ (Abattement 50%)\"."
+      }
+    ],
+    "faqAr": [
+      {
+        "q": "كم تكلفة جمركة سيارة Volkswagen Golf 8 1.5 eTSI في الجزائر؟",
+        "a": "لسيارة عمرها سنتان وسعرها حوالي 22 500 يورو، تقدر الرسوم الجمركية بحوالي 1 128 882 دج (أي ما يعادل 112.9 مليون سنتيم) بفضل التخفيض المنصوص عليه في قانون المالية."
+      },
+      {
+        "q": "كم يبلغ سعر التكلفة الإجمالي بحساب سعر السكوار؟",
+        "a": "التكلفة الإجمالية (شراء اليورو من ساحة بورسعيد + الشحن 700 يورو + الجمركة عند الوصول إلى الميناء الجزائري) تبلغ حوالي 7 044 882 دج، أي ما يقارب 704.5 مليون سنتيم."
+      },
+      {
+        "q": "ما هي سعة المحرك ونسبة التخفيض الجمركي لهذه السيارة؟",
+        "a": "تبلغ سعة محرك هذا الموديل 1498 سم³، ويندرج تحت فئة \"1201 إلى 1800 سم³ (تخفيض 50%)\"."
+      }
+    ]
+  },
+  {
+    "slug": "volkswagen-polo",
+    "marque": "Volkswagen",
+    "modele": "Polo 1.0 TSI",
+    "cylindree": 999,
+    "categorie": "electrique_ou_petit_essence",
+    "prix2024": 15800,
+    "prix2025": 16900,
+    "prix2026": 18000,
+    "isAdsensePriority": true,
+    "titleFr": "Dédouanement Volkswagen Polo 1.0 TSI (< 3 ans) en Algérie : Prix & Taxes 2024",
+    "titleAr": "جمركة Volkswagen Polo 1.0 TSI (أقل من 3 سنوات) في الجزائر: الأسعار والرسوم",
+    "descriptionFr": "Combien coûte le dédouanement d'une Volkswagen Polo 1.0 TSI en Algérie ? Droits de douane Article 110, décote 3 ans, coût Square et prix de revient total en Dinars.",
+    "descriptionAr": "كم تبلغ تكلفة جمركة Volkswagen Polo 1.0 TSI في الجزائر؟ الرسوم الجمركية وفق المادة 110، التخفيض، وسعر التكلفة الإجمالي بالدينار والسكوار.",
+    "calc": {
+      "prixEur": 15800,
+      "age": 2,
+      "tauxDecote": 20,
+      "valeurCifEur": 13340,
+      "valeurCifDA": 2054360,
+      "taxesDouaneDA": 585493,
+      "coutSquareDA": 4207500,
+      "prixRevientTotalDA": 4792993,
+      "prixRevientMillions": "479.3",
+      "taxesDouaneMillions": "58.5",
+      "coutSquareMillions": "420.8"
+    },
+    "calc1an": {
+      "prixEur": 15800,
+      "age": 1,
+      "tauxDecote": 10,
+      "valeurCifEur": 14920,
+      "valeurCifDA": 2297680,
+      "taxesDouaneDA": 654839,
+      "coutSquareDA": 4207500,
+      "prixRevientTotalDA": 4862339,
+      "prixRevientMillions": "486.2",
+      "taxesDouaneMillions": "65.5",
+      "coutSquareMillions": "420.8"
+    },
+    "calc2ans": {
+      "prixEur": 15800,
+      "age": 2,
+      "tauxDecote": 20,
+      "valeurCifEur": 13340,
+      "valeurCifDA": 2054360,
+      "taxesDouaneDA": 585493,
+      "coutSquareDA": 4207500,
+      "prixRevientTotalDA": 4792993,
+      "prixRevientMillions": "479.3",
+      "taxesDouaneMillions": "58.5",
+      "coutSquareMillions": "420.8"
+    },
+    "calc3ans": {
+      "prixEur": 15800,
+      "age": 3,
+      "tauxDecote": 30,
+      "valeurCifEur": 11760,
+      "valeurCifDA": 1811040,
+      "taxesDouaneDA": 516146,
+      "coutSquareDA": 4207500,
+      "prixRevientTotalDA": 4723646,
+      "prixRevientMillions": "472.4",
+      "taxesDouaneMillions": "51.6",
+      "coutSquareMillions": "420.8"
+    },
+    "comparatif": [
+      {
+        "ageFr": "1 an d'ancienneté (-10% décote)",
+        "ageAr": "سنة واحدة (تخفيض 10%)",
+        "valeurCifEur": 14920,
+        "taxesDouaneDA": 654839,
+        "coutSquareDA": 4207500,
+        "prixRevientTotalDA": 4862339,
+        "prixRevientMillions": "486.2"
+      },
+      {
+        "ageFr": "2 ans d'ancienneté (-20% décote)",
+        "ageAr": "سنتان (تخفيض 20%)",
+        "valeurCifEur": 13340,
+        "taxesDouaneDA": 585493,
+        "coutSquareDA": 4207500,
+        "prixRevientTotalDA": 4792993,
+        "prixRevientMillions": "479.3"
+      },
+      {
+        "ageFr": "3 ans d'ancienneté (-30% décote)",
+        "ageAr": "3 سنوات (تخفيض 30%)",
+        "valeurCifEur": 11760,
+        "taxesDouaneDA": 516146,
+        "coutSquareDA": 4207500,
+        "prixRevientTotalDA": 4723646,
+        "prixRevientMillions": "472.4"
+      }
+    ],
+    "faqFr": [
+      {
+        "q": "Combien coûte le dédouanement d'une Volkswagen Polo 1.0 TSI en Algérie ?",
+        "a": "Pour un véhicule de 2 ans acheté environ 15 800 €, les taxes et droits de douane s'élèvent à environ 585 493 DA (soit 58.5 Millions de centimes) grâce à l'abattement fiscal prévu par la Loi de Finances."
+      },
+      {
+        "q": "Quel est le prix de revient total au taux du Square ?",
+        "a": "Le coût global d'acquisition (achat des devises au cours du Square Port-Saïd + frais de transport 700 € + dédouanement au port algérien) revient à environ 4 792 993 DA, soit 479.3 Millions de centimes."
+      },
+      {
+        "q": "Quelle est la cylindrée fiscale et l'abattement douanier de ce modèle ?",
+        "a": "Ce modèle dispose d'un moteur de 999 cm³. Il relève de la catégorie \"Moins de 1200 cm³ (Abattement 80%)\"."
+      }
+    ],
+    "faqAr": [
+      {
+        "q": "كم تكلفة جمركة سيارة Volkswagen Polo 1.0 TSI في الجزائر؟",
+        "a": "لسيارة عمرها سنتان وسعرها حوالي 15 800 يورو، تقدر الرسوم الجمركية بحوالي 585 493 دج (أي ما يعادل 58.5 مليون سنتيم) بفضل التخفيض المنصوص عليه في قانون المالية."
+      },
+      {
+        "q": "كم يبلغ سعر التكلفة الإجمالي بحساب سعر السكوار؟",
+        "a": "التكلفة الإجمالية (شراء اليورو من ساحة بورسعيد + الشحن 700 يورو + الجمركة عند الوصول إلى الميناء الجزائري) تبلغ حوالي 4 792 993 دج، أي ما يقارب 479.3 مليون سنتيم."
+      },
+      {
+        "q": "ما هي سعة المحرك ونسبة التخفيض الجمركي لهذه السيارة؟",
+        "a": "تبلغ سعة محرك هذا الموديل 999 سم³، ويندرج تحت فئة \"أقل من 1200 سم³ (تخفيض 80%)\"."
+      }
+    ]
+  },
+  {
+    "slug": "seat-ibiza",
+    "marque": "Seat",
+    "modele": "Ibiza 1.0 TSI",
+    "cylindree": 999,
+    "categorie": "electrique_ou_petit_essence",
+    "prix2024": 14900,
+    "prix2025": 15900,
+    "prix2026": 17100,
+    "isAdsensePriority": true,
+    "titleFr": "Dédouanement Seat Ibiza 1.0 TSI (< 3 ans) en Algérie : Prix & Taxes 2024",
+    "titleAr": "جمركة Seat Ibiza 1.0 TSI (أقل من 3 سنوات) في الجزائر: الأسعار والرسوم",
+    "descriptionFr": "Combien coûte le dédouanement d'une Seat Ibiza 1.0 TSI en Algérie ? Droits de douane Article 110, décote 3 ans, coût Square et prix de revient total en Dinars.",
+    "descriptionAr": "كم تبلغ تكلفة جمركة Seat Ibiza 1.0 TSI في الجزائر؟ الرسوم الجمركية وفق المادة 110، التخفيض، وسعر التكلفة الإجمالي بالدينار والسكوار.",
+    "calc": {
+      "prixEur": 14900,
+      "age": 2,
+      "tauxDecote": 20,
+      "valeurCifEur": 12620,
+      "valeurCifDA": 1943480,
+      "taxesDouaneDA": 553892,
+      "coutSquareDA": 3978000,
+      "prixRevientTotalDA": 4531892,
+      "prixRevientMillions": "453.2",
+      "taxesDouaneMillions": "55.4",
+      "coutSquareMillions": "397.8"
+    },
+    "calc1an": {
+      "prixEur": 14900,
+      "age": 1,
+      "tauxDecote": 10,
+      "valeurCifEur": 14110,
+      "valeurCifDA": 2172940,
+      "taxesDouaneDA": 619288,
+      "coutSquareDA": 3978000,
+      "prixRevientTotalDA": 4597288,
+      "prixRevientMillions": "459.7",
+      "taxesDouaneMillions": "61.9",
+      "coutSquareMillions": "397.8"
+    },
+    "calc2ans": {
+      "prixEur": 14900,
+      "age": 2,
+      "tauxDecote": 20,
+      "valeurCifEur": 12620,
+      "valeurCifDA": 1943480,
+      "taxesDouaneDA": 553892,
+      "coutSquareDA": 3978000,
+      "prixRevientTotalDA": 4531892,
+      "prixRevientMillions": "453.2",
+      "taxesDouaneMillions": "55.4",
+      "coutSquareMillions": "397.8"
+    },
+    "calc3ans": {
+      "prixEur": 14900,
+      "age": 3,
+      "tauxDecote": 30,
+      "valeurCifEur": 11130,
+      "valeurCifDA": 1714020,
+      "taxesDouaneDA": 488496,
+      "coutSquareDA": 3978000,
+      "prixRevientTotalDA": 4466496,
+      "prixRevientMillions": "446.6",
+      "taxesDouaneMillions": "48.8",
+      "coutSquareMillions": "397.8"
+    },
+    "comparatif": [
+      {
+        "ageFr": "1 an d'ancienneté (-10% décote)",
+        "ageAr": "سنة واحدة (تخفيض 10%)",
+        "valeurCifEur": 14110,
+        "taxesDouaneDA": 619288,
+        "coutSquareDA": 3978000,
+        "prixRevientTotalDA": 4597288,
+        "prixRevientMillions": "459.7"
+      },
+      {
+        "ageFr": "2 ans d'ancienneté (-20% décote)",
+        "ageAr": "سنتان (تخفيض 20%)",
+        "valeurCifEur": 12620,
+        "taxesDouaneDA": 553892,
+        "coutSquareDA": 3978000,
+        "prixRevientTotalDA": 4531892,
+        "prixRevientMillions": "453.2"
+      },
+      {
+        "ageFr": "3 ans d'ancienneté (-30% décote)",
+        "ageAr": "3 سنوات (تخفيض 30%)",
+        "valeurCifEur": 11130,
+        "taxesDouaneDA": 488496,
+        "coutSquareDA": 3978000,
+        "prixRevientTotalDA": 4466496,
+        "prixRevientMillions": "446.6"
+      }
+    ],
+    "faqFr": [
+      {
+        "q": "Combien coûte le dédouanement d'une Seat Ibiza 1.0 TSI en Algérie ?",
+        "a": "Pour un véhicule de 2 ans acheté environ 14 900 €, les taxes et droits de douane s'élèvent à environ 553 892 DA (soit 55.4 Millions de centimes) grâce à l'abattement fiscal prévu par la Loi de Finances."
+      },
+      {
+        "q": "Quel est le prix de revient total au taux du Square ?",
+        "a": "Le coût global d'acquisition (achat des devises au cours du Square Port-Saïd + frais de transport 700 € + dédouanement au port algérien) revient à environ 4 531 892 DA, soit 453.2 Millions de centimes."
+      },
+      {
+        "q": "Quelle est la cylindrée fiscale et l'abattement douanier de ce modèle ?",
+        "a": "Ce modèle dispose d'un moteur de 999 cm³. Il relève de la catégorie \"Moins de 1200 cm³ (Abattement 80%)\"."
+      }
+    ],
+    "faqAr": [
+      {
+        "q": "كم تكلفة جمركة سيارة Seat Ibiza 1.0 TSI في الجزائر؟",
+        "a": "لسيارة عمرها سنتان وسعرها حوالي 14 900 يورو، تقدر الرسوم الجمركية بحوالي 553 892 دج (أي ما يعادل 55.4 مليون سنتيم) بفضل التخفيض المنصوص عليه في قانون المالية."
+      },
+      {
+        "q": "كم يبلغ سعر التكلفة الإجمالي بحساب سعر السكوار؟",
+        "a": "التكلفة الإجمالية (شراء اليورو من ساحة بورسعيد + الشحن 700 يورو + الجمركة عند الوصول إلى الميناء الجزائري) تبلغ حوالي 4 531 892 دج، أي ما يقارب 453.2 مليون سنتيم."
+      },
+      {
+        "q": "ما هي سعة المحرك ونسبة التخفيض الجمركي لهذه السيارة؟",
+        "a": "تبلغ سعة محرك هذا الموديل 999 سم³، ويندرج تحت فئة \"أقل من 1200 سم³ (تخفيض 80%)\"."
+      }
+    ]
+  },
+  {
+    "slug": "skoda-fabia",
+    "marque": "Skoda",
+    "modele": "Fabia 1.0 TSI",
+    "cylindree": 999,
+    "categorie": "electrique_ou_petit_essence",
+    "prix2024": 14200,
+    "prix2025": 15200,
+    "prix2026": 16400,
+    "isAdsensePriority": false,
+    "titleFr": "Dédouanement Skoda Fabia 1.0 TSI (< 3 ans) en Algérie : Prix & Taxes 2024",
+    "titleAr": "جمركة Skoda Fabia 1.0 TSI (أقل من 3 سنوات) في الجزائر: الأسعار والرسوم",
+    "descriptionFr": "Combien coûte le dédouanement d'une Skoda Fabia 1.0 TSI en Algérie ? Droits de douane Article 110, décote 3 ans, coût Square et prix de revient total en Dinars.",
+    "descriptionAr": "كم تبلغ تكلفة جمركة Skoda Fabia 1.0 TSI في الجزائر؟ الرسوم الجمركية وفق المادة 110، التخفيض، وسعر التكلفة الإجمالي بالدينار والسكوار.",
+    "calc": {
+      "prixEur": 14200,
+      "age": 2,
+      "tauxDecote": 20,
+      "valeurCifEur": 12060,
+      "valeurCifDA": 1857240,
+      "taxesDouaneDA": 529313,
+      "coutSquareDA": 3799500,
+      "prixRevientTotalDA": 4328813,
+      "prixRevientMillions": "432.9",
+      "taxesDouaneMillions": "52.9",
+      "coutSquareMillions": "379.9"
+    },
+    "calc1an": {
+      "prixEur": 14200,
+      "age": 1,
+      "tauxDecote": 10,
+      "valeurCifEur": 13480,
+      "valeurCifDA": 2075920,
+      "taxesDouaneDA": 591637,
+      "coutSquareDA": 3799500,
+      "prixRevientTotalDA": 4391137,
+      "prixRevientMillions": "439.1",
+      "taxesDouaneMillions": "59.2",
+      "coutSquareMillions": "379.9"
+    },
+    "calc2ans": {
+      "prixEur": 14200,
+      "age": 2,
+      "tauxDecote": 20,
+      "valeurCifEur": 12060,
+      "valeurCifDA": 1857240,
+      "taxesDouaneDA": 529313,
+      "coutSquareDA": 3799500,
+      "prixRevientTotalDA": 4328813,
+      "prixRevientMillions": "432.9",
+      "taxesDouaneMillions": "52.9",
+      "coutSquareMillions": "379.9"
+    },
+    "calc3ans": {
+      "prixEur": 14200,
+      "age": 3,
+      "tauxDecote": 30,
+      "valeurCifEur": 10640,
+      "valeurCifDA": 1638560,
+      "taxesDouaneDA": 466990,
+      "coutSquareDA": 3799500,
+      "prixRevientTotalDA": 4266490,
+      "prixRevientMillions": "426.6",
+      "taxesDouaneMillions": "46.7",
+      "coutSquareMillions": "379.9"
+    },
+    "comparatif": [
+      {
+        "ageFr": "1 an d'ancienneté (-10% décote)",
+        "ageAr": "سنة واحدة (تخفيض 10%)",
+        "valeurCifEur": 13480,
+        "taxesDouaneDA": 591637,
+        "coutSquareDA": 3799500,
+        "prixRevientTotalDA": 4391137,
+        "prixRevientMillions": "439.1"
+      },
+      {
+        "ageFr": "2 ans d'ancienneté (-20% décote)",
+        "ageAr": "سنتان (تخفيض 20%)",
+        "valeurCifEur": 12060,
+        "taxesDouaneDA": 529313,
+        "coutSquareDA": 3799500,
+        "prixRevientTotalDA": 4328813,
+        "prixRevientMillions": "432.9"
+      },
+      {
+        "ageFr": "3 ans d'ancienneté (-30% décote)",
+        "ageAr": "3 سنوات (تخفيض 30%)",
+        "valeurCifEur": 10640,
+        "taxesDouaneDA": 466990,
+        "coutSquareDA": 3799500,
+        "prixRevientTotalDA": 4266490,
+        "prixRevientMillions": "426.6"
+      }
+    ],
+    "faqFr": [
+      {
+        "q": "Combien coûte le dédouanement d'une Skoda Fabia 1.0 TSI en Algérie ?",
+        "a": "Pour un véhicule de 2 ans acheté environ 14 200 €, les taxes et droits de douane s'élèvent à environ 529 313 DA (soit 52.9 Millions de centimes) grâce à l'abattement fiscal prévu par la Loi de Finances."
+      },
+      {
+        "q": "Quel est le prix de revient total au taux du Square ?",
+        "a": "Le coût global d'acquisition (achat des devises au cours du Square Port-Saïd + frais de transport 700 € + dédouanement au port algérien) revient à environ 4 328 813 DA, soit 432.9 Millions de centimes."
+      },
+      {
+        "q": "Quelle est la cylindrée fiscale et l'abattement douanier de ce modèle ?",
+        "a": "Ce modèle dispose d'un moteur de 999 cm³. Il relève de la catégorie \"Moins de 1200 cm³ (Abattement 80%)\"."
+      }
+    ],
+    "faqAr": [
+      {
+        "q": "كم تكلفة جمركة سيارة Skoda Fabia 1.0 TSI في الجزائر؟",
+        "a": "لسيارة عمرها سنتان وسعرها حوالي 14 200 يورو، تقدر الرسوم الجمركية بحوالي 529 313 دج (أي ما يعادل 52.9 مليون سنتيم) بفضل التخفيض المنصوص عليه في قانون المالية."
+      },
+      {
+        "q": "كم يبلغ سعر التكلفة الإجمالي بحساب سعر السكوار؟",
+        "a": "التكلفة الإجمالية (شراء اليورو من ساحة بورسعيد + الشحن 700 يورو + الجمركة عند الوصول إلى الميناء الجزائري) تبلغ حوالي 4 328 813 دج، أي ما يقارب 432.9 مليون سنتيم."
+      },
+      {
+        "q": "ما هي سعة المحرك ونسبة التخفيض الجمركي لهذه السيارة؟",
+        "a": "تبلغ سعة محرك هذا الموديل 999 سم³، ويندرج تحت فئة \"أقل من 1200 سم³ (تخفيض 80%)\"."
+      }
+    ]
+  },
+  {
+    "slug": "toyota-yaris",
+    "marque": "Toyota",
+    "modele": "Yaris 1.5 Hybrid",
+    "cylindree": 1490,
+    "categorie": "moyenne_cylindree",
+    "prix2024": 16500,
+    "prix2025": 17800,
+    "prix2026": 19000,
+    "isAdsensePriority": true,
+    "titleFr": "Dédouanement Toyota Yaris 1.5 Hybrid (< 3 ans) en Algérie : Prix & Taxes 2024",
+    "titleAr": "جمركة Toyota Yaris 1.5 Hybrid (أقل من 3 سنوات) في الجزائر: الأسعار والرسوم",
+    "descriptionFr": "Combien coûte le dédouanement d'une Toyota Yaris 1.5 Hybrid en Algérie ? Droits de douane Article 110, décote 3 ans, coût Square et prix de revient total en Dinars.",
+    "descriptionAr": "كم تبلغ تكلفة جمركة Toyota Yaris 1.5 Hybrid في الجزائر؟ الرسوم الجمركية وفق المادة 110، التخفيض، وسعر التكلفة الإجمالي بالدينار والسكوار.",
+    "calc": {
+      "prixEur": 16500,
+      "age": 2,
+      "tauxDecote": 20,
+      "valeurCifEur": 13900,
+      "valeurCifDA": 2140600,
+      "taxesDouaneDA": 839115,
+      "coutSquareDA": 4386000,
+      "prixRevientTotalDA": 5225115,
+      "prixRevientMillions": "522.5",
+      "taxesDouaneMillions": "83.9",
+      "coutSquareMillions": "438.6"
+    },
+    "calc1an": {
+      "prixEur": 16500,
+      "age": 1,
+      "tauxDecote": 10,
+      "valeurCifEur": 15550,
+      "valeurCifDA": 2394700,
+      "taxesDouaneDA": 938722,
+      "coutSquareDA": 4386000,
+      "prixRevientTotalDA": 5324722,
+      "prixRevientMillions": "532.5",
+      "taxesDouaneMillions": "93.9",
+      "coutSquareMillions": "438.6"
+    },
+    "calc2ans": {
+      "prixEur": 16500,
+      "age": 2,
+      "tauxDecote": 20,
+      "valeurCifEur": 13900,
+      "valeurCifDA": 2140600,
+      "taxesDouaneDA": 839115,
+      "coutSquareDA": 4386000,
+      "prixRevientTotalDA": 5225115,
+      "prixRevientMillions": "522.5",
+      "taxesDouaneMillions": "83.9",
+      "coutSquareMillions": "438.6"
+    },
+    "calc3ans": {
+      "prixEur": 16500,
+      "age": 3,
+      "tauxDecote": 30,
+      "valeurCifEur": 12250,
+      "valeurCifDA": 1886500,
+      "taxesDouaneDA": 739508,
+      "coutSquareDA": 4386000,
+      "prixRevientTotalDA": 5125508,
+      "prixRevientMillions": "512.6",
+      "taxesDouaneMillions": "74.0",
+      "coutSquareMillions": "438.6"
+    },
+    "comparatif": [
+      {
+        "ageFr": "1 an d'ancienneté (-10% décote)",
+        "ageAr": "سنة واحدة (تخفيض 10%)",
+        "valeurCifEur": 15550,
+        "taxesDouaneDA": 938722,
+        "coutSquareDA": 4386000,
+        "prixRevientTotalDA": 5324722,
+        "prixRevientMillions": "532.5"
+      },
+      {
+        "ageFr": "2 ans d'ancienneté (-20% décote)",
+        "ageAr": "سنتان (تخفيض 20%)",
+        "valeurCifEur": 13900,
+        "taxesDouaneDA": 839115,
+        "coutSquareDA": 4386000,
+        "prixRevientTotalDA": 5225115,
+        "prixRevientMillions": "522.5"
+      },
+      {
+        "ageFr": "3 ans d'ancienneté (-30% décote)",
+        "ageAr": "3 سنوات (تخفيض 30%)",
+        "valeurCifEur": 12250,
+        "taxesDouaneDA": 739508,
+        "coutSquareDA": 4386000,
+        "prixRevientTotalDA": 5125508,
+        "prixRevientMillions": "512.6"
+      }
+    ],
+    "faqFr": [
+      {
+        "q": "Combien coûte le dédouanement d'une Toyota Yaris 1.5 Hybrid en Algérie ?",
+        "a": "Pour un véhicule de 2 ans acheté environ 16 500 €, les taxes et droits de douane s'élèvent à environ 839 115 DA (soit 83.9 Millions de centimes) grâce à l'abattement fiscal prévu par la Loi de Finances."
+      },
+      {
+        "q": "Quel est le prix de revient total au taux du Square ?",
+        "a": "Le coût global d'acquisition (achat des devises au cours du Square Port-Saïd + frais de transport 700 € + dédouanement au port algérien) revient à environ 5 225 115 DA, soit 522.5 Millions de centimes."
+      },
+      {
+        "q": "Quelle est la cylindrée fiscale et l'abattement douanier de ce modèle ?",
+        "a": "Ce modèle dispose d'un moteur de 1490 cm³. Il relève de la catégorie \"1201 à 1800 cm³ (Abattement 50%)\"."
+      }
+    ],
+    "faqAr": [
+      {
+        "q": "كم تكلفة جمركة سيارة Toyota Yaris 1.5 Hybrid في الجزائر؟",
+        "a": "لسيارة عمرها سنتان وسعرها حوالي 16 500 يورو، تقدر الرسوم الجمركية بحوالي 839 115 دج (أي ما يعادل 83.9 مليون سنتيم) بفضل التخفيض المنصوص عليه في قانون المالية."
+      },
+      {
+        "q": "كم يبلغ سعر التكلفة الإجمالي بحساب سعر السكوار؟",
+        "a": "التكلفة الإجمالية (شراء اليورو من ساحة بورسعيد + الشحن 700 يورو + الجمركة عند الوصول إلى الميناء الجزائري) تبلغ حوالي 5 225 115 دج، أي ما يقارب 522.5 مليون سنتيم."
+      },
+      {
+        "q": "ما هي سعة المحرك ونسبة التخفيض الجمركي لهذه السيارة؟",
+        "a": "تبلغ سعة محرك هذا الموديل 1490 سم³، ويندرج تحت فئة \"1201 إلى 1800 سم³ (تخفيض 50%)\"."
+      }
+    ]
+  },
+  {
+    "slug": "kia-picanto",
+    "marque": "Kia",
+    "modele": "Picanto 1.0 MPI",
+    "cylindree": 998,
+    "categorie": "electrique_ou_petit_essence",
+    "prix2024": 11500,
+    "prix2025": 12400,
+    "prix2026": 13300,
+    "isAdsensePriority": false,
+    "titleFr": "Dédouanement Kia Picanto 1.0 MPI (< 3 ans) en Algérie : Prix & Taxes 2024",
+    "titleAr": "جمركة Kia Picanto 1.0 MPI (أقل من 3 سنوات) في الجزائر: الأسعار والرسوم",
+    "descriptionFr": "Combien coûte le dédouanement d'une Kia Picanto 1.0 MPI en Algérie ? Droits de douane Article 110, décote 3 ans, coût Square et prix de revient total en Dinars.",
+    "descriptionAr": "كم تبلغ تكلفة جمركة Kia Picanto 1.0 MPI في الجزائر؟ الرسوم الجمركية وفق المادة 110، التخفيض، وسعر التكلفة الإجمالي بالدينار والسكوار.",
+    "calc": {
+      "prixEur": 11500,
+      "age": 2,
+      "tauxDecote": 20,
+      "valeurCifEur": 9900,
+      "valeurCifDA": 1524600,
+      "taxesDouaneDA": 434511,
+      "coutSquareDA": 3111000,
+      "prixRevientTotalDA": 3545511,
+      "prixRevientMillions": "354.6",
+      "taxesDouaneMillions": "43.5",
+      "coutSquareMillions": "311.1"
+    },
+    "calc1an": {
+      "prixEur": 11500,
+      "age": 1,
+      "tauxDecote": 10,
+      "valeurCifEur": 11050,
+      "valeurCifDA": 1701700,
+      "taxesDouaneDA": 484984,
+      "coutSquareDA": 3111000,
+      "prixRevientTotalDA": 3595984,
+      "prixRevientMillions": "359.6",
+      "taxesDouaneMillions": "48.5",
+      "coutSquareMillions": "311.1"
+    },
+    "calc2ans": {
+      "prixEur": 11500,
+      "age": 2,
+      "tauxDecote": 20,
+      "valeurCifEur": 9900,
+      "valeurCifDA": 1524600,
+      "taxesDouaneDA": 434511,
+      "coutSquareDA": 3111000,
+      "prixRevientTotalDA": 3545511,
+      "prixRevientMillions": "354.6",
+      "taxesDouaneMillions": "43.5",
+      "coutSquareMillions": "311.1"
+    },
+    "calc3ans": {
+      "prixEur": 11500,
+      "age": 3,
+      "tauxDecote": 30,
+      "valeurCifEur": 8750,
+      "valeurCifDA": 1347500,
+      "taxesDouaneDA": 384037,
+      "coutSquareDA": 3111000,
+      "prixRevientTotalDA": 3495037,
+      "prixRevientMillions": "349.5",
+      "taxesDouaneMillions": "38.4",
+      "coutSquareMillions": "311.1"
+    },
+    "comparatif": [
+      {
+        "ageFr": "1 an d'ancienneté (-10% décote)",
+        "ageAr": "سنة واحدة (تخفيض 10%)",
+        "valeurCifEur": 11050,
+        "taxesDouaneDA": 484984,
+        "coutSquareDA": 3111000,
+        "prixRevientTotalDA": 3595984,
+        "prixRevientMillions": "359.6"
+      },
+      {
+        "ageFr": "2 ans d'ancienneté (-20% décote)",
+        "ageAr": "سنتان (تخفيض 20%)",
+        "valeurCifEur": 9900,
+        "taxesDouaneDA": 434511,
+        "coutSquareDA": 3111000,
+        "prixRevientTotalDA": 3545511,
+        "prixRevientMillions": "354.6"
+      },
+      {
+        "ageFr": "3 ans d'ancienneté (-30% décote)",
+        "ageAr": "3 سنوات (تخفيض 30%)",
+        "valeurCifEur": 8750,
+        "taxesDouaneDA": 384037,
+        "coutSquareDA": 3111000,
+        "prixRevientTotalDA": 3495037,
+        "prixRevientMillions": "349.5"
+      }
+    ],
+    "faqFr": [
+      {
+        "q": "Combien coûte le dédouanement d'une Kia Picanto 1.0 MPI en Algérie ?",
+        "a": "Pour un véhicule de 2 ans acheté environ 11 500 €, les taxes et droits de douane s'élèvent à environ 434 511 DA (soit 43.5 Millions de centimes) grâce à l'abattement fiscal prévu par la Loi de Finances."
+      },
+      {
+        "q": "Quel est le prix de revient total au taux du Square ?",
+        "a": "Le coût global d'acquisition (achat des devises au cours du Square Port-Saïd + frais de transport 700 € + dédouanement au port algérien) revient à environ 3 545 511 DA, soit 354.6 Millions de centimes."
+      },
+      {
+        "q": "Quelle est la cylindrée fiscale et l'abattement douanier de ce modèle ?",
+        "a": "Ce modèle dispose d'un moteur de 998 cm³. Il relève de la catégorie \"Moins de 1200 cm³ (Abattement 80%)\"."
+      }
+    ],
+    "faqAr": [
+      {
+        "q": "كم تكلفة جمركة سيارة Kia Picanto 1.0 MPI في الجزائر؟",
+        "a": "لسيارة عمرها سنتان وسعرها حوالي 11 500 يورو، تقدر الرسوم الجمركية بحوالي 434 511 دج (أي ما يعادل 43.5 مليون سنتيم) بفضل التخفيض المنصوص عليه في قانون المالية."
+      },
+      {
+        "q": "كم يبلغ سعر التكلفة الإجمالي بحساب سعر السكوار؟",
+        "a": "التكلفة الإجمالية (شراء اليورو من ساحة بورسعيد + الشحن 700 يورو + الجمركة عند الوصول إلى الميناء الجزائري) تبلغ حوالي 3 545 511 دج، أي ما يقارب 354.6 مليون سنتيم."
+      },
+      {
+        "q": "ما هي سعة المحرك ونسبة التخفيض الجمركي لهذه السيارة؟",
+        "a": "تبلغ سعة محرك هذا الموديل 998 سم³، ويندرج تحت فئة \"أقل من 1200 سم³ (تخفيض 80%)\"."
+      }
+    ]
+  },
+  {
+    "slug": "hyundai-i10",
+    "marque": "Hyundai",
+    "modele": "i10 1.0 MPi",
+    "cylindree": 998,
+    "categorie": "electrique_ou_petit_essence",
+    "prix2024": 11800,
+    "prix2025": 12700,
+    "prix2026": 13600,
+    "isAdsensePriority": false,
+    "titleFr": "Dédouanement Hyundai i10 1.0 MPi (< 3 ans) en Algérie : Prix & Taxes 2024",
+    "titleAr": "جمركة Hyundai i10 1.0 MPi (أقل من 3 سنوات) في الجزائر: الأسعار والرسوم",
+    "descriptionFr": "Combien coûte le dédouanement d'une Hyundai i10 1.0 MPi en Algérie ? Droits de douane Article 110, décote 3 ans, coût Square et prix de revient total en Dinars.",
+    "descriptionAr": "كم تبلغ تكلفة جمركة Hyundai i10 1.0 MPi في الجزائر؟ الرسوم الجمركية وفق المادة 110، التخفيض، وسعر التكلفة الإجمالي بالدينار والسكوار.",
+    "calc": {
+      "prixEur": 11800,
+      "age": 2,
+      "tauxDecote": 20,
+      "valeurCifEur": 10140,
+      "valeurCifDA": 1561560,
+      "taxesDouaneDA": 445045,
+      "coutSquareDA": 3187500,
+      "prixRevientTotalDA": 3632545,
+      "prixRevientMillions": "363.3",
+      "taxesDouaneMillions": "44.5",
+      "coutSquareMillions": "318.8"
+    },
+    "calc1an": {
+      "prixEur": 11800,
+      "age": 1,
+      "tauxDecote": 10,
+      "valeurCifEur": 11320,
+      "valeurCifDA": 1743280,
+      "taxesDouaneDA": 496835,
+      "coutSquareDA": 3187500,
+      "prixRevientTotalDA": 3684335,
+      "prixRevientMillions": "368.4",
+      "taxesDouaneMillions": "49.7",
+      "coutSquareMillions": "318.8"
+    },
+    "calc2ans": {
+      "prixEur": 11800,
+      "age": 2,
+      "tauxDecote": 20,
+      "valeurCifEur": 10140,
+      "valeurCifDA": 1561560,
+      "taxesDouaneDA": 445045,
+      "coutSquareDA": 3187500,
+      "prixRevientTotalDA": 3632545,
+      "prixRevientMillions": "363.3",
+      "taxesDouaneMillions": "44.5",
+      "coutSquareMillions": "318.8"
+    },
+    "calc3ans": {
+      "prixEur": 11800,
+      "age": 3,
+      "tauxDecote": 30,
+      "valeurCifEur": 8960,
+      "valeurCifDA": 1379840,
+      "taxesDouaneDA": 393254,
+      "coutSquareDA": 3187500,
+      "prixRevientTotalDA": 3580754,
+      "prixRevientMillions": "358.1",
+      "taxesDouaneMillions": "39.3",
+      "coutSquareMillions": "318.8"
+    },
+    "comparatif": [
+      {
+        "ageFr": "1 an d'ancienneté (-10% décote)",
+        "ageAr": "سنة واحدة (تخفيض 10%)",
+        "valeurCifEur": 11320,
+        "taxesDouaneDA": 496835,
+        "coutSquareDA": 3187500,
+        "prixRevientTotalDA": 3684335,
+        "prixRevientMillions": "368.4"
+      },
+      {
+        "ageFr": "2 ans d'ancienneté (-20% décote)",
+        "ageAr": "سنتان (تخفيض 20%)",
+        "valeurCifEur": 10140,
+        "taxesDouaneDA": 445045,
+        "coutSquareDA": 3187500,
+        "prixRevientTotalDA": 3632545,
+        "prixRevientMillions": "363.3"
+      },
+      {
+        "ageFr": "3 ans d'ancienneté (-30% décote)",
+        "ageAr": "3 سنوات (تخفيض 30%)",
+        "valeurCifEur": 8960,
+        "taxesDouaneDA": 393254,
+        "coutSquareDA": 3187500,
+        "prixRevientTotalDA": 3580754,
+        "prixRevientMillions": "358.1"
+      }
+    ],
+    "faqFr": [
+      {
+        "q": "Combien coûte le dédouanement d'une Hyundai i10 1.0 MPi en Algérie ?",
+        "a": "Pour un véhicule de 2 ans acheté environ 11 800 €, les taxes et droits de douane s'élèvent à environ 445 045 DA (soit 44.5 Millions de centimes) grâce à l'abattement fiscal prévu par la Loi de Finances."
+      },
+      {
+        "q": "Quel est le prix de revient total au taux du Square ?",
+        "a": "Le coût global d'acquisition (achat des devises au cours du Square Port-Saïd + frais de transport 700 € + dédouanement au port algérien) revient à environ 3 632 545 DA, soit 363.3 Millions de centimes."
+      },
+      {
+        "q": "Quelle est la cylindrée fiscale et l'abattement douanier de ce modèle ?",
+        "a": "Ce modèle dispose d'un moteur de 998 cm³. Il relève de la catégorie \"Moins de 1200 cm³ (Abattement 80%)\"."
+      }
+    ],
+    "faqAr": [
+      {
+        "q": "كم تكلفة جمركة سيارة Hyundai i10 1.0 MPi في الجزائر؟",
+        "a": "لسيارة عمرها سنتان وسعرها حوالي 11 800 يورو، تقدر الرسوم الجمركية بحوالي 445 045 دج (أي ما يعادل 44.5 مليون سنتيم) بفضل التخفيض المنصوص عليه في قانون المالية."
+      },
+      {
+        "q": "كم يبلغ سعر التكلفة الإجمالي بحساب سعر السكوار؟",
+        "a": "التكلفة الإجمالية (شراء اليورو من ساحة بورسعيد + الشحن 700 يورو + الجمركة عند الوصول إلى الميناء الجزائري) تبلغ حوالي 3 632 545 دج، أي ما يقارب 363.3 مليون سنتيم."
+      },
+      {
+        "q": "ما هي سعة المحرك ونسبة التخفيض الجمركي لهذه السيارة؟",
+        "a": "تبلغ سعة محرك هذا الموديل 998 سم³، ويندرج تحت فئة \"أقل من 1200 سم³ (تخفيض 80%)\"."
+      }
+    ]
+  },
+  {
+    "slug": "hyundai-tucson",
+    "marque": "Hyundai",
+    "modele": "Tucson 1.6 T-GDI",
+    "cylindree": 1598,
+    "categorie": "moyenne_cylindree",
+    "prix2024": 25900,
+    "prix2025": 27800,
+    "prix2026": 29500,
+    "isAdsensePriority": true,
+    "titleFr": "Dédouanement Hyundai Tucson 1.6 T-GDI (< 3 ans) en Algérie : Prix & Taxes 2024",
+    "titleAr": "جمركة Hyundai Tucson 1.6 T-GDI (أقل من 3 سنوات) في الجزائر: الأسعار والرسوم",
+    "descriptionFr": "Combien coûte le dédouanement d'une Hyundai Tucson 1.6 T-GDI en Algérie ? Droits de douane Article 110, décote 3 ans, coût Square et prix de revient total en Dinars.",
+    "descriptionAr": "كم تبلغ تكلفة جمركة Hyundai Tucson 1.6 T-GDI في الجزائر؟ الرسوم الجمركية وفق المادة 110، التخفيض، وسعر التكلفة الإجمالي بالدينار والسكوار.",
+    "calc": {
+      "prixEur": 25900,
+      "age": 2,
+      "tauxDecote": 20,
+      "valeurCifEur": 21420,
+      "valeurCifDA": 3298680,
+      "taxesDouaneDA": 1293083,
+      "coutSquareDA": 6783000,
+      "prixRevientTotalDA": 8076083,
+      "prixRevientMillions": "807.6",
+      "taxesDouaneMillions": "129.3",
+      "coutSquareMillions": "678.3"
+    },
+    "calc1an": {
+      "prixEur": 25900,
+      "age": 1,
+      "tauxDecote": 10,
+      "valeurCifEur": 24010,
+      "valeurCifDA": 3697540,
+      "taxesDouaneDA": 1449436,
+      "coutSquareDA": 6783000,
+      "prixRevientTotalDA": 8232436,
+      "prixRevientMillions": "823.2",
+      "taxesDouaneMillions": "144.9",
+      "coutSquareMillions": "678.3"
+    },
+    "calc2ans": {
+      "prixEur": 25900,
+      "age": 2,
+      "tauxDecote": 20,
+      "valeurCifEur": 21420,
+      "valeurCifDA": 3298680,
+      "taxesDouaneDA": 1293083,
+      "coutSquareDA": 6783000,
+      "prixRevientTotalDA": 8076083,
+      "prixRevientMillions": "807.6",
+      "taxesDouaneMillions": "129.3",
+      "coutSquareMillions": "678.3"
+    },
+    "calc3ans": {
+      "prixEur": 25900,
+      "age": 3,
+      "tauxDecote": 30,
+      "valeurCifEur": 18830,
+      "valeurCifDA": 2899820,
+      "taxesDouaneDA": 1136729,
+      "coutSquareDA": 6783000,
+      "prixRevientTotalDA": 7919729,
+      "prixRevientMillions": "792.0",
+      "taxesDouaneMillions": "113.7",
+      "coutSquareMillions": "678.3"
+    },
+    "comparatif": [
+      {
+        "ageFr": "1 an d'ancienneté (-10% décote)",
+        "ageAr": "سنة واحدة (تخفيض 10%)",
+        "valeurCifEur": 24010,
+        "taxesDouaneDA": 1449436,
+        "coutSquareDA": 6783000,
+        "prixRevientTotalDA": 8232436,
+        "prixRevientMillions": "823.2"
+      },
+      {
+        "ageFr": "2 ans d'ancienneté (-20% décote)",
+        "ageAr": "سنتان (تخفيض 20%)",
+        "valeurCifEur": 21420,
+        "taxesDouaneDA": 1293083,
+        "coutSquareDA": 6783000,
+        "prixRevientTotalDA": 8076083,
+        "prixRevientMillions": "807.6"
+      },
+      {
+        "ageFr": "3 ans d'ancienneté (-30% décote)",
+        "ageAr": "3 سنوات (تخفيض 30%)",
+        "valeurCifEur": 18830,
+        "taxesDouaneDA": 1136729,
+        "coutSquareDA": 6783000,
+        "prixRevientTotalDA": 7919729,
+        "prixRevientMillions": "792.0"
+      }
+    ],
+    "faqFr": [
+      {
+        "q": "Combien coûte le dédouanement d'une Hyundai Tucson 1.6 T-GDI en Algérie ?",
+        "a": "Pour un véhicule de 2 ans acheté environ 25 900 €, les taxes et droits de douane s'élèvent à environ 1 293 083 DA (soit 129.3 Millions de centimes) grâce à l'abattement fiscal prévu par la Loi de Finances."
+      },
+      {
+        "q": "Quel est le prix de revient total au taux du Square ?",
+        "a": "Le coût global d'acquisition (achat des devises au cours du Square Port-Saïd + frais de transport 700 € + dédouanement au port algérien) revient à environ 8 076 083 DA, soit 807.6 Millions de centimes."
+      },
+      {
+        "q": "Quelle est la cylindrée fiscale et l'abattement douanier de ce modèle ?",
+        "a": "Ce modèle dispose d'un moteur de 1598 cm³. Il relève de la catégorie \"1201 à 1800 cm³ (Abattement 50%)\"."
+      }
+    ],
+    "faqAr": [
+      {
+        "q": "كم تكلفة جمركة سيارة Hyundai Tucson 1.6 T-GDI في الجزائر؟",
+        "a": "لسيارة عمرها سنتان وسعرها حوالي 25 900 يورو، تقدر الرسوم الجمركية بحوالي 1 293 083 دج (أي ما يعادل 129.3 مليون سنتيم) بفضل التخفيض المنصوص عليه في قانون المالية."
+      },
+      {
+        "q": "كم يبلغ سعر التكلفة الإجمالي بحساب سعر السكوار؟",
+        "a": "التكلفة الإجمالية (شراء اليورو من ساحة بورسعيد + الشحن 700 يورو + الجمركة عند الوصول إلى الميناء الجزائري) تبلغ حوالي 8 076 083 دج، أي ما يقارب 807.6 مليون سنتيم."
+      },
+      {
+        "q": "ما هي سعة المحرك ونسبة التخفيض الجمركي لهذه السيارة؟",
+        "a": "تبلغ سعة محرك هذا الموديل 1598 سم³، ويندرج تحت فئة \"1201 إلى 1800 سم³ (تخفيض 50%)\"."
+      }
+    ]
+  },
+  {
+    "slug": "chery-tiggo-2-pro",
+    "marque": "Chery",
+    "modele": "Tiggo 2 Pro 1.5",
+    "cylindree": 1499,
+    "categorie": "moyenne_cylindree",
+    "prix2024": 12800,
+    "prix2025": 13800,
+    "prix2026": 14900,
+    "isAdsensePriority": false,
+    "titleFr": "Dédouanement Chery Tiggo 2 Pro 1.5 (< 3 ans) en Algérie : Prix & Taxes 2024",
+    "titleAr": "جمركة Chery Tiggo 2 Pro 1.5 (أقل من 3 سنوات) في الجزائر: الأسعار والرسوم",
+    "descriptionFr": "Combien coûte le dédouanement d'une Chery Tiggo 2 Pro 1.5 en Algérie ? Droits de douane Article 110, décote 3 ans, coût Square et prix de revient total en Dinars.",
+    "descriptionAr": "كم تبلغ تكلفة جمركة Chery Tiggo 2 Pro 1.5 في الجزائر؟ الرسوم الجمركية وفق المادة 110، التخفيض، وسعر التكلفة الإجمالي بالدينار والسكوار.",
+    "calc": {
+      "prixEur": 12800,
+      "age": 2,
+      "tauxDecote": 20,
+      "valeurCifEur": 10940,
+      "valeurCifDA": 1684760,
+      "taxesDouaneDA": 660426,
+      "coutSquareDA": 3442500,
+      "prixRevientTotalDA": 4102926,
+      "prixRevientMillions": "410.3",
+      "taxesDouaneMillions": "66.0",
+      "coutSquareMillions": "344.3"
+    },
+    "calc1an": {
+      "prixEur": 12800,
+      "age": 1,
+      "tauxDecote": 10,
+      "valeurCifEur": 12220,
+      "valeurCifDA": 1881880,
+      "taxesDouaneDA": 737697,
+      "coutSquareDA": 3442500,
+      "prixRevientTotalDA": 4180197,
+      "prixRevientMillions": "418.0",
+      "taxesDouaneMillions": "73.8",
+      "coutSquareMillions": "344.3"
+    },
+    "calc2ans": {
+      "prixEur": 12800,
+      "age": 2,
+      "tauxDecote": 20,
+      "valeurCifEur": 10940,
+      "valeurCifDA": 1684760,
+      "taxesDouaneDA": 660426,
+      "coutSquareDA": 3442500,
+      "prixRevientTotalDA": 4102926,
+      "prixRevientMillions": "410.3",
+      "taxesDouaneMillions": "66.0",
+      "coutSquareMillions": "344.3"
+    },
+    "calc3ans": {
+      "prixEur": 12800,
+      "age": 3,
+      "tauxDecote": 30,
+      "valeurCifEur": 9660,
+      "valeurCifDA": 1487640,
+      "taxesDouaneDA": 583155,
+      "coutSquareDA": 3442500,
+      "prixRevientTotalDA": 4025655,
+      "prixRevientMillions": "402.6",
+      "taxesDouaneMillions": "58.3",
+      "coutSquareMillions": "344.3"
+    },
+    "comparatif": [
+      {
+        "ageFr": "1 an d'ancienneté (-10% décote)",
+        "ageAr": "سنة واحدة (تخفيض 10%)",
+        "valeurCifEur": 12220,
+        "taxesDouaneDA": 737697,
+        "coutSquareDA": 3442500,
+        "prixRevientTotalDA": 4180197,
+        "prixRevientMillions": "418.0"
+      },
+      {
+        "ageFr": "2 ans d'ancienneté (-20% décote)",
+        "ageAr": "سنتان (تخفيض 20%)",
+        "valeurCifEur": 10940,
+        "taxesDouaneDA": 660426,
+        "coutSquareDA": 3442500,
+        "prixRevientTotalDA": 4102926,
+        "prixRevientMillions": "410.3"
+      },
+      {
+        "ageFr": "3 ans d'ancienneté (-30% décote)",
+        "ageAr": "3 سنوات (تخفيض 30%)",
+        "valeurCifEur": 9660,
+        "taxesDouaneDA": 583155,
+        "coutSquareDA": 3442500,
+        "prixRevientTotalDA": 4025655,
+        "prixRevientMillions": "402.6"
+      }
+    ],
+    "faqFr": [
+      {
+        "q": "Combien coûte le dédouanement d'une Chery Tiggo 2 Pro 1.5 en Algérie ?",
+        "a": "Pour un véhicule de 2 ans acheté environ 12 800 €, les taxes et droits de douane s'élèvent à environ 660 426 DA (soit 66.0 Millions de centimes) grâce à l'abattement fiscal prévu par la Loi de Finances."
+      },
+      {
+        "q": "Quel est le prix de revient total au taux du Square ?",
+        "a": "Le coût global d'acquisition (achat des devises au cours du Square Port-Saïd + frais de transport 700 € + dédouanement au port algérien) revient à environ 4 102 926 DA, soit 410.3 Millions de centimes."
+      },
+      {
+        "q": "Quelle est la cylindrée fiscale et l'abattement douanier de ce modèle ?",
+        "a": "Ce modèle dispose d'un moteur de 1499 cm³. Il relève de la catégorie \"1201 à 1800 cm³ (Abattement 50%)\"."
+      }
+    ],
+    "faqAr": [
+      {
+        "q": "كم تكلفة جمركة سيارة Chery Tiggo 2 Pro 1.5 في الجزائر؟",
+        "a": "لسيارة عمرها سنتان وسعرها حوالي 12 800 يورو، تقدر الرسوم الجمركية بحوالي 660 426 دج (أي ما يعادل 66.0 مليون سنتيم) بفضل التخفيض المنصوص عليه في قانون المالية."
+      },
+      {
+        "q": "كم يبلغ سعر التكلفة الإجمالي بحساب سعر السكوار؟",
+        "a": "التكلفة الإجمالية (شراء اليورو من ساحة بورسعيد + الشحن 700 يورو + الجمركة عند الوصول إلى الميناء الجزائري) تبلغ حوالي 4 102 926 دج، أي ما يقارب 410.3 مليون سنتيم."
+      },
+      {
+        "q": "ما هي سعة المحرك ونسبة التخفيض الجمركي لهذه السيارة؟",
+        "a": "تبلغ سعة محرك هذا الموديل 1499 سم³، ويندرج تحت فئة \"1201 إلى 1800 سم³ (تخفيض 50%)\"."
+      }
+    ]
+  },
+  {
+    "slug": "geely-gx3-pro",
+    "marque": "Geely",
+    "modele": "GX3 Pro 1.5",
+    "cylindree": 1498,
+    "categorie": "moyenne_cylindree",
+    "prix2024": 12200,
+    "prix2025": 13100,
+    "prix2026": 14200,
+    "isAdsensePriority": false,
+    "titleFr": "Dédouanement Geely GX3 Pro 1.5 (< 3 ans) en Algérie : Prix & Taxes 2024",
+    "titleAr": "جمركة Geely GX3 Pro 1.5 (أقل من 3 سنوات) في الجزائر: الأسعار والرسوم",
+    "descriptionFr": "Combien coûte le dédouanement d'une Geely GX3 Pro 1.5 en Algérie ? Droits de douane Article 110, décote 3 ans, coût Square et prix de revient total en Dinars.",
+    "descriptionAr": "كم تبلغ تكلفة جمركة Geely GX3 Pro 1.5 في الجزائر؟ الرسوم الجمركية وفق المادة 110، التخفيض، وسعر التكلفة الإجمالي بالدينار والسكوار.",
+    "calc": {
+      "prixEur": 12200,
+      "age": 2,
+      "tauxDecote": 20,
+      "valeurCifEur": 10460,
+      "valeurCifDA": 1610840,
+      "taxesDouaneDA": 631449,
+      "coutSquareDA": 3289500,
+      "prixRevientTotalDA": 3920949,
+      "prixRevientMillions": "392.1",
+      "taxesDouaneMillions": "63.1",
+      "coutSquareMillions": "328.9"
+    },
+    "calc1an": {
+      "prixEur": 12200,
+      "age": 1,
+      "tauxDecote": 10,
+      "valeurCifEur": 11680,
+      "valeurCifDA": 1798720,
+      "taxesDouaneDA": 705098,
+      "coutSquareDA": 3289500,
+      "prixRevientTotalDA": 3994598,
+      "prixRevientMillions": "399.5",
+      "taxesDouaneMillions": "70.5",
+      "coutSquareMillions": "328.9"
+    },
+    "calc2ans": {
+      "prixEur": 12200,
+      "age": 2,
+      "tauxDecote": 20,
+      "valeurCifEur": 10460,
+      "valeurCifDA": 1610840,
+      "taxesDouaneDA": 631449,
+      "coutSquareDA": 3289500,
+      "prixRevientTotalDA": 3920949,
+      "prixRevientMillions": "392.1",
+      "taxesDouaneMillions": "63.1",
+      "coutSquareMillions": "328.9"
+    },
+    "calc3ans": {
+      "prixEur": 12200,
+      "age": 3,
+      "tauxDecote": 30,
+      "valeurCifEur": 9240,
+      "valeurCifDA": 1422960,
+      "taxesDouaneDA": 557800,
+      "coutSquareDA": 3289500,
+      "prixRevientTotalDA": 3847300,
+      "prixRevientMillions": "384.7",
+      "taxesDouaneMillions": "55.8",
+      "coutSquareMillions": "328.9"
+    },
+    "comparatif": [
+      {
+        "ageFr": "1 an d'ancienneté (-10% décote)",
+        "ageAr": "سنة واحدة (تخفيض 10%)",
+        "valeurCifEur": 11680,
+        "taxesDouaneDA": 705098,
+        "coutSquareDA": 3289500,
+        "prixRevientTotalDA": 3994598,
+        "prixRevientMillions": "399.5"
+      },
+      {
+        "ageFr": "2 ans d'ancienneté (-20% décote)",
+        "ageAr": "سنتان (تخفيض 20%)",
+        "valeurCifEur": 10460,
+        "taxesDouaneDA": 631449,
+        "coutSquareDA": 3289500,
+        "prixRevientTotalDA": 3920949,
+        "prixRevientMillions": "392.1"
+      },
+      {
+        "ageFr": "3 ans d'ancienneté (-30% décote)",
+        "ageAr": "3 سنوات (تخفيض 30%)",
+        "valeurCifEur": 9240,
+        "taxesDouaneDA": 557800,
+        "coutSquareDA": 3289500,
+        "prixRevientTotalDA": 3847300,
+        "prixRevientMillions": "384.7"
+      }
+    ],
+    "faqFr": [
+      {
+        "q": "Combien coûte le dédouanement d'une Geely GX3 Pro 1.5 en Algérie ?",
+        "a": "Pour un véhicule de 2 ans acheté environ 12 200 €, les taxes et droits de douane s'élèvent à environ 631 449 DA (soit 63.1 Millions de centimes) grâce à l'abattement fiscal prévu par la Loi de Finances."
+      },
+      {
+        "q": "Quel est le prix de revient total au taux du Square ?",
+        "a": "Le coût global d'acquisition (achat des devises au cours du Square Port-Saïd + frais de transport 700 € + dédouanement au port algérien) revient à environ 3 920 949 DA, soit 392.1 Millions de centimes."
+      },
+      {
+        "q": "Quelle est la cylindrée fiscale et l'abattement douanier de ce modèle ?",
+        "a": "Ce modèle dispose d'un moteur de 1498 cm³. Il relève de la catégorie \"1201 à 1800 cm³ (Abattement 50%)\"."
+      }
+    ],
+    "faqAr": [
+      {
+        "q": "كم تكلفة جمركة سيارة Geely GX3 Pro 1.5 في الجزائر؟",
+        "a": "لسيارة عمرها سنتان وسعرها حوالي 12 200 يورو، تقدر الرسوم الجمركية بحوالي 631 449 دج (أي ما يعادل 63.1 مليون سنتيم) بفضل التخفيض المنصوص عليه في قانون المالية."
+      },
+      {
+        "q": "كم يبلغ سعر التكلفة الإجمالي بحساب سعر السكوار؟",
+        "a": "التكلفة الإجمالية (شراء اليورو من ساحة بورسعيد + الشحن 700 يورو + الجمركة عند الوصول إلى الميناء الجزائري) تبلغ حوالي 3 920 949 دج، أي ما يقارب 392.1 مليون سنتيم."
+      },
+      {
+        "q": "ما هي سعة المحرك ونسبة التخفيض الجمركي لهذه السيارة؟",
+        "a": "تبلغ سعة محرك هذا الموديل 1498 سم³، ويندرج تحت فئة \"1201 إلى 1800 سم³ (تخفيض 50%)\"."
+      }
+    ]
+  },
+  {
+    "slug": "fiat-500-hybrid",
+    "marque": "Fiat",
+    "modele": "500 Hybrid 1.0",
+    "cylindree": 999,
+    "categorie": "electrique_ou_petit_essence",
+    "prix2024": 12900,
+    "prix2025": 13800,
+    "prix2026": 14800,
+    "isAdsensePriority": true,
+    "titleFr": "Dédouanement Fiat 500 Hybrid 1.0 (< 3 ans) en Algérie : Prix & Taxes 2024",
+    "titleAr": "جمركة Fiat 500 Hybrid 1.0 (أقل من 3 سنوات) في الجزائر: الأسعار والرسوم",
+    "descriptionFr": "Combien coûte le dédouanement d'une Fiat 500 Hybrid 1.0 en Algérie ? Droits de douane Article 110, décote 3 ans, coût Square et prix de revient total en Dinars.",
+    "descriptionAr": "كم تبلغ تكلفة جمركة Fiat 500 Hybrid 1.0 في الجزائر؟ الرسوم الجمركية وفق المادة 110، التخفيض، وسعر التكلفة الإجمالي بالدينار والسكوار.",
+    "calc": {
+      "prixEur": 12900,
+      "age": 2,
+      "tauxDecote": 20,
+      "valeurCifEur": 11020,
+      "valeurCifDA": 1697080,
+      "taxesDouaneDA": 483668,
+      "coutSquareDA": 3468000,
+      "prixRevientTotalDA": 3951668,
+      "prixRevientMillions": "395.2",
+      "taxesDouaneMillions": "48.4",
+      "coutSquareMillions": "346.8"
+    },
+    "calc1an": {
+      "prixEur": 12900,
+      "age": 1,
+      "tauxDecote": 10,
+      "valeurCifEur": 12310,
+      "valeurCifDA": 1895740,
+      "taxesDouaneDA": 540286,
+      "coutSquareDA": 3468000,
+      "prixRevientTotalDA": 4008286,
+      "prixRevientMillions": "400.8",
+      "taxesDouaneMillions": "54.0",
+      "coutSquareMillions": "346.8"
+    },
+    "calc2ans": {
+      "prixEur": 12900,
+      "age": 2,
+      "tauxDecote": 20,
+      "valeurCifEur": 11020,
+      "valeurCifDA": 1697080,
+      "taxesDouaneDA": 483668,
+      "coutSquareDA": 3468000,
+      "prixRevientTotalDA": 3951668,
+      "prixRevientMillions": "395.2",
+      "taxesDouaneMillions": "48.4",
+      "coutSquareMillions": "346.8"
+    },
+    "calc3ans": {
+      "prixEur": 12900,
+      "age": 3,
+      "tauxDecote": 30,
+      "valeurCifEur": 9730,
+      "valeurCifDA": 1498420,
+      "taxesDouaneDA": 427050,
+      "coutSquareDA": 3468000,
+      "prixRevientTotalDA": 3895050,
+      "prixRevientMillions": "389.5",
+      "taxesDouaneMillions": "42.7",
+      "coutSquareMillions": "346.8"
+    },
+    "comparatif": [
+      {
+        "ageFr": "1 an d'ancienneté (-10% décote)",
+        "ageAr": "سنة واحدة (تخفيض 10%)",
+        "valeurCifEur": 12310,
+        "taxesDouaneDA": 540286,
+        "coutSquareDA": 3468000,
+        "prixRevientTotalDA": 4008286,
+        "prixRevientMillions": "400.8"
+      },
+      {
+        "ageFr": "2 ans d'ancienneté (-20% décote)",
+        "ageAr": "سنتان (تخفيض 20%)",
+        "valeurCifEur": 11020,
+        "taxesDouaneDA": 483668,
+        "coutSquareDA": 3468000,
+        "prixRevientTotalDA": 3951668,
+        "prixRevientMillions": "395.2"
+      },
+      {
+        "ageFr": "3 ans d'ancienneté (-30% décote)",
+        "ageAr": "3 سنوات (تخفيض 30%)",
+        "valeurCifEur": 9730,
+        "taxesDouaneDA": 427050,
+        "coutSquareDA": 3468000,
+        "prixRevientTotalDA": 3895050,
+        "prixRevientMillions": "389.5"
+      }
+    ],
+    "faqFr": [
+      {
+        "q": "Combien coûte le dédouanement d'une Fiat 500 Hybrid 1.0 en Algérie ?",
+        "a": "Pour un véhicule de 2 ans acheté environ 12 900 €, les taxes et droits de douane s'élèvent à environ 483 668 DA (soit 48.4 Millions de centimes) grâce à l'abattement fiscal prévu par la Loi de Finances."
+      },
+      {
+        "q": "Quel est le prix de revient total au taux du Square ?",
+        "a": "Le coût global d'acquisition (achat des devises au cours du Square Port-Saïd + frais de transport 700 € + dédouanement au port algérien) revient à environ 3 951 668 DA, soit 395.2 Millions de centimes."
+      },
+      {
+        "q": "Quelle est la cylindrée fiscale et l'abattement douanier de ce modèle ?",
+        "a": "Ce modèle dispose d'un moteur de 999 cm³. Il relève de la catégorie \"Moins de 1200 cm³ (Abattement 80%)\"."
+      }
+    ],
+    "faqAr": [
+      {
+        "q": "كم تكلفة جمركة سيارة Fiat 500 Hybrid 1.0 في الجزائر؟",
+        "a": "لسيارة عمرها سنتان وسعرها حوالي 12 900 يورو، تقدر الرسوم الجمركية بحوالي 483 668 دج (أي ما يعادل 48.4 مليون سنتيم) بفضل التخفيض المنصوص عليه في قانون المالية."
+      },
+      {
+        "q": "كم يبلغ سعر التكلفة الإجمالي بحساب سعر السكوار؟",
+        "a": "التكلفة الإجمالية (شراء اليورو من ساحة بورسعيد + الشحن 700 يورو + الجمركة عند الوصول إلى الميناء الجزائري) تبلغ حوالي 3 951 668 دج، أي ما يقارب 395.2 مليون سنتيم."
+      },
+      {
+        "q": "ما هي سعة المحرك ونسبة التخفيض الجمركي لهذه السيارة؟",
+        "a": "تبلغ سعة محرك هذا الموديل 999 سم³، ويندرج تحت فئة \"أقل من 1200 سم³ (تخفيض 80%)\"."
+      }
+    ]
+  },
+  {
+    "slug": "fiat-500x",
+    "marque": "Fiat",
+    "modele": "500X 1.3 FireFly",
+    "cylindree": 1332,
+    "categorie": "moyenne_cylindree",
+    "prix2024": 16800,
+    "prix2025": 18200,
+    "prix2026": 19500,
+    "isAdsensePriority": false,
+    "titleFr": "Dédouanement Fiat 500X 1.3 FireFly (< 3 ans) en Algérie : Prix & Taxes 2024",
+    "titleAr": "جمركة Fiat 500X 1.3 FireFly (أقل من 3 سنوات) في الجزائر: الأسعار والرسوم",
+    "descriptionFr": "Combien coûte le dédouanement d'une Fiat 500X 1.3 FireFly en Algérie ? Droits de douane Article 110, décote 3 ans, coût Square et prix de revient total en Dinars.",
+    "descriptionAr": "كم تبلغ تكلفة جمركة Fiat 500X 1.3 FireFly في الجزائر؟ الرسوم الجمركية وفق المادة 110، التخفيض، وسعر التكلفة الإجمالي بالدينار والسكوار.",
+    "calc": {
+      "prixEur": 16800,
+      "age": 2,
+      "tauxDecote": 20,
+      "valeurCifEur": 14140,
+      "valeurCifDA": 2177560,
+      "taxesDouaneDA": 853604,
+      "coutSquareDA": 4462500,
+      "prixRevientTotalDA": 5316104,
+      "prixRevientMillions": "531.6",
+      "taxesDouaneMillions": "85.4",
+      "coutSquareMillions": "446.3"
+    },
+    "calc1an": {
+      "prixEur": 16800,
+      "age": 1,
+      "tauxDecote": 10,
+      "valeurCifEur": 15820,
+      "valeurCifDA": 2436280,
+      "taxesDouaneDA": 955022,
+      "coutSquareDA": 4462500,
+      "prixRevientTotalDA": 5417522,
+      "prixRevientMillions": "541.8",
+      "taxesDouaneMillions": "95.5",
+      "coutSquareMillions": "446.3"
+    },
+    "calc2ans": {
+      "prixEur": 16800,
+      "age": 2,
+      "tauxDecote": 20,
+      "valeurCifEur": 14140,
+      "valeurCifDA": 2177560,
+      "taxesDouaneDA": 853604,
+      "coutSquareDA": 4462500,
+      "prixRevientTotalDA": 5316104,
+      "prixRevientMillions": "531.6",
+      "taxesDouaneMillions": "85.4",
+      "coutSquareMillions": "446.3"
+    },
+    "calc3ans": {
+      "prixEur": 16800,
+      "age": 3,
+      "tauxDecote": 30,
+      "valeurCifEur": 12460,
+      "valeurCifDA": 1918840,
+      "taxesDouaneDA": 752185,
+      "coutSquareDA": 4462500,
+      "prixRevientTotalDA": 5214685,
+      "prixRevientMillions": "521.5",
+      "taxesDouaneMillions": "75.2",
+      "coutSquareMillions": "446.3"
+    },
+    "comparatif": [
+      {
+        "ageFr": "1 an d'ancienneté (-10% décote)",
+        "ageAr": "سنة واحدة (تخفيض 10%)",
+        "valeurCifEur": 15820,
+        "taxesDouaneDA": 955022,
+        "coutSquareDA": 4462500,
+        "prixRevientTotalDA": 5417522,
+        "prixRevientMillions": "541.8"
+      },
+      {
+        "ageFr": "2 ans d'ancienneté (-20% décote)",
+        "ageAr": "سنتان (تخفيض 20%)",
+        "valeurCifEur": 14140,
+        "taxesDouaneDA": 853604,
+        "coutSquareDA": 4462500,
+        "prixRevientTotalDA": 5316104,
+        "prixRevientMillions": "531.6"
+      },
+      {
+        "ageFr": "3 ans d'ancienneté (-30% décote)",
+        "ageAr": "3 سنوات (تخفيض 30%)",
+        "valeurCifEur": 12460,
+        "taxesDouaneDA": 752185,
+        "coutSquareDA": 4462500,
+        "prixRevientTotalDA": 5214685,
+        "prixRevientMillions": "521.5"
+      }
+    ],
+    "faqFr": [
+      {
+        "q": "Combien coûte le dédouanement d'une Fiat 500X 1.3 FireFly en Algérie ?",
+        "a": "Pour un véhicule de 2 ans acheté environ 16 800 €, les taxes et droits de douane s'élèvent à environ 853 604 DA (soit 85.4 Millions de centimes) grâce à l'abattement fiscal prévu par la Loi de Finances."
+      },
+      {
+        "q": "Quel est le prix de revient total au taux du Square ?",
+        "a": "Le coût global d'acquisition (achat des devises au cours du Square Port-Saïd + frais de transport 700 € + dédouanement au port algérien) revient à environ 5 316 104 DA, soit 531.6 Millions de centimes."
+      },
+      {
+        "q": "Quelle est la cylindrée fiscale et l'abattement douanier de ce modèle ?",
+        "a": "Ce modèle dispose d'un moteur de 1332 cm³. Il relève de la catégorie \"1201 à 1800 cm³ (Abattement 50%)\"."
+      }
+    ],
+    "faqAr": [
+      {
+        "q": "كم تكلفة جمركة سيارة Fiat 500X 1.3 FireFly في الجزائر؟",
+        "a": "لسيارة عمرها سنتان وسعرها حوالي 16 800 يورو، تقدر الرسوم الجمركية بحوالي 853 604 دج (أي ما يعادل 85.4 مليون سنتيم) بفضل التخفيض المنصوص عليه في قانون المالية."
+      },
+      {
+        "q": "كم يبلغ سعر التكلفة الإجمالي بحساب سعر السكوار؟",
+        "a": "التكلفة الإجمالية (شراء اليورو من ساحة بورسعيد + الشحن 700 يورو + الجمركة عند الوصول إلى الميناء الجزائري) تبلغ حوالي 5 316 104 دج، أي ما يقارب 531.6 مليون سنتيم."
+      },
+      {
+        "q": "ما هي سعة المحرك ونسبة التخفيض الجمركي لهذه السيارة؟",
+        "a": "تبلغ سعة محرك هذا الموديل 1332 سم³، ويندرج تحت فئة \"1201 إلى 1800 سم³ (تخفيض 50%)\"."
+      }
+    ]
+  },
+  {
+    "slug": "fiat-tipo",
+    "marque": "Fiat",
+    "modele": "Tipo 1.4 Fire",
+    "cylindree": 1368,
+    "categorie": "moyenne_cylindree",
+    "prix2024": 13500,
+    "prix2025": 14600,
+    "prix2026": 15800,
+    "isAdsensePriority": false,
+    "titleFr": "Dédouanement Fiat Tipo 1.4 Fire (< 3 ans) en Algérie : Prix & Taxes 2024",
+    "titleAr": "جمركة Fiat Tipo 1.4 Fire (أقل من 3 سنوات) في الجزائر: الأسعار والرسوم",
+    "descriptionFr": "Combien coûte le dédouanement d'une Fiat Tipo 1.4 Fire en Algérie ? Droits de douane Article 110, décote 3 ans, coût Square et prix de revient total en Dinars.",
+    "descriptionAr": "كم تبلغ تكلفة جمركة Fiat Tipo 1.4 Fire في الجزائر؟ الرسوم الجمركية وفق المادة 110، التخفيض، وسعر التكلفة الإجمالي بالدينار والسكوار.",
+    "calc": {
+      "prixEur": 13500,
+      "age": 2,
+      "tauxDecote": 20,
+      "valeurCifEur": 11500,
+      "valeurCifDA": 1771000,
+      "taxesDouaneDA": 694232,
+      "coutSquareDA": 3621000,
+      "prixRevientTotalDA": 4315232,
+      "prixRevientMillions": "431.5",
+      "taxesDouaneMillions": "69.4",
+      "coutSquareMillions": "362.1"
+    },
+    "calc1an": {
+      "prixEur": 13500,
+      "age": 1,
+      "tauxDecote": 10,
+      "valeurCifEur": 12850,
+      "valeurCifDA": 1978900,
+      "taxesDouaneDA": 775729,
+      "coutSquareDA": 3621000,
+      "prixRevientTotalDA": 4396729,
+      "prixRevientMillions": "439.7",
+      "taxesDouaneMillions": "77.6",
+      "coutSquareMillions": "362.1"
+    },
+    "calc2ans": {
+      "prixEur": 13500,
+      "age": 2,
+      "tauxDecote": 20,
+      "valeurCifEur": 11500,
+      "valeurCifDA": 1771000,
+      "taxesDouaneDA": 694232,
+      "coutSquareDA": 3621000,
+      "prixRevientTotalDA": 4315232,
+      "prixRevientMillions": "431.5",
+      "taxesDouaneMillions": "69.4",
+      "coutSquareMillions": "362.1"
+    },
+    "calc3ans": {
+      "prixEur": 13500,
+      "age": 3,
+      "tauxDecote": 30,
+      "valeurCifEur": 10150,
+      "valeurCifDA": 1563100,
+      "taxesDouaneDA": 612735,
+      "coutSquareDA": 3621000,
+      "prixRevientTotalDA": 4233735,
+      "prixRevientMillions": "423.4",
+      "taxesDouaneMillions": "61.3",
+      "coutSquareMillions": "362.1"
+    },
+    "comparatif": [
+      {
+        "ageFr": "1 an d'ancienneté (-10% décote)",
+        "ageAr": "سنة واحدة (تخفيض 10%)",
+        "valeurCifEur": 12850,
+        "taxesDouaneDA": 775729,
+        "coutSquareDA": 3621000,
+        "prixRevientTotalDA": 4396729,
+        "prixRevientMillions": "439.7"
+      },
+      {
+        "ageFr": "2 ans d'ancienneté (-20% décote)",
+        "ageAr": "سنتان (تخفيض 20%)",
+        "valeurCifEur": 11500,
+        "taxesDouaneDA": 694232,
+        "coutSquareDA": 3621000,
+        "prixRevientTotalDA": 4315232,
+        "prixRevientMillions": "431.5"
+      },
+      {
+        "ageFr": "3 ans d'ancienneté (-30% décote)",
+        "ageAr": "3 سنوات (تخفيض 30%)",
+        "valeurCifEur": 10150,
+        "taxesDouaneDA": 612735,
+        "coutSquareDA": 3621000,
+        "prixRevientTotalDA": 4233735,
+        "prixRevientMillions": "423.4"
+      }
+    ],
+    "faqFr": [
+      {
+        "q": "Combien coûte le dédouanement d'une Fiat Tipo 1.4 Fire en Algérie ?",
+        "a": "Pour un véhicule de 2 ans acheté environ 13 500 €, les taxes et droits de douane s'élèvent à environ 694 232 DA (soit 69.4 Millions de centimes) grâce à l'abattement fiscal prévu par la Loi de Finances."
+      },
+      {
+        "q": "Quel est le prix de revient total au taux du Square ?",
+        "a": "Le coût global d'acquisition (achat des devises au cours du Square Port-Saïd + frais de transport 700 € + dédouanement au port algérien) revient à environ 4 315 232 DA, soit 431.5 Millions de centimes."
+      },
+      {
+        "q": "Quelle est la cylindrée fiscale et l'abattement douanier de ce modèle ?",
+        "a": "Ce modèle dispose d'un moteur de 1368 cm³. Il relève de la catégorie \"1201 à 1800 cm³ (Abattement 50%)\"."
+      }
+    ],
+    "faqAr": [
+      {
+        "q": "كم تكلفة جمركة سيارة Fiat Tipo 1.4 Fire في الجزائر؟",
+        "a": "لسيارة عمرها سنتان وسعرها حوالي 13 500 يورو، تقدر الرسوم الجمركية بحوالي 694 232 دج (أي ما يعادل 69.4 مليون سنتيم) بفضل التخفيض المنصوص عليه في قانون المالية."
+      },
+      {
+        "q": "كم يبلغ سعر التكلفة الإجمالي بحساب سعر السكوار؟",
+        "a": "التكلفة الإجمالية (شراء اليورو من ساحة بورسعيد + الشحن 700 يورو + الجمركة عند الوصول إلى الميناء الجزائري) تبلغ حوالي 4 315 232 دج، أي ما يقارب 431.5 مليون سنتيم."
+      },
+      {
+        "q": "ما هي سعة المحرك ونسبة التخفيض الجمركي لهذه السيارة؟",
+        "a": "تبلغ سعة محرك هذا الموديل 1368 سم³، ويندرج تحت فئة \"1201 إلى 1800 سم³ (تخفيض 50%)\"."
+      }
+    ]
+  },
+  {
+    "slug": "opel-corsa",
+    "marque": "Opel",
+    "modele": "Corsa 1.2 Turbo",
+    "cylindree": 1199,
+    "categorie": "electrique_ou_petit_essence",
+    "prix2024": 14900,
+    "prix2025": 15900,
+    "prix2026": 17000,
+    "isAdsensePriority": false,
+    "titleFr": "Dédouanement Opel Corsa 1.2 Turbo (< 3 ans) en Algérie : Prix & Taxes 2024",
+    "titleAr": "جمركة Opel Corsa 1.2 Turbo (أقل من 3 سنوات) في الجزائر: الأسعار والرسوم",
+    "descriptionFr": "Combien coûte le dédouanement d'une Opel Corsa 1.2 Turbo en Algérie ? Droits de douane Article 110, décote 3 ans, coût Square et prix de revient total en Dinars.",
+    "descriptionAr": "كم تبلغ تكلفة جمركة Opel Corsa 1.2 Turbo في الجزائر؟ الرسوم الجمركية وفق المادة 110، التخفيض، وسعر التكلفة الإجمالي بالدينار والسكوار.",
+    "calc": {
+      "prixEur": 14900,
+      "age": 2,
+      "tauxDecote": 20,
+      "valeurCifEur": 12620,
+      "valeurCifDA": 1943480,
+      "taxesDouaneDA": 553892,
+      "coutSquareDA": 3978000,
+      "prixRevientTotalDA": 4531892,
+      "prixRevientMillions": "453.2",
+      "taxesDouaneMillions": "55.4",
+      "coutSquareMillions": "397.8"
+    },
+    "calc1an": {
+      "prixEur": 14900,
+      "age": 1,
+      "tauxDecote": 10,
+      "valeurCifEur": 14110,
+      "valeurCifDA": 2172940,
+      "taxesDouaneDA": 619288,
+      "coutSquareDA": 3978000,
+      "prixRevientTotalDA": 4597288,
+      "prixRevientMillions": "459.7",
+      "taxesDouaneMillions": "61.9",
+      "coutSquareMillions": "397.8"
+    },
+    "calc2ans": {
+      "prixEur": 14900,
+      "age": 2,
+      "tauxDecote": 20,
+      "valeurCifEur": 12620,
+      "valeurCifDA": 1943480,
+      "taxesDouaneDA": 553892,
+      "coutSquareDA": 3978000,
+      "prixRevientTotalDA": 4531892,
+      "prixRevientMillions": "453.2",
+      "taxesDouaneMillions": "55.4",
+      "coutSquareMillions": "397.8"
+    },
+    "calc3ans": {
+      "prixEur": 14900,
+      "age": 3,
+      "tauxDecote": 30,
+      "valeurCifEur": 11130,
+      "valeurCifDA": 1714020,
+      "taxesDouaneDA": 488496,
+      "coutSquareDA": 3978000,
+      "prixRevientTotalDA": 4466496,
+      "prixRevientMillions": "446.6",
+      "taxesDouaneMillions": "48.8",
+      "coutSquareMillions": "397.8"
+    },
+    "comparatif": [
+      {
+        "ageFr": "1 an d'ancienneté (-10% décote)",
+        "ageAr": "سنة واحدة (تخفيض 10%)",
+        "valeurCifEur": 14110,
+        "taxesDouaneDA": 619288,
+        "coutSquareDA": 3978000,
+        "prixRevientTotalDA": 4597288,
+        "prixRevientMillions": "459.7"
+      },
+      {
+        "ageFr": "2 ans d'ancienneté (-20% décote)",
+        "ageAr": "سنتان (تخفيض 20%)",
+        "valeurCifEur": 12620,
+        "taxesDouaneDA": 553892,
+        "coutSquareDA": 3978000,
+        "prixRevientTotalDA": 4531892,
+        "prixRevientMillions": "453.2"
+      },
+      {
+        "ageFr": "3 ans d'ancienneté (-30% décote)",
+        "ageAr": "3 سنوات (تخفيض 30%)",
+        "valeurCifEur": 11130,
+        "taxesDouaneDA": 488496,
+        "coutSquareDA": 3978000,
+        "prixRevientTotalDA": 4466496,
+        "prixRevientMillions": "446.6"
+      }
+    ],
+    "faqFr": [
+      {
+        "q": "Combien coûte le dédouanement d'une Opel Corsa 1.2 Turbo en Algérie ?",
+        "a": "Pour un véhicule de 2 ans acheté environ 14 900 €, les taxes et droits de douane s'élèvent à environ 553 892 DA (soit 55.4 Millions de centimes) grâce à l'abattement fiscal prévu par la Loi de Finances."
+      },
+      {
+        "q": "Quel est le prix de revient total au taux du Square ?",
+        "a": "Le coût global d'acquisition (achat des devises au cours du Square Port-Saïd + frais de transport 700 € + dédouanement au port algérien) revient à environ 4 531 892 DA, soit 453.2 Millions de centimes."
+      },
+      {
+        "q": "Quelle est la cylindrée fiscale et l'abattement douanier de ce modèle ?",
+        "a": "Ce modèle dispose d'un moteur de 1199 cm³. Il relève de la catégorie \"Moins de 1200 cm³ (Abattement 80%)\"."
+      }
+    ],
+    "faqAr": [
+      {
+        "q": "كم تكلفة جمركة سيارة Opel Corsa 1.2 Turbo في الجزائر؟",
+        "a": "لسيارة عمرها سنتان وسعرها حوالي 14 900 يورو، تقدر الرسوم الجمركية بحوالي 553 892 دج (أي ما يعادل 55.4 مليون سنتيم) بفضل التخفيض المنصوص عليه في قانون المالية."
+      },
+      {
+        "q": "كم يبلغ سعر التكلفة الإجمالي بحساب سعر السكوار؟",
+        "a": "التكلفة الإجمالية (شراء اليورو من ساحة بورسعيد + الشحن 700 يورو + الجمركة عند الوصول إلى الميناء الجزائري) تبلغ حوالي 4 531 892 دج، أي ما يقارب 453.2 مليون سنتيم."
+      },
+      {
+        "q": "ما هي سعة المحرك ونسبة التخفيض الجمركي لهذه السيارة؟",
+        "a": "تبلغ سعة محرك هذا الموديل 1199 سم³، ويندرج تحت فئة \"أقل من 1200 سم³ (تخفيض 80%)\"."
+      }
+    ]
+  },
+  {
+    "slug": "citroen-c3",
+    "marque": "Citroën",
+    "modele": "C3 1.2 PureTech",
+    "cylindree": 1199,
+    "categorie": "electrique_ou_petit_essence",
+    "prix2024": 13800,
+    "prix2025": 14800,
+    "prix2026": 15900,
+    "isAdsensePriority": false,
+    "titleFr": "Dédouanement Citroën C3 1.2 PureTech (< 3 ans) en Algérie : Prix & Taxes 2024",
+    "titleAr": "جمركة Citroën C3 1.2 PureTech (أقل من 3 سنوات) في الجزائر: الأسعار والرسوم",
+    "descriptionFr": "Combien coûte le dédouanement d'une Citroën C3 1.2 PureTech en Algérie ? Droits de douane Article 110, décote 3 ans, coût Square et prix de revient total en Dinars.",
+    "descriptionAr": "كم تبلغ تكلفة جمركة Citroën C3 1.2 PureTech في الجزائر؟ الرسوم الجمركية وفق المادة 110، التخفيض، وسعر التكلفة الإجمالي بالدينار والسكوار.",
+    "calc": {
+      "prixEur": 13800,
+      "age": 2,
+      "tauxDecote": 20,
+      "valeurCifEur": 11740,
+      "valeurCifDA": 1807960,
+      "taxesDouaneDA": 515269,
+      "coutSquareDA": 3697500,
+      "prixRevientTotalDA": 4212769,
+      "prixRevientMillions": "421.3",
+      "taxesDouaneMillions": "51.5",
+      "coutSquareMillions": "369.8"
+    },
+    "calc1an": {
+      "prixEur": 13800,
+      "age": 1,
+      "tauxDecote": 10,
+      "valeurCifEur": 13120,
+      "valeurCifDA": 2020480,
+      "taxesDouaneDA": 575837,
+      "coutSquareDA": 3697500,
+      "prixRevientTotalDA": 4273337,
+      "prixRevientMillions": "427.3",
+      "taxesDouaneMillions": "57.6",
+      "coutSquareMillions": "369.8"
+    },
+    "calc2ans": {
+      "prixEur": 13800,
+      "age": 2,
+      "tauxDecote": 20,
+      "valeurCifEur": 11740,
+      "valeurCifDA": 1807960,
+      "taxesDouaneDA": 515269,
+      "coutSquareDA": 3697500,
+      "prixRevientTotalDA": 4212769,
+      "prixRevientMillions": "421.3",
+      "taxesDouaneMillions": "51.5",
+      "coutSquareMillions": "369.8"
+    },
+    "calc3ans": {
+      "prixEur": 13800,
+      "age": 3,
+      "tauxDecote": 30,
+      "valeurCifEur": 10360,
+      "valeurCifDA": 1595440,
+      "taxesDouaneDA": 454700,
+      "coutSquareDA": 3697500,
+      "prixRevientTotalDA": 4152200,
+      "prixRevientMillions": "415.2",
+      "taxesDouaneMillions": "45.5",
+      "coutSquareMillions": "369.8"
+    },
+    "comparatif": [
+      {
+        "ageFr": "1 an d'ancienneté (-10% décote)",
+        "ageAr": "سنة واحدة (تخفيض 10%)",
+        "valeurCifEur": 13120,
+        "taxesDouaneDA": 575837,
+        "coutSquareDA": 3697500,
+        "prixRevientTotalDA": 4273337,
+        "prixRevientMillions": "427.3"
+      },
+      {
+        "ageFr": "2 ans d'ancienneté (-20% décote)",
+        "ageAr": "سنتان (تخفيض 20%)",
+        "valeurCifEur": 11740,
+        "taxesDouaneDA": 515269,
+        "coutSquareDA": 3697500,
+        "prixRevientTotalDA": 4212769,
+        "prixRevientMillions": "421.3"
+      },
+      {
+        "ageFr": "3 ans d'ancienneté (-30% décote)",
+        "ageAr": "3 سنوات (تخفيض 30%)",
+        "valeurCifEur": 10360,
+        "taxesDouaneDA": 454700,
+        "coutSquareDA": 3697500,
+        "prixRevientTotalDA": 4152200,
+        "prixRevientMillions": "415.2"
+      }
+    ],
+    "faqFr": [
+      {
+        "q": "Combien coûte le dédouanement d'une Citroën C3 1.2 PureTech en Algérie ?",
+        "a": "Pour un véhicule de 2 ans acheté environ 13 800 €, les taxes et droits de douane s'élèvent à environ 515 269 DA (soit 51.5 Millions de centimes) grâce à l'abattement fiscal prévu par la Loi de Finances."
+      },
+      {
+        "q": "Quel est le prix de revient total au taux du Square ?",
+        "a": "Le coût global d'acquisition (achat des devises au cours du Square Port-Saïd + frais de transport 700 € + dédouanement au port algérien) revient à environ 4 212 769 DA, soit 421.3 Millions de centimes."
+      },
+      {
+        "q": "Quelle est la cylindrée fiscale et l'abattement douanier de ce modèle ?",
+        "a": "Ce modèle dispose d'un moteur de 1199 cm³. Il relève de la catégorie \"Moins de 1200 cm³ (Abattement 80%)\"."
+      }
+    ],
+    "faqAr": [
+      {
+        "q": "كم تكلفة جمركة سيارة Citroën C3 1.2 PureTech في الجزائر؟",
+        "a": "لسيارة عمرها سنتان وسعرها حوالي 13 800 يورو، تقدر الرسوم الجمركية بحوالي 515 269 دج (أي ما يعادل 51.5 مليون سنتيم) بفضل التخفيض المنصوص عليه في قانون المالية."
+      },
+      {
+        "q": "كم يبلغ سعر التكلفة الإجمالي بحساب سعر السكوار؟",
+        "a": "التكلفة الإجمالية (شراء اليورو من ساحة بورسعيد + الشحن 700 يورو + الجمركة عند الوصول إلى الميناء الجزائري) تبلغ حوالي 4 212 769 دج، أي ما يقارب 421.3 مليون سنتيم."
+      },
+      {
+        "q": "ما هي سعة المحرك ونسبة التخفيض الجمركي لهذه السيارة؟",
+        "a": "تبلغ سعة محرك هذا الموديل 1199 سم³، ويندرج تحت فئة \"أقل من 1200 سم³ (تخفيض 80%)\"."
+      }
+    ]
+  },
+  {
+    "slug": "audi-a3",
+    "marque": "Audi",
+    "modele": "A3 35 TFSI 1.5",
+    "cylindree": 1498,
+    "categorie": "moyenne_cylindree",
+    "prix2024": 26500,
+    "prix2025": 28500,
+    "prix2026": 30500,
+    "isAdsensePriority": false,
+    "titleFr": "Dédouanement Audi A3 35 TFSI 1.5 (< 3 ans) en Algérie : Prix & Taxes 2024",
+    "titleAr": "جمركة Audi A3 35 TFSI 1.5 (أقل من 3 سنوات) في الجزائر: الأسعار والرسوم",
+    "descriptionFr": "Combien coûte le dédouanement d'une Audi A3 35 TFSI 1.5 en Algérie ? Droits de douane Article 110, décote 3 ans, coût Square et prix de revient total en Dinars.",
+    "descriptionAr": "كم تبلغ تكلفة جمركة Audi A3 35 TFSI 1.5 في الجزائر؟ الرسوم الجمركية وفق المادة 110، التخفيض، وسعر التكلفة الإجمالي بالدينار والسكوار.",
+    "calc": {
+      "prixEur": 26500,
+      "age": 2,
+      "tauxDecote": 20,
+      "valeurCifEur": 21900,
+      "valeurCifDA": 3372600,
+      "taxesDouaneDA": 1322059,
+      "coutSquareDA": 6936000,
+      "prixRevientTotalDA": 8258059,
+      "prixRevientMillions": "825.8",
+      "taxesDouaneMillions": "132.2",
+      "coutSquareMillions": "693.6"
+    },
+    "calc1an": {
+      "prixEur": 26500,
+      "age": 1,
+      "tauxDecote": 10,
+      "valeurCifEur": 24550,
+      "valeurCifDA": 3780700,
+      "taxesDouaneDA": 1482034,
+      "coutSquareDA": 6936000,
+      "prixRevientTotalDA": 8418034,
+      "prixRevientMillions": "841.8",
+      "taxesDouaneMillions": "148.2",
+      "coutSquareMillions": "693.6"
+    },
+    "calc2ans": {
+      "prixEur": 26500,
+      "age": 2,
+      "tauxDecote": 20,
+      "valeurCifEur": 21900,
+      "valeurCifDA": 3372600,
+      "taxesDouaneDA": 1322059,
+      "coutSquareDA": 6936000,
+      "prixRevientTotalDA": 8258059,
+      "prixRevientMillions": "825.8",
+      "taxesDouaneMillions": "132.2",
+      "coutSquareMillions": "693.6"
+    },
+    "calc3ans": {
+      "prixEur": 26500,
+      "age": 3,
+      "tauxDecote": 30,
+      "valeurCifEur": 19250,
+      "valeurCifDA": 2964500,
+      "taxesDouaneDA": 1162084,
+      "coutSquareDA": 6936000,
+      "prixRevientTotalDA": 8098084,
+      "prixRevientMillions": "809.8",
+      "taxesDouaneMillions": "116.2",
+      "coutSquareMillions": "693.6"
+    },
+    "comparatif": [
+      {
+        "ageFr": "1 an d'ancienneté (-10% décote)",
+        "ageAr": "سنة واحدة (تخفيض 10%)",
+        "valeurCifEur": 24550,
+        "taxesDouaneDA": 1482034,
+        "coutSquareDA": 6936000,
+        "prixRevientTotalDA": 8418034,
+        "prixRevientMillions": "841.8"
+      },
+      {
+        "ageFr": "2 ans d'ancienneté (-20% décote)",
+        "ageAr": "سنتان (تخفيض 20%)",
+        "valeurCifEur": 21900,
+        "taxesDouaneDA": 1322059,
+        "coutSquareDA": 6936000,
+        "prixRevientTotalDA": 8258059,
+        "prixRevientMillions": "825.8"
+      },
+      {
+        "ageFr": "3 ans d'ancienneté (-30% décote)",
+        "ageAr": "3 سنوات (تخفيض 30%)",
+        "valeurCifEur": 19250,
+        "taxesDouaneDA": 1162084,
+        "coutSquareDA": 6936000,
+        "prixRevientTotalDA": 8098084,
+        "prixRevientMillions": "809.8"
+      }
+    ],
+    "faqFr": [
+      {
+        "q": "Combien coûte le dédouanement d'une Audi A3 35 TFSI 1.5 en Algérie ?",
+        "a": "Pour un véhicule de 2 ans acheté environ 26 500 €, les taxes et droits de douane s'élèvent à environ 1 322 059 DA (soit 132.2 Millions de centimes) grâce à l'abattement fiscal prévu par la Loi de Finances."
+      },
+      {
+        "q": "Quel est le prix de revient total au taux du Square ?",
+        "a": "Le coût global d'acquisition (achat des devises au cours du Square Port-Saïd + frais de transport 700 € + dédouanement au port algérien) revient à environ 8 258 059 DA, soit 825.8 Millions de centimes."
+      },
+      {
+        "q": "Quelle est la cylindrée fiscale et l'abattement douanier de ce modèle ?",
+        "a": "Ce modèle dispose d'un moteur de 1498 cm³. Il relève de la catégorie \"1201 à 1800 cm³ (Abattement 50%)\"."
+      }
+    ],
+    "faqAr": [
+      {
+        "q": "كم تكلفة جمركة سيارة Audi A3 35 TFSI 1.5 في الجزائر؟",
+        "a": "لسيارة عمرها سنتان وسعرها حوالي 26 500 يورو، تقدر الرسوم الجمركية بحوالي 1 322 059 دج (أي ما يعادل 132.2 مليون سنتيم) بفضل التخفيض المنصوص عليه في قانون المالية."
+      },
+      {
+        "q": "كم يبلغ سعر التكلفة الإجمالي بحساب سعر السكوار؟",
+        "a": "التكلفة الإجمالية (شراء اليورو من ساحة بورسعيد + الشحن 700 يورو + الجمركة عند الوصول إلى الميناء الجزائري) تبلغ حوالي 8 258 059 دج، أي ما يقارب 825.8 مليون سنتيم."
+      },
+      {
+        "q": "ما هي سعة المحرك ونسبة التخفيض الجمركي لهذه السيارة؟",
+        "a": "تبلغ سعة محرك هذا الموديل 1498 سم³، ويندرج تحت فئة \"1201 إلى 1800 سم³ (تخفيض 50%)\"."
+      }
+    ]
+  },
+  {
+    "slug": "cupra-formentor",
+    "marque": "Cupra",
+    "modele": "Formentor 1.5 TSI",
+    "cylindree": 1498,
+    "categorie": "moyenne_cylindree",
+    "prix2024": 27900,
+    "prix2025": 29900,
+    "prix2026": 32000,
+    "isAdsensePriority": false,
+    "titleFr": "Dédouanement Cupra Formentor 1.5 TSI (< 3 ans) en Algérie : Prix & Taxes 2024",
+    "titleAr": "جمركة Cupra Formentor 1.5 TSI (أقل من 3 سنوات) في الجزائر: الأسعار والرسوم",
+    "descriptionFr": "Combien coûte le dédouanement d'une Cupra Formentor 1.5 TSI en Algérie ? Droits de douane Article 110, décote 3 ans, coût Square et prix de revient total en Dinars.",
+    "descriptionAr": "كم تبلغ تكلفة جمركة Cupra Formentor 1.5 TSI في الجزائر؟ الرسوم الجمركية وفق المادة 110، التخفيض، وسعر التكلفة الإجمالي بالدينار والسكوار.",
+    "calc": {
+      "prixEur": 27900,
+      "age": 2,
+      "tauxDecote": 20,
+      "valeurCifEur": 23020,
+      "valeurCifDA": 3545080,
+      "taxesDouaneDA": 1389671,
+      "coutSquareDA": 7293000,
+      "prixRevientTotalDA": 8682671,
+      "prixRevientMillions": "868.3",
+      "taxesDouaneMillions": "139.0",
+      "coutSquareMillions": "729.3"
+    },
+    "calc1an": {
+      "prixEur": 27900,
+      "age": 1,
+      "tauxDecote": 10,
+      "valeurCifEur": 25810,
+      "valeurCifDA": 3974740,
+      "taxesDouaneDA": 1558098,
+      "coutSquareDA": 7293000,
+      "prixRevientTotalDA": 8851098,
+      "prixRevientMillions": "885.1",
+      "taxesDouaneMillions": "155.8",
+      "coutSquareMillions": "729.3"
+    },
+    "calc2ans": {
+      "prixEur": 27900,
+      "age": 2,
+      "tauxDecote": 20,
+      "valeurCifEur": 23020,
+      "valeurCifDA": 3545080,
+      "taxesDouaneDA": 1389671,
+      "coutSquareDA": 7293000,
+      "prixRevientTotalDA": 8682671,
+      "prixRevientMillions": "868.3",
+      "taxesDouaneMillions": "139.0",
+      "coutSquareMillions": "729.3"
+    },
+    "calc3ans": {
+      "prixEur": 27900,
+      "age": 3,
+      "tauxDecote": 30,
+      "valeurCifEur": 20230,
+      "valeurCifDA": 3115420,
+      "taxesDouaneDA": 1221245,
+      "coutSquareDA": 7293000,
+      "prixRevientTotalDA": 8514245,
+      "prixRevientMillions": "851.4",
+      "taxesDouaneMillions": "122.1",
+      "coutSquareMillions": "729.3"
+    },
+    "comparatif": [
+      {
+        "ageFr": "1 an d'ancienneté (-10% décote)",
+        "ageAr": "سنة واحدة (تخفيض 10%)",
+        "valeurCifEur": 25810,
+        "taxesDouaneDA": 1558098,
+        "coutSquareDA": 7293000,
+        "prixRevientTotalDA": 8851098,
+        "prixRevientMillions": "885.1"
+      },
+      {
+        "ageFr": "2 ans d'ancienneté (-20% décote)",
+        "ageAr": "سنتان (تخفيض 20%)",
+        "valeurCifEur": 23020,
+        "taxesDouaneDA": 1389671,
+        "coutSquareDA": 7293000,
+        "prixRevientTotalDA": 8682671,
+        "prixRevientMillions": "868.3"
+      },
+      {
+        "ageFr": "3 ans d'ancienneté (-30% décote)",
+        "ageAr": "3 سنوات (تخفيض 30%)",
+        "valeurCifEur": 20230,
+        "taxesDouaneDA": 1221245,
+        "coutSquareDA": 7293000,
+        "prixRevientTotalDA": 8514245,
+        "prixRevientMillions": "851.4"
+      }
+    ],
+    "faqFr": [
+      {
+        "q": "Combien coûte le dédouanement d'une Cupra Formentor 1.5 TSI en Algérie ?",
+        "a": "Pour un véhicule de 2 ans acheté environ 27 900 €, les taxes et droits de douane s'élèvent à environ 1 389 671 DA (soit 139.0 Millions de centimes) grâce à l'abattement fiscal prévu par la Loi de Finances."
+      },
+      {
+        "q": "Quel est le prix de revient total au taux du Square ?",
+        "a": "Le coût global d'acquisition (achat des devises au cours du Square Port-Saïd + frais de transport 700 € + dédouanement au port algérien) revient à environ 8 682 671 DA, soit 868.3 Millions de centimes."
+      },
+      {
+        "q": "Quelle est la cylindrée fiscale et l'abattement douanier de ce modèle ?",
+        "a": "Ce modèle dispose d'un moteur de 1498 cm³. Il relève de la catégorie \"1201 à 1800 cm³ (Abattement 50%)\"."
+      }
+    ],
+    "faqAr": [
+      {
+        "q": "كم تكلفة جمركة سيارة Cupra Formentor 1.5 TSI في الجزائر؟",
+        "a": "لسيارة عمرها سنتان وسعرها حوالي 27 900 يورو، تقدر الرسوم الجمركية بحوالي 1 389 671 دج (أي ما يعادل 139.0 مليون سنتيم) بفضل التخفيض المنصوص عليه في قانون المالية."
+      },
+      {
+        "q": "كم يبلغ سعر التكلفة الإجمالي بحساب سعر السكوار؟",
+        "a": "التكلفة الإجمالية (شراء اليورو من ساحة بورسعيد + الشحن 700 يورو + الجمركة عند الوصول إلى الميناء الجزائري) تبلغ حوالي 8 682 671 دج، أي ما يقارب 868.3 مليون سنتيم."
+      },
+      {
+        "q": "ما هي سعة المحرك ونسبة التخفيض الجمركي لهذه السيارة؟",
+        "a": "تبلغ سعة محرك هذا الموديل 1498 سم³، ويندرج تحت فئة \"1201 إلى 1800 سم³ (تخفيض 50%)\"."
+      }
+    ]
+  },
+  {
+    "slug": "mg-zs",
+    "marque": "MG",
+    "modele": "ZS 1.5 VTi",
+    "cylindree": 1498,
+    "categorie": "moyenne_cylindree",
+    "prix2024": 14500,
+    "prix2025": 15700,
+    "prix2026": 16900,
+    "isAdsensePriority": false,
+    "titleFr": "Dédouanement MG ZS 1.5 VTi (< 3 ans) en Algérie : Prix & Taxes 2024",
+    "titleAr": "جمركة MG ZS 1.5 VTi (أقل من 3 سنوات) في الجزائر: الأسعار والرسوم",
+    "descriptionFr": "Combien coûte le dédouanement d'une MG ZS 1.5 VTi en Algérie ? Droits de douane Article 110, décote 3 ans, coût Square et prix de revient total en Dinars.",
+    "descriptionAr": "كم تبلغ تكلفة جمركة MG ZS 1.5 VTi في الجزائر؟ الرسوم الجمركية وفق المادة 110، التخفيض، وسعر التكلفة الإجمالي بالدينار والسكوار.",
+    "calc": {
+      "prixEur": 14500,
+      "age": 2,
+      "tauxDecote": 20,
+      "valeurCifEur": 12300,
+      "valeurCifDA": 1894200,
+      "taxesDouaneDA": 742526,
+      "coutSquareDA": 3876000,
+      "prixRevientTotalDA": 4618526,
+      "prixRevientMillions": "461.9",
+      "taxesDouaneMillions": "74.3",
+      "coutSquareMillions": "387.6"
+    },
+    "calc1an": {
+      "prixEur": 14500,
+      "age": 1,
+      "tauxDecote": 10,
+      "valeurCifEur": 13750,
+      "valeurCifDA": 2117500,
+      "taxesDouaneDA": 830060,
+      "coutSquareDA": 3876000,
+      "prixRevientTotalDA": 4706060,
+      "prixRevientMillions": "470.6",
+      "taxesDouaneMillions": "83.0",
+      "coutSquareMillions": "387.6"
+    },
+    "calc2ans": {
+      "prixEur": 14500,
+      "age": 2,
+      "tauxDecote": 20,
+      "valeurCifEur": 12300,
+      "valeurCifDA": 1894200,
+      "taxesDouaneDA": 742526,
+      "coutSquareDA": 3876000,
+      "prixRevientTotalDA": 4618526,
+      "prixRevientMillions": "461.9",
+      "taxesDouaneMillions": "74.3",
+      "coutSquareMillions": "387.6"
+    },
+    "calc3ans": {
+      "prixEur": 14500,
+      "age": 3,
+      "tauxDecote": 30,
+      "valeurCifEur": 10850,
+      "valeurCifDA": 1670900,
+      "taxesDouaneDA": 654993,
+      "coutSquareDA": 3876000,
+      "prixRevientTotalDA": 4530993,
+      "prixRevientMillions": "453.1",
+      "taxesDouaneMillions": "65.5",
+      "coutSquareMillions": "387.6"
+    },
+    "comparatif": [
+      {
+        "ageFr": "1 an d'ancienneté (-10% décote)",
+        "ageAr": "سنة واحدة (تخفيض 10%)",
+        "valeurCifEur": 13750,
+        "taxesDouaneDA": 830060,
+        "coutSquareDA": 3876000,
+        "prixRevientTotalDA": 4706060,
+        "prixRevientMillions": "470.6"
+      },
+      {
+        "ageFr": "2 ans d'ancienneté (-20% décote)",
+        "ageAr": "سنتان (تخفيض 20%)",
+        "valeurCifEur": 12300,
+        "taxesDouaneDA": 742526,
+        "coutSquareDA": 3876000,
+        "prixRevientTotalDA": 4618526,
+        "prixRevientMillions": "461.9"
+      },
+      {
+        "ageFr": "3 ans d'ancienneté (-30% décote)",
+        "ageAr": "3 سنوات (تخفيض 30%)",
+        "valeurCifEur": 10850,
+        "taxesDouaneDA": 654993,
+        "coutSquareDA": 3876000,
+        "prixRevientTotalDA": 4530993,
+        "prixRevientMillions": "453.1"
+      }
+    ],
+    "faqFr": [
+      {
+        "q": "Combien coûte le dédouanement d'une MG ZS 1.5 VTi en Algérie ?",
+        "a": "Pour un véhicule de 2 ans acheté environ 14 500 €, les taxes et droits de douane s'élèvent à environ 742 526 DA (soit 74.3 Millions de centimes) grâce à l'abattement fiscal prévu par la Loi de Finances."
+      },
+      {
+        "q": "Quel est le prix de revient total au taux du Square ?",
+        "a": "Le coût global d'acquisition (achat des devises au cours du Square Port-Saïd + frais de transport 700 € + dédouanement au port algérien) revient à environ 4 618 526 DA, soit 461.9 Millions de centimes."
+      },
+      {
+        "q": "Quelle est la cylindrée fiscale et l'abattement douanier de ce modèle ?",
+        "a": "Ce modèle dispose d'un moteur de 1498 cm³. Il relève de la catégorie \"1201 à 1800 cm³ (Abattement 50%)\"."
+      }
+    ],
+    "faqAr": [
+      {
+        "q": "كم تكلفة جمركة سيارة MG ZS 1.5 VTi في الجزائر؟",
+        "a": "لسيارة عمرها سنتان وسعرها حوالي 14 500 يورو، تقدر الرسوم الجمركية بحوالي 742 526 دج (أي ما يعادل 74.3 مليون سنتيم) بفضل التخفيض المنصوص عليه في قانون المالية."
+      },
+      {
+        "q": "كم يبلغ سعر التكلفة الإجمالي بحساب سعر السكوار؟",
+        "a": "التكلفة الإجمالية (شراء اليورو من ساحة بورسعيد + الشحن 700 يورو + الجمركة عند الوصول إلى الميناء الجزائري) تبلغ حوالي 4 618 526 دج، أي ما يقارب 461.9 مليون سنتيم."
+      },
+      {
+        "q": "ما هي سعة المحرك ونسبة التخفيض الجمركي لهذه السيارة؟",
+        "a": "تبلغ سعة محرك هذا الموديل 1498 سم³، ويندرج تحت فئة \"1201 إلى 1800 سم³ (تخفيض 50%)\"."
+      }
+    ]
+  },
+  {
+    "slug": "suzuki-swift",
+    "marque": "Suzuki",
+    "modele": "Swift 1.2 Dualjet Hybrid",
+    "cylindree": 1197,
+    "categorie": "electrique_ou_petit_essence",
+    "prix2024": 13900,
+    "prix2025": 14900,
+    "prix2026": 15900,
+    "isAdsensePriority": false,
+    "titleFr": "Dédouanement Suzuki Swift 1.2 Dualjet Hybrid (< 3 ans) en Algérie : Prix & Taxes 2024",
+    "titleAr": "جمركة Suzuki Swift 1.2 Dualjet Hybrid (أقل من 3 سنوات) في الجزائر: الأسعار والرسوم",
+    "descriptionFr": "Combien coûte le dédouanement d'une Suzuki Swift 1.2 Dualjet Hybrid en Algérie ? Droits de douane Article 110, décote 3 ans, coût Square et prix de revient total en Dinars.",
+    "descriptionAr": "كم تبلغ تكلفة جمركة Suzuki Swift 1.2 Dualjet Hybrid في الجزائر؟ الرسوم الجمركية وفق المادة 110، التخفيض، وسعر التكلفة الإجمالي بالدينار والسكوار.",
+    "calc": {
+      "prixEur": 13900,
+      "age": 2,
+      "tauxDecote": 20,
+      "valeurCifEur": 11820,
+      "valeurCifDA": 1820280,
+      "taxesDouaneDA": 518780,
+      "coutSquareDA": 3723000,
+      "prixRevientTotalDA": 4241780,
+      "prixRevientMillions": "424.2",
+      "taxesDouaneMillions": "51.9",
+      "coutSquareMillions": "372.3"
+    },
+    "calc1an": {
+      "prixEur": 13900,
+      "age": 1,
+      "tauxDecote": 10,
+      "valeurCifEur": 13210,
+      "valeurCifDA": 2034340,
+      "taxesDouaneDA": 579787,
+      "coutSquareDA": 3723000,
+      "prixRevientTotalDA": 4302787,
+      "prixRevientMillions": "430.3",
+      "taxesDouaneMillions": "58.0",
+      "coutSquareMillions": "372.3"
+    },
+    "calc2ans": {
+      "prixEur": 13900,
+      "age": 2,
+      "tauxDecote": 20,
+      "valeurCifEur": 11820,
+      "valeurCifDA": 1820280,
+      "taxesDouaneDA": 518780,
+      "coutSquareDA": 3723000,
+      "prixRevientTotalDA": 4241780,
+      "prixRevientMillions": "424.2",
+      "taxesDouaneMillions": "51.9",
+      "coutSquareMillions": "372.3"
+    },
+    "calc3ans": {
+      "prixEur": 13900,
+      "age": 3,
+      "tauxDecote": 30,
+      "valeurCifEur": 10430,
+      "valeurCifDA": 1606220,
+      "taxesDouaneDA": 457773,
+      "coutSquareDA": 3723000,
+      "prixRevientTotalDA": 4180773,
+      "prixRevientMillions": "418.1",
+      "taxesDouaneMillions": "45.8",
+      "coutSquareMillions": "372.3"
+    },
+    "comparatif": [
+      {
+        "ageFr": "1 an d'ancienneté (-10% décote)",
+        "ageAr": "سنة واحدة (تخفيض 10%)",
+        "valeurCifEur": 13210,
+        "taxesDouaneDA": 579787,
+        "coutSquareDA": 3723000,
+        "prixRevientTotalDA": 4302787,
+        "prixRevientMillions": "430.3"
+      },
+      {
+        "ageFr": "2 ans d'ancienneté (-20% décote)",
+        "ageAr": "سنتان (تخفيض 20%)",
+        "valeurCifEur": 11820,
+        "taxesDouaneDA": 518780,
+        "coutSquareDA": 3723000,
+        "prixRevientTotalDA": 4241780,
+        "prixRevientMillions": "424.2"
+      },
+      {
+        "ageFr": "3 ans d'ancienneté (-30% décote)",
+        "ageAr": "3 سنوات (تخفيض 30%)",
+        "valeurCifEur": 10430,
+        "taxesDouaneDA": 457773,
+        "coutSquareDA": 3723000,
+        "prixRevientTotalDA": 4180773,
+        "prixRevientMillions": "418.1"
+      }
+    ],
+    "faqFr": [
+      {
+        "q": "Combien coûte le dédouanement d'une Suzuki Swift 1.2 Dualjet Hybrid en Algérie ?",
+        "a": "Pour un véhicule de 2 ans acheté environ 13 900 €, les taxes et droits de douane s'élèvent à environ 518 780 DA (soit 51.9 Millions de centimes) grâce à l'abattement fiscal prévu par la Loi de Finances."
+      },
+      {
+        "q": "Quel est le prix de revient total au taux du Square ?",
+        "a": "Le coût global d'acquisition (achat des devises au cours du Square Port-Saïd + frais de transport 700 € + dédouanement au port algérien) revient à environ 4 241 780 DA, soit 424.2 Millions de centimes."
+      },
+      {
+        "q": "Quelle est la cylindrée fiscale et l'abattement douanier de ce modèle ?",
+        "a": "Ce modèle dispose d'un moteur de 1197 cm³. Il relève de la catégorie \"Moins de 1200 cm³ (Abattement 80%)\"."
+      }
+    ],
+    "faqAr": [
+      {
+        "q": "كم تكلفة جمركة سيارة Suzuki Swift 1.2 Dualjet Hybrid في الجزائر؟",
+        "a": "لسيارة عمرها سنتان وسعرها حوالي 13 900 يورو، تقدر الرسوم الجمركية بحوالي 518 780 دج (أي ما يعادل 51.9 مليون سنتيم) بفضل التخفيض المنصوص عليه في قانون المالية."
+      },
+      {
+        "q": "كم يبلغ سعر التكلفة الإجمالي بحساب سعر السكوار؟",
+        "a": "التكلفة الإجمالية (شراء اليورو من ساحة بورسعيد + الشحن 700 يورو + الجمركة عند الوصول إلى الميناء الجزائري) تبلغ حوالي 4 241 780 دج، أي ما يقارب 424.2 مليون سنتيم."
+      },
+      {
+        "q": "ما هي سعة المحرك ونسبة التخفيض الجمركي لهذه السيارة؟",
+        "a": "تبلغ سعة محرك هذا الموديل 1197 سم³، ويندرج تحت فئة \"أقل من 1200 سم³ (تخفيض 80%)\"."
+      }
+    ]
+  },
+  {
+    "slug": "renault-captur",
+    "marque": "Renault",
+    "modele": "Captur 1.3 TCe",
+    "cylindree": 1332,
+    "categorie": "moyenne_cylindree",
+    "prix2024": 17900,
+    "prix2025": 19200,
+    "prix2026": 20600,
+    "isAdsensePriority": false,
+    "titleFr": "Dédouanement Renault Captur 1.3 TCe (< 3 ans) en Algérie : Prix & Taxes 2024",
+    "titleAr": "جمركة Renault Captur 1.3 TCe (أقل من 3 سنوات) في الجزائر: الأسعار والرسوم",
+    "descriptionFr": "Combien coûte le dédouanement d'une Renault Captur 1.3 TCe en Algérie ? Droits de douane Article 110, décote 3 ans, coût Square et prix de revient total en Dinars.",
+    "descriptionAr": "كم تبلغ تكلفة جمركة Renault Captur 1.3 TCe في الجزائر؟ الرسوم الجمركية وفق المادة 110، التخفيض، وسعر التكلفة الإجمالي بالدينار والسكوار.",
+    "calc": {
+      "prixEur": 17900,
+      "age": 2,
+      "tauxDecote": 20,
+      "valeurCifEur": 15020,
+      "valeurCifDA": 2313080,
+      "taxesDouaneDA": 906727,
+      "coutSquareDA": 4743000,
+      "prixRevientTotalDA": 5649727,
+      "prixRevientMillions": "565.0",
+      "taxesDouaneMillions": "90.7",
+      "coutSquareMillions": "474.3"
+    },
+    "calc1an": {
+      "prixEur": 17900,
+      "age": 1,
+      "tauxDecote": 10,
+      "valeurCifEur": 16810,
+      "valeurCifDA": 2588740,
+      "taxesDouaneDA": 1014786,
+      "coutSquareDA": 4743000,
+      "prixRevientTotalDA": 5757786,
+      "prixRevientMillions": "575.8",
+      "taxesDouaneMillions": "101.5",
+      "coutSquareMillions": "474.3"
+    },
+    "calc2ans": {
+      "prixEur": 17900,
+      "age": 2,
+      "tauxDecote": 20,
+      "valeurCifEur": 15020,
+      "valeurCifDA": 2313080,
+      "taxesDouaneDA": 906727,
+      "coutSquareDA": 4743000,
+      "prixRevientTotalDA": 5649727,
+      "prixRevientMillions": "565.0",
+      "taxesDouaneMillions": "90.7",
+      "coutSquareMillions": "474.3"
+    },
+    "calc3ans": {
+      "prixEur": 17900,
+      "age": 3,
+      "tauxDecote": 30,
+      "valeurCifEur": 13230,
+      "valeurCifDA": 2037420,
+      "taxesDouaneDA": 798669,
+      "coutSquareDA": 4743000,
+      "prixRevientTotalDA": 5541669,
+      "prixRevientMillions": "554.2",
+      "taxesDouaneMillions": "79.9",
+      "coutSquareMillions": "474.3"
+    },
+    "comparatif": [
+      {
+        "ageFr": "1 an d'ancienneté (-10% décote)",
+        "ageAr": "سنة واحدة (تخفيض 10%)",
+        "valeurCifEur": 16810,
+        "taxesDouaneDA": 1014786,
+        "coutSquareDA": 4743000,
+        "prixRevientTotalDA": 5757786,
+        "prixRevientMillions": "575.8"
+      },
+      {
+        "ageFr": "2 ans d'ancienneté (-20% décote)",
+        "ageAr": "سنتان (تخفيض 20%)",
+        "valeurCifEur": 15020,
+        "taxesDouaneDA": 906727,
+        "coutSquareDA": 4743000,
+        "prixRevientTotalDA": 5649727,
+        "prixRevientMillions": "565.0"
+      },
+      {
+        "ageFr": "3 ans d'ancienneté (-30% décote)",
+        "ageAr": "3 سنوات (تخفيض 30%)",
+        "valeurCifEur": 13230,
+        "taxesDouaneDA": 798669,
+        "coutSquareDA": 4743000,
+        "prixRevientTotalDA": 5541669,
+        "prixRevientMillions": "554.2"
+      }
+    ],
+    "faqFr": [
+      {
+        "q": "Combien coûte le dédouanement d'une Renault Captur 1.3 TCe en Algérie ?",
+        "a": "Pour un véhicule de 2 ans acheté environ 17 900 €, les taxes et droits de douane s'élèvent à environ 906 727 DA (soit 90.7 Millions de centimes) grâce à l'abattement fiscal prévu par la Loi de Finances."
+      },
+      {
+        "q": "Quel est le prix de revient total au taux du Square ?",
+        "a": "Le coût global d'acquisition (achat des devises au cours du Square Port-Saïd + frais de transport 700 € + dédouanement au port algérien) revient à environ 5 649 727 DA, soit 565.0 Millions de centimes."
+      },
+      {
+        "q": "Quelle est la cylindrée fiscale et l'abattement douanier de ce modèle ?",
+        "a": "Ce modèle dispose d'un moteur de 1332 cm³. Il relève de la catégorie \"1201 à 1800 cm³ (Abattement 50%)\"."
+      }
+    ],
+    "faqAr": [
+      {
+        "q": "كم تكلفة جمركة سيارة Renault Captur 1.3 TCe في الجزائر؟",
+        "a": "لسيارة عمرها سنتان وسعرها حوالي 17 900 يورو، تقدر الرسوم الجمركية بحوالي 906 727 دج (أي ما يعادل 90.7 مليون سنتيم) بفضل التخفيض المنصوص عليه في قانون المالية."
+      },
+      {
+        "q": "كم يبلغ سعر التكلفة الإجمالي بحساب سعر السكوار؟",
+        "a": "التكلفة الإجمالية (شراء اليورو من ساحة بورسعيد + الشحن 700 يورو + الجمركة عند الوصول إلى الميناء الجزائري) تبلغ حوالي 5 649 727 دج، أي ما يقارب 565.0 مليون سنتيم."
+      },
+      {
+        "q": "ما هي سعة المحرك ونسبة التخفيض الجمركي لهذه السيارة؟",
+        "a": "تبلغ سعة محرك هذا الموديل 1332 سم³، ويندرج تحت فئة \"1201 إلى 1800 سم³ (تخفيض 50%)\"."
+      }
+    ]
+  },
+  {
+    "slug": "peugeot-2008",
+    "marque": "Peugeot",
+    "modele": "2008 1.2 PureTech",
+    "cylindree": 1199,
+    "categorie": "electrique_ou_petit_essence",
+    "prix2024": 18500,
+    "prix2025": 19900,
+    "prix2026": 21400,
+    "isAdsensePriority": false,
+    "titleFr": "Dédouanement Peugeot 2008 1.2 PureTech (< 3 ans) en Algérie : Prix & Taxes 2024",
+    "titleAr": "جمركة Peugeot 2008 1.2 PureTech (أقل من 3 سنوات) في الجزائر: الأسعار والرسوم",
+    "descriptionFr": "Combien coûte le dédouanement d'une Peugeot 2008 1.2 PureTech en Algérie ? Droits de douane Article 110, décote 3 ans, coût Square et prix de revient total en Dinars.",
+    "descriptionAr": "كم تبلغ تكلفة جمركة Peugeot 2008 1.2 PureTech في الجزائر؟ الرسوم الجمركية وفق المادة 110، التخفيض، وسعر التكلفة الإجمالي بالدينار والسكوار.",
+    "calc": {
+      "prixEur": 18500,
+      "age": 2,
+      "tauxDecote": 20,
+      "valeurCifEur": 15500,
+      "valeurCifDA": 2387000,
+      "taxesDouaneDA": 680295,
+      "coutSquareDA": 4896000,
+      "prixRevientTotalDA": 5576295,
+      "prixRevientMillions": "557.6",
+      "taxesDouaneMillions": "68.0",
+      "coutSquareMillions": "489.6"
+    },
+    "calc1an": {
+      "prixEur": 18500,
+      "age": 1,
+      "tauxDecote": 10,
+      "valeurCifEur": 17350,
+      "valeurCifDA": 2671900,
+      "taxesDouaneDA": 761491,
+      "coutSquareDA": 4896000,
+      "prixRevientTotalDA": 5657491,
+      "prixRevientMillions": "565.7",
+      "taxesDouaneMillions": "76.1",
+      "coutSquareMillions": "489.6"
+    },
+    "calc2ans": {
+      "prixEur": 18500,
+      "age": 2,
+      "tauxDecote": 20,
+      "valeurCifEur": 15500,
+      "valeurCifDA": 2387000,
+      "taxesDouaneDA": 680295,
+      "coutSquareDA": 4896000,
+      "prixRevientTotalDA": 5576295,
+      "prixRevientMillions": "557.6",
+      "taxesDouaneMillions": "68.0",
+      "coutSquareMillions": "489.6"
+    },
+    "calc3ans": {
+      "prixEur": 18500,
+      "age": 3,
+      "tauxDecote": 30,
+      "valeurCifEur": 13650,
+      "valeurCifDA": 2102100,
+      "taxesDouaneDA": 599099,
+      "coutSquareDA": 4896000,
+      "prixRevientTotalDA": 5495099,
+      "prixRevientMillions": "549.5",
+      "taxesDouaneMillions": "59.9",
+      "coutSquareMillions": "489.6"
+    },
+    "comparatif": [
+      {
+        "ageFr": "1 an d'ancienneté (-10% décote)",
+        "ageAr": "سنة واحدة (تخفيض 10%)",
+        "valeurCifEur": 17350,
+        "taxesDouaneDA": 761491,
+        "coutSquareDA": 4896000,
+        "prixRevientTotalDA": 5657491,
+        "prixRevientMillions": "565.7"
+      },
+      {
+        "ageFr": "2 ans d'ancienneté (-20% décote)",
+        "ageAr": "سنتان (تخفيض 20%)",
+        "valeurCifEur": 15500,
+        "taxesDouaneDA": 680295,
+        "coutSquareDA": 4896000,
+        "prixRevientTotalDA": 5576295,
+        "prixRevientMillions": "557.6"
+      },
+      {
+        "ageFr": "3 ans d'ancienneté (-30% décote)",
+        "ageAr": "3 سنوات (تخفيض 30%)",
+        "valeurCifEur": 13650,
+        "taxesDouaneDA": 599099,
+        "coutSquareDA": 4896000,
+        "prixRevientTotalDA": 5495099,
+        "prixRevientMillions": "549.5"
+      }
+    ],
+    "faqFr": [
+      {
+        "q": "Combien coûte le dédouanement d'une Peugeot 2008 1.2 PureTech en Algérie ?",
+        "a": "Pour un véhicule de 2 ans acheté environ 18 500 €, les taxes et droits de douane s'élèvent à environ 680 295 DA (soit 68.0 Millions de centimes) grâce à l'abattement fiscal prévu par la Loi de Finances."
+      },
+      {
+        "q": "Quel est le prix de revient total au taux du Square ?",
+        "a": "Le coût global d'acquisition (achat des devises au cours du Square Port-Saïd + frais de transport 700 € + dédouanement au port algérien) revient à environ 5 576 295 DA, soit 557.6 Millions de centimes."
+      },
+      {
+        "q": "Quelle est la cylindrée fiscale et l'abattement douanier de ce modèle ?",
+        "a": "Ce modèle dispose d'un moteur de 1199 cm³. Il relève de la catégorie \"Moins de 1200 cm³ (Abattement 80%)\"."
+      }
+    ],
+    "faqAr": [
+      {
+        "q": "كم تكلفة جمركة سيارة Peugeot 2008 1.2 PureTech في الجزائر؟",
+        "a": "لسيارة عمرها سنتان وسعرها حوالي 18 500 يورو، تقدر الرسوم الجمركية بحوالي 680 295 دج (أي ما يعادل 68.0 مليون سنتيم) بفضل التخفيض المنصوص عليه في قانون المالية."
+      },
+      {
+        "q": "كم يبلغ سعر التكلفة الإجمالي بحساب سعر السكوار؟",
+        "a": "التكلفة الإجمالية (شراء اليورو من ساحة بورسعيد + الشحن 700 يورو + الجمركة عند الوصول إلى الميناء الجزائري) تبلغ حوالي 5 576 295 دج، أي ما يقارب 557.6 مليون سنتيم."
+      },
+      {
+        "q": "ما هي سعة المحرك ونسبة التخفيض الجمركي لهذه السيارة؟",
+        "a": "تبلغ سعة محرك هذا الموديل 1199 سم³، ويندرج تحت فئة \"أقل من 1200 سم³ (تخفيض 80%)\"."
+      }
+    ]
+  },
+  {
+    "slug": "nissan-qashqai",
+    "marque": "Nissan",
+    "modele": "Qashqai 1.3 DIG-T",
+    "cylindree": 1332,
+    "categorie": "moyenne_cylindree",
+    "prix2024": 22800,
+    "prix2025": 24500,
+    "prix2026": 26200,
+    "isAdsensePriority": false,
+    "titleFr": "Dédouanement Nissan Qashqai 1.3 DIG-T (< 3 ans) en Algérie : Prix & Taxes 2024",
+    "titleAr": "جمركة Nissan Qashqai 1.3 DIG-T (أقل من 3 سنوات) في الجزائر: الأسعار والرسوم",
+    "descriptionFr": "Combien coûte le dédouanement d'une Nissan Qashqai 1.3 DIG-T en Algérie ? Droits de douane Article 110, décote 3 ans, coût Square et prix de revient total en Dinars.",
+    "descriptionAr": "كم تبلغ تكلفة جمركة Nissan Qashqai 1.3 DIG-T في الجزائر؟ الرسوم الجمركية وفق المادة 110، التخفيض، وسعر التكلفة الإجمالي بالدينار والسكوار.",
+    "calc": {
+      "prixEur": 22800,
+      "age": 2,
+      "tauxDecote": 20,
+      "valeurCifEur": 18940,
+      "valeurCifDA": 2916760,
+      "taxesDouaneDA": 1143370,
+      "coutSquareDA": 5992500,
+      "prixRevientTotalDA": 7135870,
+      "prixRevientMillions": "713.6",
+      "taxesDouaneMillions": "114.3",
+      "coutSquareMillions": "599.3"
+    },
+    "calc1an": {
+      "prixEur": 22800,
+      "age": 1,
+      "tauxDecote": 10,
+      "valeurCifEur": 21220,
+      "valeurCifDA": 3267880,
+      "taxesDouaneDA": 1281009,
+      "coutSquareDA": 5992500,
+      "prixRevientTotalDA": 7273509,
+      "prixRevientMillions": "727.4",
+      "taxesDouaneMillions": "128.1",
+      "coutSquareMillions": "599.3"
+    },
+    "calc2ans": {
+      "prixEur": 22800,
+      "age": 2,
+      "tauxDecote": 20,
+      "valeurCifEur": 18940,
+      "valeurCifDA": 2916760,
+      "taxesDouaneDA": 1143370,
+      "coutSquareDA": 5992500,
+      "prixRevientTotalDA": 7135870,
+      "prixRevientMillions": "713.6",
+      "taxesDouaneMillions": "114.3",
+      "coutSquareMillions": "599.3"
+    },
+    "calc3ans": {
+      "prixEur": 22800,
+      "age": 3,
+      "tauxDecote": 30,
+      "valeurCifEur": 16660,
+      "valeurCifDA": 2565640,
+      "taxesDouaneDA": 1005731,
+      "coutSquareDA": 5992500,
+      "prixRevientTotalDA": 6998231,
+      "prixRevientMillions": "699.8",
+      "taxesDouaneMillions": "100.6",
+      "coutSquareMillions": "599.3"
+    },
+    "comparatif": [
+      {
+        "ageFr": "1 an d'ancienneté (-10% décote)",
+        "ageAr": "سنة واحدة (تخفيض 10%)",
+        "valeurCifEur": 21220,
+        "taxesDouaneDA": 1281009,
+        "coutSquareDA": 5992500,
+        "prixRevientTotalDA": 7273509,
+        "prixRevientMillions": "727.4"
+      },
+      {
+        "ageFr": "2 ans d'ancienneté (-20% décote)",
+        "ageAr": "سنتان (تخفيض 20%)",
+        "valeurCifEur": 18940,
+        "taxesDouaneDA": 1143370,
+        "coutSquareDA": 5992500,
+        "prixRevientTotalDA": 7135870,
+        "prixRevientMillions": "713.6"
+      },
+      {
+        "ageFr": "3 ans d'ancienneté (-30% décote)",
+        "ageAr": "3 سنوات (تخفيض 30%)",
+        "valeurCifEur": 16660,
+        "taxesDouaneDA": 1005731,
+        "coutSquareDA": 5992500,
+        "prixRevientTotalDA": 6998231,
+        "prixRevientMillions": "699.8"
+      }
+    ],
+    "faqFr": [
+      {
+        "q": "Combien coûte le dédouanement d'une Nissan Qashqai 1.3 DIG-T en Algérie ?",
+        "a": "Pour un véhicule de 2 ans acheté environ 22 800 €, les taxes et droits de douane s'élèvent à environ 1 143 370 DA (soit 114.3 Millions de centimes) grâce à l'abattement fiscal prévu par la Loi de Finances."
+      },
+      {
+        "q": "Quel est le prix de revient total au taux du Square ?",
+        "a": "Le coût global d'acquisition (achat des devises au cours du Square Port-Saïd + frais de transport 700 € + dédouanement au port algérien) revient à environ 7 135 870 DA, soit 713.6 Millions de centimes."
+      },
+      {
+        "q": "Quelle est la cylindrée fiscale et l'abattement douanier de ce modèle ?",
+        "a": "Ce modèle dispose d'un moteur de 1332 cm³. Il relève de la catégorie \"1201 à 1800 cm³ (Abattement 50%)\"."
+      }
+    ],
+    "faqAr": [
+      {
+        "q": "كم تكلفة جمركة سيارة Nissan Qashqai 1.3 DIG-T في الجزائر؟",
+        "a": "لسيارة عمرها سنتان وسعرها حوالي 22 800 يورو، تقدر الرسوم الجمركية بحوالي 1 143 370 دج (أي ما يعادل 114.3 مليون سنتيم) بفضل التخفيض المنصوص عليه في قانون المالية."
+      },
+      {
+        "q": "كم يبلغ سعر التكلفة الإجمالي بحساب سعر السكوار؟",
+        "a": "التكلفة الإجمالية (شراء اليورو من ساحة بورسعيد + الشحن 700 يورو + الجمركة عند الوصول إلى الميناء الجزائري) تبلغ حوالي 7 135 870 دج، أي ما يقارب 713.6 مليون سنتيم."
+      },
+      {
+        "q": "ما هي سعة المحرك ونسبة التخفيض الجمركي لهذه السيارة؟",
+        "a": "تبلغ سعة محرك هذا الموديل 1332 سم³، ويندرج تحت فئة \"1201 إلى 1800 سم³ (تخفيض 50%)\"."
+      }
+    ]
+  },
+  {
+    "slug": "volkswagen-tiguan",
+    "marque": "Volkswagen",
+    "modele": "Tiguan 2.0 TDI",
+    "cylindree": 1968,
+    "categorie": "grosse_cylindree",
+    "prix2024": 31000,
+    "prix2025": 33500,
+    "prix2026": 35800,
+    "isAdsensePriority": false,
+    "titleFr": "Dédouanement Volkswagen Tiguan 2.0 TDI (< 3 ans) en Algérie : Prix & Taxes 2024",
+    "titleAr": "جمركة Volkswagen Tiguan 2.0 TDI (أقل من 3 سنوات) في الجزائر: الأسعار والرسوم",
+    "descriptionFr": "Combien coûte le dédouanement d'une Volkswagen Tiguan 2.0 TDI en Algérie ? Droits de douane Article 110, décote 3 ans, coût Square et prix de revient total en Dinars.",
+    "descriptionAr": "كم تبلغ تكلفة جمركة Volkswagen Tiguan 2.0 TDI في الجزائر؟ الرسوم الجمركية وفق المادة 110، التخفيض، وسعر التكلفة الإجمالي بالدينار والسكوار.",
+    "calc": {
+      "prixEur": 31000,
+      "age": 2,
+      "tauxDecote": 20,
+      "valeurCifEur": 25500,
+      "valeurCifDA": 3927000,
+      "taxesDouaneDA": 3141600,
+      "coutSquareDA": 8083500,
+      "prixRevientTotalDA": 11225100,
+      "prixRevientMillions": "1122.5",
+      "taxesDouaneMillions": "314.2",
+      "coutSquareMillions": "808.4"
+    },
+    "calc1an": {
+      "prixEur": 31000,
+      "age": 1,
+      "tauxDecote": 10,
+      "valeurCifEur": 28600,
+      "valeurCifDA": 4404400,
+      "taxesDouaneDA": 3523520,
+      "coutSquareDA": 8083500,
+      "prixRevientTotalDA": 11607020,
+      "prixRevientMillions": "1160.7",
+      "taxesDouaneMillions": "352.4",
+      "coutSquareMillions": "808.4"
+    },
+    "calc2ans": {
+      "prixEur": 31000,
+      "age": 2,
+      "tauxDecote": 20,
+      "valeurCifEur": 25500,
+      "valeurCifDA": 3927000,
+      "taxesDouaneDA": 3141600,
+      "coutSquareDA": 8083500,
+      "prixRevientTotalDA": 11225100,
+      "prixRevientMillions": "1122.5",
+      "taxesDouaneMillions": "314.2",
+      "coutSquareMillions": "808.4"
+    },
+    "calc3ans": {
+      "prixEur": 31000,
+      "age": 3,
+      "tauxDecote": 30,
+      "valeurCifEur": 22400,
+      "valeurCifDA": 3449600,
+      "taxesDouaneDA": 2759680,
+      "coutSquareDA": 8083500,
+      "prixRevientTotalDA": 10843180,
+      "prixRevientMillions": "1084.3",
+      "taxesDouaneMillions": "276.0",
+      "coutSquareMillions": "808.4"
+    },
+    "comparatif": [
+      {
+        "ageFr": "1 an d'ancienneté (-10% décote)",
+        "ageAr": "سنة واحدة (تخفيض 10%)",
+        "valeurCifEur": 28600,
+        "taxesDouaneDA": 3523520,
+        "coutSquareDA": 8083500,
+        "prixRevientTotalDA": 11607020,
+        "prixRevientMillions": "1160.7"
+      },
+      {
+        "ageFr": "2 ans d'ancienneté (-20% décote)",
+        "ageAr": "سنتان (تخفيض 20%)",
+        "valeurCifEur": 25500,
+        "taxesDouaneDA": 3141600,
+        "coutSquareDA": 8083500,
+        "prixRevientTotalDA": 11225100,
+        "prixRevientMillions": "1122.5"
+      },
+      {
+        "ageFr": "3 ans d'ancienneté (-30% décote)",
+        "ageAr": "3 سنوات (تخفيض 30%)",
+        "valeurCifEur": 22400,
+        "taxesDouaneDA": 2759680,
+        "coutSquareDA": 8083500,
+        "prixRevientTotalDA": 10843180,
+        "prixRevientMillions": "1084.3"
+      }
+    ],
+    "faqFr": [
+      {
+        "q": "Combien coûte le dédouanement d'une Volkswagen Tiguan 2.0 TDI en Algérie ?",
+        "a": "Pour un véhicule de 2 ans acheté environ 31 000 €, les taxes et droits de douane s'élèvent à environ 3 141 600 DA (soit 314.2 Millions de centimes) grâce à l'abattement fiscal prévu par la Loi de Finances."
+      },
+      {
+        "q": "Quel est le prix de revient total au taux du Square ?",
+        "a": "Le coût global d'acquisition (achat des devises au cours du Square Port-Saïd + frais de transport 700 € + dédouanement au port algérien) revient à environ 11 225 100 DA, soit 1122.5 Millions de centimes."
+      },
+      {
+        "q": "Quelle est la cylindrée fiscale et l'abattement douanier de ce modèle ?",
+        "a": "Ce modèle dispose d'un moteur de 1968 cm³. Il relève de la catégorie \"Plus de 1800 cm³ (Abattement 20%)\"."
+      }
+    ],
+    "faqAr": [
+      {
+        "q": "كم تكلفة جمركة سيارة Volkswagen Tiguan 2.0 TDI في الجزائر؟",
+        "a": "لسيارة عمرها سنتان وسعرها حوالي 31 000 يورو، تقدر الرسوم الجمركية بحوالي 3 141 600 دج (أي ما يعادل 314.2 مليون سنتيم) بفضل التخفيض المنصوص عليه في قانون المالية."
+      },
+      {
+        "q": "كم يبلغ سعر التكلفة الإجمالي بحساب سعر السكوار؟",
+        "a": "التكلفة الإجمالية (شراء اليورو من ساحة بورسعيد + الشحن 700 يورو + الجمركة عند الوصول إلى الميناء الجزائري) تبلغ حوالي 11 225 100 دج، أي ما يقارب 1122.5 مليون سنتيم."
+      },
+      {
+        "q": "ما هي سعة المحرك ونسبة التخفيض الجمركي لهذه السيارة؟",
+        "a": "تبلغ سعة محرك هذا الموديل 1968 سم³، ويندرج تحت فئة \"أكثر من 1800 سم³ (تخفيض 20%)\"."
+      }
+    ]
+  },
+  {
+    "slug": "bmw-serie-1",
+    "marque": "BMW",
+    "modele": "Série 1 118i 1.5",
+    "cylindree": 1499,
+    "categorie": "moyenne_cylindree",
+    "prix2024": 25500,
+    "prix2025": 27500,
+    "prix2026": 29500,
+    "isAdsensePriority": false,
+    "titleFr": "Dédouanement BMW Série 1 118i 1.5 (< 3 ans) en Algérie : Prix & Taxes 2024",
+    "titleAr": "جمركة BMW Série 1 118i 1.5 (أقل من 3 سنوات) في الجزائر: الأسعار والرسوم",
+    "descriptionFr": "Combien coûte le dédouanement d'une BMW Série 1 118i 1.5 en Algérie ? Droits de douane Article 110, décote 3 ans, coût Square et prix de revient total en Dinars.",
+    "descriptionAr": "كم تبلغ تكلفة جمركة BMW Série 1 118i 1.5 في الجزائر؟ الرسوم الجمركية وفق المادة 110، التخفيض، وسعر التكلفة الإجمالي بالدينار والسكوار.",
+    "calc": {
+      "prixEur": 25500,
+      "age": 2,
+      "tauxDecote": 20,
+      "valeurCifEur": 21100,
+      "valeurCifDA": 3249400,
+      "taxesDouaneDA": 1273765,
+      "coutSquareDA": 6681000,
+      "prixRevientTotalDA": 7954765,
+      "prixRevientMillions": "795.5",
+      "taxesDouaneMillions": "127.4",
+      "coutSquareMillions": "668.1"
+    },
+    "calc1an": {
+      "prixEur": 25500,
+      "age": 1,
+      "tauxDecote": 10,
+      "valeurCifEur": 23650,
+      "valeurCifDA": 3642100,
+      "taxesDouaneDA": 1427703,
+      "coutSquareDA": 6681000,
+      "prixRevientTotalDA": 8108703,
+      "prixRevientMillions": "810.9",
+      "taxesDouaneMillions": "142.8",
+      "coutSquareMillions": "668.1"
+    },
+    "calc2ans": {
+      "prixEur": 25500,
+      "age": 2,
+      "tauxDecote": 20,
+      "valeurCifEur": 21100,
+      "valeurCifDA": 3249400,
+      "taxesDouaneDA": 1273765,
+      "coutSquareDA": 6681000,
+      "prixRevientTotalDA": 7954765,
+      "prixRevientMillions": "795.5",
+      "taxesDouaneMillions": "127.4",
+      "coutSquareMillions": "668.1"
+    },
+    "calc3ans": {
+      "prixEur": 25500,
+      "age": 3,
+      "tauxDecote": 30,
+      "valeurCifEur": 18550,
+      "valeurCifDA": 2856700,
+      "taxesDouaneDA": 1119826,
+      "coutSquareDA": 6681000,
+      "prixRevientTotalDA": 7800826,
+      "prixRevientMillions": "780.1",
+      "taxesDouaneMillions": "112.0",
+      "coutSquareMillions": "668.1"
+    },
+    "comparatif": [
+      {
+        "ageFr": "1 an d'ancienneté (-10% décote)",
+        "ageAr": "سنة واحدة (تخفيض 10%)",
+        "valeurCifEur": 23650,
+        "taxesDouaneDA": 1427703,
+        "coutSquareDA": 6681000,
+        "prixRevientTotalDA": 8108703,
+        "prixRevientMillions": "810.9"
+      },
+      {
+        "ageFr": "2 ans d'ancienneté (-20% décote)",
+        "ageAr": "سنتان (تخفيض 20%)",
+        "valeurCifEur": 21100,
+        "taxesDouaneDA": 1273765,
+        "coutSquareDA": 6681000,
+        "prixRevientTotalDA": 7954765,
+        "prixRevientMillions": "795.5"
+      },
+      {
+        "ageFr": "3 ans d'ancienneté (-30% décote)",
+        "ageAr": "3 سنوات (تخفيض 30%)",
+        "valeurCifEur": 18550,
+        "taxesDouaneDA": 1119826,
+        "coutSquareDA": 6681000,
+        "prixRevientTotalDA": 7800826,
+        "prixRevientMillions": "780.1"
+      }
+    ],
+    "faqFr": [
+      {
+        "q": "Combien coûte le dédouanement d'une BMW Série 1 118i 1.5 en Algérie ?",
+        "a": "Pour un véhicule de 2 ans acheté environ 25 500 €, les taxes et droits de douane s'élèvent à environ 1 273 765 DA (soit 127.4 Millions de centimes) grâce à l'abattement fiscal prévu par la Loi de Finances."
+      },
+      {
+        "q": "Quel est le prix de revient total au taux du Square ?",
+        "a": "Le coût global d'acquisition (achat des devises au cours du Square Port-Saïd + frais de transport 700 € + dédouanement au port algérien) revient à environ 7 954 765 DA, soit 795.5 Millions de centimes."
+      },
+      {
+        "q": "Quelle est la cylindrée fiscale et l'abattement douanier de ce modèle ?",
+        "a": "Ce modèle dispose d'un moteur de 1499 cm³. Il relève de la catégorie \"1201 à 1800 cm³ (Abattement 50%)\"."
+      }
+    ],
+    "faqAr": [
+      {
+        "q": "كم تكلفة جمركة سيارة BMW Série 1 118i 1.5 في الجزائر؟",
+        "a": "لسيارة عمرها سنتان وسعرها حوالي 25 500 يورو، تقدر الرسوم الجمركية بحوالي 1 273 765 دج (أي ما يعادل 127.4 مليون سنتيم) بفضل التخفيض المنصوص عليه في قانون المالية."
+      },
+      {
+        "q": "كم يبلغ سعر التكلفة الإجمالي بحساب سعر السكوار؟",
+        "a": "التكلفة الإجمالية (شراء اليورو من ساحة بورسعيد + الشحن 700 يورو + الجمركة عند الوصول إلى الميناء الجزائري) تبلغ حوالي 7 954 765 دج، أي ما يقارب 795.5 مليون سنتيم."
+      },
+      {
+        "q": "ما هي سعة المحرك ونسبة التخفيض الجمركي لهذه السيارة؟",
+        "a": "تبلغ سعة محرك هذا الموديل 1499 سم³، ويندرج تحت فئة \"1201 إلى 1800 سم³ (تخفيض 50%)\"."
+      }
+    ]
+  },
+  {
+    "slug": "mercedes-classe-a",
+    "marque": "Mercedes-Benz",
+    "modele": "Classe A 180 1.3",
+    "cylindree": 1332,
+    "categorie": "moyenne_cylindree",
+    "prix2024": 26800,
+    "prix2025": 28800,
+    "prix2026": 30900,
+    "isAdsensePriority": false,
+    "titleFr": "Dédouanement Mercedes-Benz Classe A 180 1.3 (< 3 ans) en Algérie : Prix & Taxes 2024",
+    "titleAr": "جمركة Mercedes-Benz Classe A 180 1.3 (أقل من 3 سنوات) في الجزائر: الأسعار والرسوم",
+    "descriptionFr": "Combien coûte le dédouanement d'une Mercedes-Benz Classe A 180 1.3 en Algérie ? Droits de douane Article 110, décote 3 ans, coût Square et prix de revient total en Dinars.",
+    "descriptionAr": "كم تبلغ تكلفة جمركة Mercedes-Benz Classe A 180 1.3 في الجزائر؟ الرسوم الجمركية وفق المادة 110، التخفيض، وسعر التكلفة الإجمالي بالدينار والسكوار.",
+    "calc": {
+      "prixEur": 26800,
+      "age": 2,
+      "tauxDecote": 20,
+      "valeurCifEur": 22140,
+      "valeurCifDA": 3409560,
+      "taxesDouaneDA": 1336548,
+      "coutSquareDA": 7012500,
+      "prixRevientTotalDA": 8349048,
+      "prixRevientMillions": "834.9",
+      "taxesDouaneMillions": "133.7",
+      "coutSquareMillions": "701.3"
+    },
+    "calc1an": {
+      "prixEur": 26800,
+      "age": 1,
+      "tauxDecote": 10,
+      "valeurCifEur": 24820,
+      "valeurCifDA": 3822280,
+      "taxesDouaneDA": 1498334,
+      "coutSquareDA": 7012500,
+      "prixRevientTotalDA": 8510834,
+      "prixRevientMillions": "851.1",
+      "taxesDouaneMillions": "149.8",
+      "coutSquareMillions": "701.3"
+    },
+    "calc2ans": {
+      "prixEur": 26800,
+      "age": 2,
+      "tauxDecote": 20,
+      "valeurCifEur": 22140,
+      "valeurCifDA": 3409560,
+      "taxesDouaneDA": 1336548,
+      "coutSquareDA": 7012500,
+      "prixRevientTotalDA": 8349048,
+      "prixRevientMillions": "834.9",
+      "taxesDouaneMillions": "133.7",
+      "coutSquareMillions": "701.3"
+    },
+    "calc3ans": {
+      "prixEur": 26800,
+      "age": 3,
+      "tauxDecote": 30,
+      "valeurCifEur": 19460,
+      "valeurCifDA": 2996840,
+      "taxesDouaneDA": 1174761,
+      "coutSquareDA": 7012500,
+      "prixRevientTotalDA": 8187261,
+      "prixRevientMillions": "818.7",
+      "taxesDouaneMillions": "117.5",
+      "coutSquareMillions": "701.3"
+    },
+    "comparatif": [
+      {
+        "ageFr": "1 an d'ancienneté (-10% décote)",
+        "ageAr": "سنة واحدة (تخفيض 10%)",
+        "valeurCifEur": 24820,
+        "taxesDouaneDA": 1498334,
+        "coutSquareDA": 7012500,
+        "prixRevientTotalDA": 8510834,
+        "prixRevientMillions": "851.1"
+      },
+      {
+        "ageFr": "2 ans d'ancienneté (-20% décote)",
+        "ageAr": "سنتان (تخفيض 20%)",
+        "valeurCifEur": 22140,
+        "taxesDouaneDA": 1336548,
+        "coutSquareDA": 7012500,
+        "prixRevientTotalDA": 8349048,
+        "prixRevientMillions": "834.9"
+      },
+      {
+        "ageFr": "3 ans d'ancienneté (-30% décote)",
+        "ageAr": "3 سنوات (تخفيض 30%)",
+        "valeurCifEur": 19460,
+        "taxesDouaneDA": 1174761,
+        "coutSquareDA": 7012500,
+        "prixRevientTotalDA": 8187261,
+        "prixRevientMillions": "818.7"
+      }
+    ],
+    "faqFr": [
+      {
+        "q": "Combien coûte le dédouanement d'une Mercedes-Benz Classe A 180 1.3 en Algérie ?",
+        "a": "Pour un véhicule de 2 ans acheté environ 26 800 €, les taxes et droits de douane s'élèvent à environ 1 336 548 DA (soit 133.7 Millions de centimes) grâce à l'abattement fiscal prévu par la Loi de Finances."
+      },
+      {
+        "q": "Quel est le prix de revient total au taux du Square ?",
+        "a": "Le coût global d'acquisition (achat des devises au cours du Square Port-Saïd + frais de transport 700 € + dédouanement au port algérien) revient à environ 8 349 048 DA, soit 834.9 Millions de centimes."
+      },
+      {
+        "q": "Quelle est la cylindrée fiscale et l'abattement douanier de ce modèle ?",
+        "a": "Ce modèle dispose d'un moteur de 1332 cm³. Il relève de la catégorie \"1201 à 1800 cm³ (Abattement 50%)\"."
+      }
+    ],
+    "faqAr": [
+      {
+        "q": "كم تكلفة جمركة سيارة Mercedes-Benz Classe A 180 1.3 في الجزائر؟",
+        "a": "لسيارة عمرها سنتان وسعرها حوالي 26 800 يورو، تقدر الرسوم الجمركية بحوالي 1 336 548 دج (أي ما يعادل 133.7 مليون سنتيم) بفضل التخفيض المنصوص عليه في قانون المالية."
+      },
+      {
+        "q": "كم يبلغ سعر التكلفة الإجمالي بحساب سعر السكوار؟",
+        "a": "التكلفة الإجمالية (شراء اليورو من ساحة بورسعيد + الشحن 700 يورو + الجمركة عند الوصول إلى الميناء الجزائري) تبلغ حوالي 8 349 048 دج، أي ما يقارب 834.9 مليون سنتيم."
+      },
+      {
+        "q": "ما هي سعة المحرك ونسبة التخفيض الجمركي لهذه السيارة؟",
+        "a": "تبلغ سعة محرك هذا الموديل 1332 سم³، ويندرج تحت فئة \"1201 إلى 1800 سم³ (تخفيض 50%)\"."
+      }
+    ]
+  },
+  {
+    "slug": "tesla-model-3",
+    "marque": "Tesla",
+    "modele": "Model 3 RWD Électrique",
+    "cylindree": 0,
+    "categorie": "electrique_ou_petit_essence",
+    "prix2024": 34900,
+    "prix2025": 36900,
+    "prix2026": 38900,
+    "isAdsensePriority": false,
+    "titleFr": "Dédouanement Tesla Model 3 RWD Électrique (< 3 ans) en Algérie : Prix & Taxes 2024",
+    "titleAr": "جمركة Tesla Model 3 RWD Électrique (أقل من 3 سنوات) في الجزائر: الأسعار والرسوم",
+    "descriptionFr": "Combien coûte le dédouanement d'une Tesla Model 3 RWD Électrique en Algérie ? Droits de douane Article 110, décote 3 ans, coût Square et prix de revient total en Dinars.",
+    "descriptionAr": "كم تبلغ تكلفة جمركة Tesla Model 3 RWD Électrique في الجزائر؟ الرسوم الجمركية وفق المادة 110، التخفيض، وسعر التكلفة الإجمالي بالدينار والسكوار.",
+    "calc": {
+      "prixEur": 34900,
+      "age": 2,
+      "tauxDecote": 20,
+      "valeurCifEur": 28620,
+      "valeurCifDA": 4407480,
+      "taxesDouaneDA": 1256132,
+      "coutSquareDA": 9078000,
+      "prixRevientTotalDA": 10334132,
+      "prixRevientMillions": "1033.4",
+      "taxesDouaneMillions": "125.6",
+      "coutSquareMillions": "907.8"
+    },
+    "calc1an": {
+      "prixEur": 34900,
+      "age": 1,
+      "tauxDecote": 10,
+      "valeurCifEur": 32110,
+      "valeurCifDA": 4944940,
+      "taxesDouaneDA": 1409308,
+      "coutSquareDA": 9078000,
+      "prixRevientTotalDA": 10487308,
+      "prixRevientMillions": "1048.7",
+      "taxesDouaneMillions": "140.9",
+      "coutSquareMillions": "907.8"
+    },
+    "calc2ans": {
+      "prixEur": 34900,
+      "age": 2,
+      "tauxDecote": 20,
+      "valeurCifEur": 28620,
+      "valeurCifDA": 4407480,
+      "taxesDouaneDA": 1256132,
+      "coutSquareDA": 9078000,
+      "prixRevientTotalDA": 10334132,
+      "prixRevientMillions": "1033.4",
+      "taxesDouaneMillions": "125.6",
+      "coutSquareMillions": "907.8"
+    },
+    "calc3ans": {
+      "prixEur": 34900,
+      "age": 3,
+      "tauxDecote": 30,
+      "valeurCifEur": 25130,
+      "valeurCifDA": 3870020,
+      "taxesDouaneDA": 1102956,
+      "coutSquareDA": 9078000,
+      "prixRevientTotalDA": 10180956,
+      "prixRevientMillions": "1018.1",
+      "taxesDouaneMillions": "110.3",
+      "coutSquareMillions": "907.8"
+    },
+    "comparatif": [
+      {
+        "ageFr": "1 an d'ancienneté (-10% décote)",
+        "ageAr": "سنة واحدة (تخفيض 10%)",
+        "valeurCifEur": 32110,
+        "taxesDouaneDA": 1409308,
+        "coutSquareDA": 9078000,
+        "prixRevientTotalDA": 10487308,
+        "prixRevientMillions": "1048.7"
+      },
+      {
+        "ageFr": "2 ans d'ancienneté (-20% décote)",
+        "ageAr": "سنتان (تخفيض 20%)",
+        "valeurCifEur": 28620,
+        "taxesDouaneDA": 1256132,
+        "coutSquareDA": 9078000,
+        "prixRevientTotalDA": 10334132,
+        "prixRevientMillions": "1033.4"
+      },
+      {
+        "ageFr": "3 ans d'ancienneté (-30% décote)",
+        "ageAr": "3 سنوات (تخفيض 30%)",
+        "valeurCifEur": 25130,
+        "taxesDouaneDA": 1102956,
+        "coutSquareDA": 9078000,
+        "prixRevientTotalDA": 10180956,
+        "prixRevientMillions": "1018.1"
+      }
+    ],
+    "faqFr": [
+      {
+        "q": "Combien coûte le dédouanement d'une Tesla Model 3 RWD Électrique en Algérie ?",
+        "a": "Pour un véhicule de 2 ans acheté environ 34 900 €, les taxes et droits de douane s'élèvent à environ 1 256 132 DA (soit 125.6 Millions de centimes) grâce à l'abattement fiscal prévu par la Loi de Finances."
+      },
+      {
+        "q": "Quel est le prix de revient total au taux du Square ?",
+        "a": "Le coût global d'acquisition (achat des devises au cours du Square Port-Saïd + frais de transport 700 € + dédouanement au port algérien) revient à environ 10 334 132 DA, soit 1033.4 Millions de centimes."
+      },
+      {
+        "q": "Quelle est la cylindrée fiscale et l'abattement douanier de ce modèle ?",
+        "a": "Ce modèle dispose d'un moteur de 100% électrique. Il relève de la catégorie \"Moins de 1200 cm³ (Abattement 80%)\"."
+      }
+    ],
+    "faqAr": [
+      {
+        "q": "كم تكلفة جمركة سيارة Tesla Model 3 RWD Électrique في الجزائر؟",
+        "a": "لسيارة عمرها سنتان وسعرها حوالي 34 900 يورو، تقدر الرسوم الجمركية بحوالي 1 256 132 دج (أي ما يعادل 125.6 مليون سنتيم) بفضل التخفيض المنصوص عليه في قانون المالية."
+      },
+      {
+        "q": "كم يبلغ سعر التكلفة الإجمالي بحساب سعر السكوار؟",
+        "a": "التكلفة الإجمالية (شراء اليورو من ساحة بورسعيد + الشحن 700 يورو + الجمركة عند الوصول إلى الميناء الجزائري) تبلغ حوالي 10 334 132 دج، أي ما يقارب 1033.4 مليون سنتيم."
+      },
+      {
+        "q": "ما هي سعة المحرك ونسبة التخفيض الجمركي لهذه السيارة؟",
+        "a": "تبلغ سعة محرك هذا الموديل كهربائي بالكامل، ويندرج تحت فئة \"أقل من 1200 سم³ (تخفيض 80%)\"."
+      }
+    ]
+  }
+]

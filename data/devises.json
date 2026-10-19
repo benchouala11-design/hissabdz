@@ -1,0 +1,1583 @@
+[
+  {
+    "slug": "50-euros",
+    "montant": 50,
+    "isAdsensePriority": false,
+    "titleFr": "Convertir 50 Euros en Dinars Algériens (Taux Square Port-Saïd & Banque)",
+    "titleAr": "تحويل 50 يورو بالدينار الجزائري (سعر السكوار وبنك الجزائر)",
+    "descriptionFr": "Découvrez la valeur de 50 € en Dinars au marché informel Square Port-Saïd (12 750 DA / 1.27 Millions) comparée au cours officiel de la Banque d'Algérie.",
+    "descriptionAr": "اكتشف قيمة 50 يورو بالدينار في سوق السكوار بورسعيد (12 750 دج / 1.27 مليون) مقارنة بالسعر الرسمي لبنك الجزائر.",
+    "calcEur": {
+      "montant": 50,
+      "devise": "EUR",
+      "symbole": "€",
+      "banqueDA": 7700,
+      "squareDA": 12750,
+      "ecartDA": 5050,
+      "squareMillions": "1.27",
+      "banqueMillions": "0.77",
+      "populaireFr": "1 Million 275 Mille centimes",
+      "populaireAr": "1 مليون و 275 ألف سنتيم"
+    },
+    "calcUsd": {
+      "montant": 50,
+      "devise": "USD",
+      "symbole": "$",
+      "banqueDA": 6950,
+      "squareDA": 11750,
+      "ecartDA": 4800,
+      "squareMillions": "1.18",
+      "banqueMillions": "0.69",
+      "populaireFr": "1 Million 175 Mille centimes",
+      "populaireAr": "1 مليون و 175 ألف سنتيم"
+    },
+    "comparatif": [
+      {
+        "marcheFr": "Marché Parallèle (Square Port-Saïd)",
+        "marcheAr": "السوق الموازي (ساحة بورسعيد)",
+        "tauxFr": "1 € = 255 DA",
+        "tauxAr": "1 يورو = 255 دج",
+        "valeurDA": 12750,
+        "valeurMillions": "1.27",
+        "parleFr": "1 Million 275 Mille centimes",
+        "parleAr": "1 مليون و 275 ألف سنتيم"
+      },
+      {
+        "marcheFr": "Cours Officiel (Banque d'Algérie)",
+        "marcheAr": "السعر الرسمي (بنك الجزائر)",
+        "tauxFr": "1 € = 154 DA",
+        "tauxAr": "1 يورو = 154 دج",
+        "valeurDA": 7700,
+        "valeurMillions": "0.77",
+        "parleFr": "Taux officiel de facturation",
+        "parleAr": "السعر الرسمي للفوترة"
+      },
+      {
+        "marcheFr": "Écart entre les deux marchés",
+        "marcheAr": "الفارق بين السوقين",
+        "tauxFr": "+101 DA / €",
+        "tauxAr": "+101 دج / يورو",
+        "valeurDA": 5050,
+        "valeurMillions": "0.51",
+        "parleFr": "Surcote de +65.6%",
+        "parleAr": "فارق يقدر بـ +65.6%"
+      }
+    ],
+    "faqFr": [
+      {
+        "q": "Combien vaut 50 € au Square Port-Saïd aujourd'hui ?",
+        "a": "Au cours actuel du marché informel (255 DA pour 1 Euro), 50 € s'échangent contre 12 750 DA, ce qui correspond en langage populaire algérien à 1 Million 275 Mille centimes."
+      },
+      {
+        "q": "Combien vaut 50 € au taux officiel de la Banque d'Algérie ?",
+        "a": "Au taux de change officiel de la Banque d'Algérie (154 DA pour 1 Euro), la contre-valeur de 50 € est de 7 700 DA."
+      },
+      {
+        "q": "Quel est l'écart de valeur entre le cours officiel et le Square ?",
+        "a": "La différence nette s'élève à 5 050 DA en faveur du marché informel, soit un écart d'environ 65.6%."
+      }
+    ],
+    "faqAr": [
+      {
+        "q": "كم تساوي 50 يورو في ساحة بورسعيد (السكوار) اليوم؟",
+        "a": "وفق سعر الصرف الحالي في السوق الموازي (255 دج لليورو الواحد)، تبلغ قيمة 50 يورو ما يعادل 12 750 دج، أي بالدارجة الجزائرية: 1 مليون و 275 ألف سنتيم."
+      },
+      {
+        "q": "كم تساوي 50 يورو بالسعر الرسمي لبنك الجزائر؟",
+        "a": "وفق السعر البنكي الرسمي الصادر عن بنك الجزائر (154 دج لليورو الواحد)، تساوي 50 يورو مبلغ 7 700 دج."
+      },
+      {
+        "q": "كم يبلغ الفارق بين السعرين الرسمي والموازي؟",
+        "a": "يبلغ الفارق المالي 5 050 دج لصالح السوق الموازي، أي بزيادة تقدر بحوالي 65.6%."
+      }
+    ]
+  },
+  {
+    "slug": "100-euros",
+    "montant": 100,
+    "isAdsensePriority": true,
+    "titleFr": "Convertir 100 Euros en Dinars Algériens (Taux Square Port-Saïd & Banque)",
+    "titleAr": "تحويل 100 يورو بالدينار الجزائري (سعر السكوار وبنك الجزائر)",
+    "descriptionFr": "Découvrez la valeur de 100 € en Dinars au marché informel Square Port-Saïd (25 500 DA / 2.55 Millions) comparée au cours officiel de la Banque d'Algérie.",
+    "descriptionAr": "اكتشف قيمة 100 يورو بالدينار في سوق السكوار بورسعيد (25 500 دج / 2.55 مليون) مقارنة بالسعر الرسمي لبنك الجزائر.",
+    "calcEur": {
+      "montant": 100,
+      "devise": "EUR",
+      "symbole": "€",
+      "banqueDA": 15400,
+      "squareDA": 25500,
+      "ecartDA": 10100,
+      "squareMillions": "2.55",
+      "banqueMillions": "1.54",
+      "populaireFr": "2 Millions 550 Mille centimes",
+      "populaireAr": "2 مليون و 550 ألف سنتيم"
+    },
+    "calcUsd": {
+      "montant": 100,
+      "devise": "USD",
+      "symbole": "$",
+      "banqueDA": 13900,
+      "squareDA": 23500,
+      "ecartDA": 9600,
+      "squareMillions": "2.35",
+      "banqueMillions": "1.39",
+      "populaireFr": "2 Millions 350 Mille centimes",
+      "populaireAr": "2 مليون و 350 ألف سنتيم"
+    },
+    "comparatif": [
+      {
+        "marcheFr": "Marché Parallèle (Square Port-Saïd)",
+        "marcheAr": "السوق الموازي (ساحة بورسعيد)",
+        "tauxFr": "1 € = 255 DA",
+        "tauxAr": "1 يورو = 255 دج",
+        "valeurDA": 25500,
+        "valeurMillions": "2.55",
+        "parleFr": "2 Millions 550 Mille centimes",
+        "parleAr": "2 مليون و 550 ألف سنتيم"
+      },
+      {
+        "marcheFr": "Cours Officiel (Banque d'Algérie)",
+        "marcheAr": "السعر الرسمي (بنك الجزائر)",
+        "tauxFr": "1 € = 154 DA",
+        "tauxAr": "1 يورو = 154 دج",
+        "valeurDA": 15400,
+        "valeurMillions": "1.54",
+        "parleFr": "Taux officiel de facturation",
+        "parleAr": "السعر الرسمي للفوترة"
+      },
+      {
+        "marcheFr": "Écart entre les deux marchés",
+        "marcheAr": "الفارق بين السوقين",
+        "tauxFr": "+101 DA / €",
+        "tauxAr": "+101 دج / يورو",
+        "valeurDA": 10100,
+        "valeurMillions": "1.01",
+        "parleFr": "Surcote de +65.6%",
+        "parleAr": "فارق يقدر بـ +65.6%"
+      }
+    ],
+    "faqFr": [
+      {
+        "q": "Combien vaut 100 € au Square Port-Saïd aujourd'hui ?",
+        "a": "Au cours actuel du marché informel (255 DA pour 1 Euro), 100 € s'échangent contre 25 500 DA, ce qui correspond en langage populaire algérien à 2 Millions 550 Mille centimes."
+      },
+      {
+        "q": "Combien vaut 100 € au taux officiel de la Banque d'Algérie ?",
+        "a": "Au taux de change officiel de la Banque d'Algérie (154 DA pour 1 Euro), la contre-valeur de 100 € est de 15 400 DA."
+      },
+      {
+        "q": "Quel est l'écart de valeur entre le cours officiel et le Square ?",
+        "a": "La différence nette s'élève à 10 100 DA en faveur du marché informel, soit un écart d'environ 65.6%."
+      }
+    ],
+    "faqAr": [
+      {
+        "q": "كم تساوي 100 يورو في ساحة بورسعيد (السكوار) اليوم؟",
+        "a": "وفق سعر الصرف الحالي في السوق الموازي (255 دج لليورو الواحد)، تبلغ قيمة 100 يورو ما يعادل 25 500 دج، أي بالدارجة الجزائرية: 2 مليون و 550 ألف سنتيم."
+      },
+      {
+        "q": "كم تساوي 100 يورو بالسعر الرسمي لبنك الجزائر؟",
+        "a": "وفق السعر البنكي الرسمي الصادر عن بنك الجزائر (154 دج لليورو الواحد)، تساوي 100 يورو مبلغ 15 400 دج."
+      },
+      {
+        "q": "كم يبلغ الفارق بين السعرين الرسمي والموازي؟",
+        "a": "يبلغ الفارق المالي 10 100 دج لصالح السوق الموازي، أي بزيادة تقدر بحوالي 65.6%."
+      }
+    ]
+  },
+  {
+    "slug": "200-euros",
+    "montant": 200,
+    "isAdsensePriority": true,
+    "titleFr": "Convertir 200 Euros en Dinars Algériens (Taux Square Port-Saïd & Banque)",
+    "titleAr": "تحويل 200 يورو بالدينار الجزائري (سعر السكوار وبنك الجزائر)",
+    "descriptionFr": "Découvrez la valeur de 200 € en Dinars au marché informel Square Port-Saïd (51 000 DA / 5.10 Millions) comparée au cours officiel de la Banque d'Algérie.",
+    "descriptionAr": "اكتشف قيمة 200 يورو بالدينار في سوق السكوار بورسعيد (51 000 دج / 5.10 مليون) مقارنة بالسعر الرسمي لبنك الجزائر.",
+    "calcEur": {
+      "montant": 200,
+      "devise": "EUR",
+      "symbole": "€",
+      "banqueDA": 30800,
+      "squareDA": 51000,
+      "ecartDA": 20200,
+      "squareMillions": "5.10",
+      "banqueMillions": "3.08",
+      "populaireFr": "5 Millions 100 Mille centimes",
+      "populaireAr": "5 مليون و 100 ألف سنتيم"
+    },
+    "calcUsd": {
+      "montant": 200,
+      "devise": "USD",
+      "symbole": "$",
+      "banqueDA": 27800,
+      "squareDA": 47000,
+      "ecartDA": 19200,
+      "squareMillions": "4.70",
+      "banqueMillions": "2.78",
+      "populaireFr": "4 Millions 700 Mille centimes",
+      "populaireAr": "4 مليون و 700 ألف سنتيم"
+    },
+    "comparatif": [
+      {
+        "marcheFr": "Marché Parallèle (Square Port-Saïd)",
+        "marcheAr": "السوق الموازي (ساحة بورسعيد)",
+        "tauxFr": "1 € = 255 DA",
+        "tauxAr": "1 يورو = 255 دج",
+        "valeurDA": 51000,
+        "valeurMillions": "5.10",
+        "parleFr": "5 Millions 100 Mille centimes",
+        "parleAr": "5 مليون و 100 ألف سنتيم"
+      },
+      {
+        "marcheFr": "Cours Officiel (Banque d'Algérie)",
+        "marcheAr": "السعر الرسمي (بنك الجزائر)",
+        "tauxFr": "1 € = 154 DA",
+        "tauxAr": "1 يورو = 154 دج",
+        "valeurDA": 30800,
+        "valeurMillions": "3.08",
+        "parleFr": "Taux officiel de facturation",
+        "parleAr": "السعر الرسمي للفوترة"
+      },
+      {
+        "marcheFr": "Écart entre les deux marchés",
+        "marcheAr": "الفارق بين السوقين",
+        "tauxFr": "+101 DA / €",
+        "tauxAr": "+101 دج / يورو",
+        "valeurDA": 20200,
+        "valeurMillions": "2.02",
+        "parleFr": "Surcote de +65.6%",
+        "parleAr": "فارق يقدر بـ +65.6%"
+      }
+    ],
+    "faqFr": [
+      {
+        "q": "Combien vaut 200 € au Square Port-Saïd aujourd'hui ?",
+        "a": "Au cours actuel du marché informel (255 DA pour 1 Euro), 200 € s'échangent contre 51 000 DA, ce qui correspond en langage populaire algérien à 5 Millions 100 Mille centimes."
+      },
+      {
+        "q": "Combien vaut 200 € au taux officiel de la Banque d'Algérie ?",
+        "a": "Au taux de change officiel de la Banque d'Algérie (154 DA pour 1 Euro), la contre-valeur de 200 € est de 30 800 DA."
+      },
+      {
+        "q": "Quel est l'écart de valeur entre le cours officiel et le Square ?",
+        "a": "La différence nette s'élève à 20 200 DA en faveur du marché informel, soit un écart d'environ 65.6%."
+      }
+    ],
+    "faqAr": [
+      {
+        "q": "كم تساوي 200 يورو في ساحة بورسعيد (السكوار) اليوم؟",
+        "a": "وفق سعر الصرف الحالي في السوق الموازي (255 دج لليورو الواحد)، تبلغ قيمة 200 يورو ما يعادل 51 000 دج، أي بالدارجة الجزائرية: 5 مليون و 100 ألف سنتيم."
+      },
+      {
+        "q": "كم تساوي 200 يورو بالسعر الرسمي لبنك الجزائر؟",
+        "a": "وفق السعر البنكي الرسمي الصادر عن بنك الجزائر (154 دج لليورو الواحد)، تساوي 200 يورو مبلغ 30 800 دج."
+      },
+      {
+        "q": "كم يبلغ الفارق بين السعرين الرسمي والموازي؟",
+        "a": "يبلغ الفارق المالي 20 200 دج لصالح السوق الموازي، أي بزيادة تقدر بحوالي 65.6%."
+      }
+    ]
+  },
+  {
+    "slug": "300-euros",
+    "montant": 300,
+    "isAdsensePriority": false,
+    "titleFr": "Convertir 300 Euros en Dinars Algériens (Taux Square Port-Saïd & Banque)",
+    "titleAr": "تحويل 300 يورو بالدينار الجزائري (سعر السكوار وبنك الجزائر)",
+    "descriptionFr": "Découvrez la valeur de 300 € en Dinars au marché informel Square Port-Saïd (76 500 DA / 7.65 Millions) comparée au cours officiel de la Banque d'Algérie.",
+    "descriptionAr": "اكتشف قيمة 300 يورو بالدينار في سوق السكوار بورسعيد (76 500 دج / 7.65 مليون) مقارنة بالسعر الرسمي لبنك الجزائر.",
+    "calcEur": {
+      "montant": 300,
+      "devise": "EUR",
+      "symbole": "€",
+      "banqueDA": 46200,
+      "squareDA": 76500,
+      "ecartDA": 30300,
+      "squareMillions": "7.65",
+      "banqueMillions": "4.62",
+      "populaireFr": "7 Millions 650 Mille centimes",
+      "populaireAr": "7 مليون و 650 ألف سنتيم"
+    },
+    "calcUsd": {
+      "montant": 300,
+      "devise": "USD",
+      "symbole": "$",
+      "banqueDA": 41700,
+      "squareDA": 70500,
+      "ecartDA": 28800,
+      "squareMillions": "7.05",
+      "banqueMillions": "4.17",
+      "populaireFr": "7 Millions 50 Mille centimes",
+      "populaireAr": "7 مليون و 50 ألف سنتيم"
+    },
+    "comparatif": [
+      {
+        "marcheFr": "Marché Parallèle (Square Port-Saïd)",
+        "marcheAr": "السوق الموازي (ساحة بورسعيد)",
+        "tauxFr": "1 € = 255 DA",
+        "tauxAr": "1 يورو = 255 دج",
+        "valeurDA": 76500,
+        "valeurMillions": "7.65",
+        "parleFr": "7 Millions 650 Mille centimes",
+        "parleAr": "7 مليون و 650 ألف سنتيم"
+      },
+      {
+        "marcheFr": "Cours Officiel (Banque d'Algérie)",
+        "marcheAr": "السعر الرسمي (بنك الجزائر)",
+        "tauxFr": "1 € = 154 DA",
+        "tauxAr": "1 يورو = 154 دج",
+        "valeurDA": 46200,
+        "valeurMillions": "4.62",
+        "parleFr": "Taux officiel de facturation",
+        "parleAr": "السعر الرسمي للفوترة"
+      },
+      {
+        "marcheFr": "Écart entre les deux marchés",
+        "marcheAr": "الفارق بين السوقين",
+        "tauxFr": "+101 DA / €",
+        "tauxAr": "+101 دج / يورو",
+        "valeurDA": 30300,
+        "valeurMillions": "3.03",
+        "parleFr": "Surcote de +65.6%",
+        "parleAr": "فارق يقدر بـ +65.6%"
+      }
+    ],
+    "faqFr": [
+      {
+        "q": "Combien vaut 300 € au Square Port-Saïd aujourd'hui ?",
+        "a": "Au cours actuel du marché informel (255 DA pour 1 Euro), 300 € s'échangent contre 76 500 DA, ce qui correspond en langage populaire algérien à 7 Millions 650 Mille centimes."
+      },
+      {
+        "q": "Combien vaut 300 € au taux officiel de la Banque d'Algérie ?",
+        "a": "Au taux de change officiel de la Banque d'Algérie (154 DA pour 1 Euro), la contre-valeur de 300 € est de 46 200 DA."
+      },
+      {
+        "q": "Quel est l'écart de valeur entre le cours officiel et le Square ?",
+        "a": "La différence nette s'élève à 30 300 DA en faveur du marché informel, soit un écart d'environ 65.6%."
+      }
+    ],
+    "faqAr": [
+      {
+        "q": "كم تساوي 300 يورو في ساحة بورسعيد (السكوار) اليوم؟",
+        "a": "وفق سعر الصرف الحالي في السوق الموازي (255 دج لليورو الواحد)، تبلغ قيمة 300 يورو ما يعادل 76 500 دج، أي بالدارجة الجزائرية: 7 مليون و 650 ألف سنتيم."
+      },
+      {
+        "q": "كم تساوي 300 يورو بالسعر الرسمي لبنك الجزائر؟",
+        "a": "وفق السعر البنكي الرسمي الصادر عن بنك الجزائر (154 دج لليورو الواحد)، تساوي 300 يورو مبلغ 46 200 دج."
+      },
+      {
+        "q": "كم يبلغ الفارق بين السعرين الرسمي والموازي؟",
+        "a": "يبلغ الفارق المالي 30 300 دج لصالح السوق الموازي، أي بزيادة تقدر بحوالي 65.6%."
+      }
+    ]
+  },
+  {
+    "slug": "500-euros",
+    "montant": 500,
+    "isAdsensePriority": true,
+    "titleFr": "Convertir 500 Euros en Dinars Algériens (Taux Square Port-Saïd & Banque)",
+    "titleAr": "تحويل 500 يورو بالدينار الجزائري (سعر السكوار وبنك الجزائر)",
+    "descriptionFr": "Découvrez la valeur de 500 € en Dinars au marché informel Square Port-Saïd (127 500 DA / 12.75 Millions) comparée au cours officiel de la Banque d'Algérie.",
+    "descriptionAr": "اكتشف قيمة 500 يورو بالدينار في سوق السكوار بورسعيد (127 500 دج / 12.75 مليون) مقارنة بالسعر الرسمي لبنك الجزائر.",
+    "calcEur": {
+      "montant": 500,
+      "devise": "EUR",
+      "symbole": "€",
+      "banqueDA": 77000,
+      "squareDA": 127500,
+      "ecartDA": 50500,
+      "squareMillions": "12.75",
+      "banqueMillions": "7.70",
+      "populaireFr": "12 Millions 750 Mille centimes",
+      "populaireAr": "12 مليون و 750 ألف سنتيم"
+    },
+    "calcUsd": {
+      "montant": 500,
+      "devise": "USD",
+      "symbole": "$",
+      "banqueDA": 69500,
+      "squareDA": 117500,
+      "ecartDA": 48000,
+      "squareMillions": "11.75",
+      "banqueMillions": "6.95",
+      "populaireFr": "11 Millions 750 Mille centimes",
+      "populaireAr": "11 مليون و 750 ألف سنتيم"
+    },
+    "comparatif": [
+      {
+        "marcheFr": "Marché Parallèle (Square Port-Saïd)",
+        "marcheAr": "السوق الموازي (ساحة بورسعيد)",
+        "tauxFr": "1 € = 255 DA",
+        "tauxAr": "1 يورو = 255 دج",
+        "valeurDA": 127500,
+        "valeurMillions": "12.75",
+        "parleFr": "12 Millions 750 Mille centimes",
+        "parleAr": "12 مليون و 750 ألف سنتيم"
+      },
+      {
+        "marcheFr": "Cours Officiel (Banque d'Algérie)",
+        "marcheAr": "السعر الرسمي (بنك الجزائر)",
+        "tauxFr": "1 € = 154 DA",
+        "tauxAr": "1 يورو = 154 دج",
+        "valeurDA": 77000,
+        "valeurMillions": "7.70",
+        "parleFr": "Taux officiel de facturation",
+        "parleAr": "السعر الرسمي للفوترة"
+      },
+      {
+        "marcheFr": "Écart entre les deux marchés",
+        "marcheAr": "الفارق بين السوقين",
+        "tauxFr": "+101 DA / €",
+        "tauxAr": "+101 دج / يورو",
+        "valeurDA": 50500,
+        "valeurMillions": "5.05",
+        "parleFr": "Surcote de +65.6%",
+        "parleAr": "فارق يقدر بـ +65.6%"
+      }
+    ],
+    "faqFr": [
+      {
+        "q": "Combien vaut 500 € au Square Port-Saïd aujourd'hui ?",
+        "a": "Au cours actuel du marché informel (255 DA pour 1 Euro), 500 € s'échangent contre 127 500 DA, ce qui correspond en langage populaire algérien à 12 Millions 750 Mille centimes."
+      },
+      {
+        "q": "Combien vaut 500 € au taux officiel de la Banque d'Algérie ?",
+        "a": "Au taux de change officiel de la Banque d'Algérie (154 DA pour 1 Euro), la contre-valeur de 500 € est de 77 000 DA."
+      },
+      {
+        "q": "Quel est l'écart de valeur entre le cours officiel et le Square ?",
+        "a": "La différence nette s'élève à 50 500 DA en faveur du marché informel, soit un écart d'environ 65.6%."
+      }
+    ],
+    "faqAr": [
+      {
+        "q": "كم تساوي 500 يورو في ساحة بورسعيد (السكوار) اليوم؟",
+        "a": "وفق سعر الصرف الحالي في السوق الموازي (255 دج لليورو الواحد)، تبلغ قيمة 500 يورو ما يعادل 127 500 دج، أي بالدارجة الجزائرية: 12 مليون و 750 ألف سنتيم."
+      },
+      {
+        "q": "كم تساوي 500 يورو بالسعر الرسمي لبنك الجزائر؟",
+        "a": "وفق السعر البنكي الرسمي الصادر عن بنك الجزائر (154 دج لليورو الواحد)، تساوي 500 يورو مبلغ 77 000 دج."
+      },
+      {
+        "q": "كم يبلغ الفارق بين السعرين الرسمي والموازي؟",
+        "a": "يبلغ الفارق المالي 50 500 دج لصالح السوق الموازي، أي بزيادة تقدر بحوالي 65.6%."
+      }
+    ]
+  },
+  {
+    "slug": "700-euros",
+    "montant": 700,
+    "isAdsensePriority": false,
+    "titleFr": "Convertir 700 Euros en Dinars Algériens (Taux Square Port-Saïd & Banque)",
+    "titleAr": "تحويل 700 يورو بالدينار الجزائري (سعر السكوار وبنك الجزائر)",
+    "descriptionFr": "Découvrez la valeur de 700 € en Dinars au marché informel Square Port-Saïd (178 500 DA / 17.85 Millions) comparée au cours officiel de la Banque d'Algérie.",
+    "descriptionAr": "اكتشف قيمة 700 يورو بالدينار في سوق السكوار بورسعيد (178 500 دج / 17.85 مليون) مقارنة بالسعر الرسمي لبنك الجزائر.",
+    "calcEur": {
+      "montant": 700,
+      "devise": "EUR",
+      "symbole": "€",
+      "banqueDA": 107800,
+      "squareDA": 178500,
+      "ecartDA": 70700,
+      "squareMillions": "17.85",
+      "banqueMillions": "10.78",
+      "populaireFr": "17 Millions 850 Mille centimes",
+      "populaireAr": "17 مليون و 850 ألف سنتيم"
+    },
+    "calcUsd": {
+      "montant": 700,
+      "devise": "USD",
+      "symbole": "$",
+      "banqueDA": 97300,
+      "squareDA": 164500,
+      "ecartDA": 67200,
+      "squareMillions": "16.45",
+      "banqueMillions": "9.73",
+      "populaireFr": "16 Millions 450 Mille centimes",
+      "populaireAr": "16 مليون و 450 ألف سنتيم"
+    },
+    "comparatif": [
+      {
+        "marcheFr": "Marché Parallèle (Square Port-Saïd)",
+        "marcheAr": "السوق الموازي (ساحة بورسعيد)",
+        "tauxFr": "1 € = 255 DA",
+        "tauxAr": "1 يورو = 255 دج",
+        "valeurDA": 178500,
+        "valeurMillions": "17.85",
+        "parleFr": "17 Millions 850 Mille centimes",
+        "parleAr": "17 مليون و 850 ألف سنتيم"
+      },
+      {
+        "marcheFr": "Cours Officiel (Banque d'Algérie)",
+        "marcheAr": "السعر الرسمي (بنك الجزائر)",
+        "tauxFr": "1 € = 154 DA",
+        "tauxAr": "1 يورو = 154 دج",
+        "valeurDA": 107800,
+        "valeurMillions": "10.78",
+        "parleFr": "Taux officiel de facturation",
+        "parleAr": "السعر الرسمي للفوترة"
+      },
+      {
+        "marcheFr": "Écart entre les deux marchés",
+        "marcheAr": "الفارق بين السوقين",
+        "tauxFr": "+101 DA / €",
+        "tauxAr": "+101 دج / يورو",
+        "valeurDA": 70700,
+        "valeurMillions": "7.07",
+        "parleFr": "Surcote de +65.6%",
+        "parleAr": "فارق يقدر بـ +65.6%"
+      }
+    ],
+    "faqFr": [
+      {
+        "q": "Combien vaut 700 € au Square Port-Saïd aujourd'hui ?",
+        "a": "Au cours actuel du marché informel (255 DA pour 1 Euro), 700 € s'échangent contre 178 500 DA, ce qui correspond en langage populaire algérien à 17 Millions 850 Mille centimes."
+      },
+      {
+        "q": "Combien vaut 700 € au taux officiel de la Banque d'Algérie ?",
+        "a": "Au taux de change officiel de la Banque d'Algérie (154 DA pour 1 Euro), la contre-valeur de 700 € est de 107 800 DA."
+      },
+      {
+        "q": "Quel est l'écart de valeur entre le cours officiel et le Square ?",
+        "a": "La différence nette s'élève à 70 700 DA en faveur du marché informel, soit un écart d'environ 65.6%."
+      }
+    ],
+    "faqAr": [
+      {
+        "q": "كم تساوي 700 يورو في ساحة بورسعيد (السكوار) اليوم؟",
+        "a": "وفق سعر الصرف الحالي في السوق الموازي (255 دج لليورو الواحد)، تبلغ قيمة 700 يورو ما يعادل 178 500 دج، أي بالدارجة الجزائرية: 17 مليون و 850 ألف سنتيم."
+      },
+      {
+        "q": "كم تساوي 700 يورو بالسعر الرسمي لبنك الجزائر؟",
+        "a": "وفق السعر البنكي الرسمي الصادر عن بنك الجزائر (154 دج لليورو الواحد)، تساوي 700 يورو مبلغ 107 800 دج."
+      },
+      {
+        "q": "كم يبلغ الفارق بين السعرين الرسمي والموازي؟",
+        "a": "يبلغ الفارق المالي 70 700 دج لصالح السوق الموازي، أي بزيادة تقدر بحوالي 65.6%."
+      }
+    ]
+  },
+  {
+    "slug": "1000-euros",
+    "montant": 1000,
+    "isAdsensePriority": true,
+    "titleFr": "Convertir 1000 Euros en Dinars Algériens (Taux Square Port-Saïd & Banque)",
+    "titleAr": "تحويل 1000 يورو بالدينار الجزائري (سعر السكوار وبنك الجزائر)",
+    "descriptionFr": "Découvrez la valeur de 1000 € en Dinars au marché informel Square Port-Saïd (255 000 DA / 25.50 Millions) comparée au cours officiel de la Banque d'Algérie.",
+    "descriptionAr": "اكتشف قيمة 1000 يورو بالدينار في سوق السكوار بورسعيد (255 000 دج / 25.50 مليون) مقارنة بالسعر الرسمي لبنك الجزائر.",
+    "calcEur": {
+      "montant": 1000,
+      "devise": "EUR",
+      "symbole": "€",
+      "banqueDA": 154000,
+      "squareDA": 255000,
+      "ecartDA": 101000,
+      "squareMillions": "25.50",
+      "banqueMillions": "15.40",
+      "populaireFr": "25 Millions 500 Mille centimes",
+      "populaireAr": "25 مليون و 500 ألف سنتيم"
+    },
+    "calcUsd": {
+      "montant": 1000,
+      "devise": "USD",
+      "symbole": "$",
+      "banqueDA": 139000,
+      "squareDA": 235000,
+      "ecartDA": 96000,
+      "squareMillions": "23.50",
+      "banqueMillions": "13.90",
+      "populaireFr": "23 Millions 500 Mille centimes",
+      "populaireAr": "23 مليون و 500 ألف سنتيم"
+    },
+    "comparatif": [
+      {
+        "marcheFr": "Marché Parallèle (Square Port-Saïd)",
+        "marcheAr": "السوق الموازي (ساحة بورسعيد)",
+        "tauxFr": "1 € = 255 DA",
+        "tauxAr": "1 يورو = 255 دج",
+        "valeurDA": 255000,
+        "valeurMillions": "25.50",
+        "parleFr": "25 Millions 500 Mille centimes",
+        "parleAr": "25 مليون و 500 ألف سنتيم"
+      },
+      {
+        "marcheFr": "Cours Officiel (Banque d'Algérie)",
+        "marcheAr": "السعر الرسمي (بنك الجزائر)",
+        "tauxFr": "1 € = 154 DA",
+        "tauxAr": "1 يورو = 154 دج",
+        "valeurDA": 154000,
+        "valeurMillions": "15.40",
+        "parleFr": "Taux officiel de facturation",
+        "parleAr": "السعر الرسمي للفوترة"
+      },
+      {
+        "marcheFr": "Écart entre les deux marchés",
+        "marcheAr": "الفارق بين السوقين",
+        "tauxFr": "+101 DA / €",
+        "tauxAr": "+101 دج / يورو",
+        "valeurDA": 101000,
+        "valeurMillions": "10.10",
+        "parleFr": "Surcote de +65.6%",
+        "parleAr": "فارق يقدر بـ +65.6%"
+      }
+    ],
+    "faqFr": [
+      {
+        "q": "Combien vaut 1000 € au Square Port-Saïd aujourd'hui ?",
+        "a": "Au cours actuel du marché informel (255 DA pour 1 Euro), 1000 € s'échangent contre 255 000 DA, ce qui correspond en langage populaire algérien à 25 Millions 500 Mille centimes."
+      },
+      {
+        "q": "Combien vaut 1000 € au taux officiel de la Banque d'Algérie ?",
+        "a": "Au taux de change officiel de la Banque d'Algérie (154 DA pour 1 Euro), la contre-valeur de 1000 € est de 154 000 DA."
+      },
+      {
+        "q": "Quel est l'écart de valeur entre le cours officiel et le Square ?",
+        "a": "La différence nette s'élève à 101 000 DA en faveur du marché informel, soit un écart d'environ 65.6%."
+      }
+    ],
+    "faqAr": [
+      {
+        "q": "كم تساوي 1000 يورو في ساحة بورسعيد (السكوار) اليوم؟",
+        "a": "وفق سعر الصرف الحالي في السوق الموازي (255 دج لليورو الواحد)، تبلغ قيمة 1000 يورو ما يعادل 255 000 دج، أي بالدارجة الجزائرية: 25 مليون و 500 ألف سنتيم."
+      },
+      {
+        "q": "كم تساوي 1000 يورو بالسعر الرسمي لبنك الجزائر؟",
+        "a": "وفق السعر البنكي الرسمي الصادر عن بنك الجزائر (154 دج لليورو الواحد)، تساوي 1000 يورو مبلغ 154 000 دج."
+      },
+      {
+        "q": "كم يبلغ الفارق بين السعرين الرسمي والموازي؟",
+        "a": "يبلغ الفارق المالي 101 000 دج لصالح السوق الموازي، أي بزيادة تقدر بحوالي 65.6%."
+      }
+    ]
+  },
+  {
+    "slug": "1500-euros",
+    "montant": 1500,
+    "isAdsensePriority": true,
+    "titleFr": "Convertir 1500 Euros en Dinars Algériens (Taux Square Port-Saïd & Banque)",
+    "titleAr": "تحويل 1500 يورو بالدينار الجزائري (سعر السكوار وبنك الجزائر)",
+    "descriptionFr": "Découvrez la valeur de 1500 € en Dinars au marché informel Square Port-Saïd (382 500 DA / 38.25 Millions) comparée au cours officiel de la Banque d'Algérie.",
+    "descriptionAr": "اكتشف قيمة 1500 يورو بالدينار في سوق السكوار بورسعيد (382 500 دج / 38.25 مليون) مقارنة بالسعر الرسمي لبنك الجزائر.",
+    "calcEur": {
+      "montant": 1500,
+      "devise": "EUR",
+      "symbole": "€",
+      "banqueDA": 231000,
+      "squareDA": 382500,
+      "ecartDA": 151500,
+      "squareMillions": "38.25",
+      "banqueMillions": "23.10",
+      "populaireFr": "38 Millions 250 Mille centimes",
+      "populaireAr": "38 مليون و 250 ألف سنتيم"
+    },
+    "calcUsd": {
+      "montant": 1500,
+      "devise": "USD",
+      "symbole": "$",
+      "banqueDA": 208500,
+      "squareDA": 352500,
+      "ecartDA": 144000,
+      "squareMillions": "35.25",
+      "banqueMillions": "20.85",
+      "populaireFr": "35 Millions 250 Mille centimes",
+      "populaireAr": "35 مليون و 250 ألف سنتيم"
+    },
+    "comparatif": [
+      {
+        "marcheFr": "Marché Parallèle (Square Port-Saïd)",
+        "marcheAr": "السوق الموازي (ساحة بورسعيد)",
+        "tauxFr": "1 € = 255 DA",
+        "tauxAr": "1 يورو = 255 دج",
+        "valeurDA": 382500,
+        "valeurMillions": "38.25",
+        "parleFr": "38 Millions 250 Mille centimes",
+        "parleAr": "38 مليون و 250 ألف سنتيم"
+      },
+      {
+        "marcheFr": "Cours Officiel (Banque d'Algérie)",
+        "marcheAr": "السعر الرسمي (بنك الجزائر)",
+        "tauxFr": "1 € = 154 DA",
+        "tauxAr": "1 يورو = 154 دج",
+        "valeurDA": 231000,
+        "valeurMillions": "23.10",
+        "parleFr": "Taux officiel de facturation",
+        "parleAr": "السعر الرسمي للفوترة"
+      },
+      {
+        "marcheFr": "Écart entre les deux marchés",
+        "marcheAr": "الفارق بين السوقين",
+        "tauxFr": "+101 DA / €",
+        "tauxAr": "+101 دج / يورو",
+        "valeurDA": 151500,
+        "valeurMillions": "15.15",
+        "parleFr": "Surcote de +65.6%",
+        "parleAr": "فارق يقدر بـ +65.6%"
+      }
+    ],
+    "faqFr": [
+      {
+        "q": "Combien vaut 1500 € au Square Port-Saïd aujourd'hui ?",
+        "a": "Au cours actuel du marché informel (255 DA pour 1 Euro), 1500 € s'échangent contre 382 500 DA, ce qui correspond en langage populaire algérien à 38 Millions 250 Mille centimes."
+      },
+      {
+        "q": "Combien vaut 1500 € au taux officiel de la Banque d'Algérie ?",
+        "a": "Au taux de change officiel de la Banque d'Algérie (154 DA pour 1 Euro), la contre-valeur de 1500 € est de 231 000 DA."
+      },
+      {
+        "q": "Quel est l'écart de valeur entre le cours officiel et le Square ?",
+        "a": "La différence nette s'élève à 151 500 DA en faveur du marché informel, soit un écart d'environ 65.6%."
+      }
+    ],
+    "faqAr": [
+      {
+        "q": "كم تساوي 1500 يورو في ساحة بورسعيد (السكوار) اليوم؟",
+        "a": "وفق سعر الصرف الحالي في السوق الموازي (255 دج لليورو الواحد)، تبلغ قيمة 1500 يورو ما يعادل 382 500 دج، أي بالدارجة الجزائرية: 38 مليون و 250 ألف سنتيم."
+      },
+      {
+        "q": "كم تساوي 1500 يورو بالسعر الرسمي لبنك الجزائر؟",
+        "a": "وفق السعر البنكي الرسمي الصادر عن بنك الجزائر (154 دج لليورو الواحد)، تساوي 1500 يورو مبلغ 231 000 دج."
+      },
+      {
+        "q": "كم يبلغ الفارق بين السعرين الرسمي والموازي؟",
+        "a": "يبلغ الفارق المالي 151 500 دج لصالح السوق الموازي، أي بزيادة تقدر بحوالي 65.6%."
+      }
+    ]
+  },
+  {
+    "slug": "2000-euros",
+    "montant": 2000,
+    "isAdsensePriority": true,
+    "titleFr": "Convertir 2000 Euros en Dinars Algériens (Taux Square Port-Saïd & Banque)",
+    "titleAr": "تحويل 2000 يورو بالدينار الجزائري (سعر السكوار وبنك الجزائر)",
+    "descriptionFr": "Découvrez la valeur de 2000 € en Dinars au marché informel Square Port-Saïd (510 000 DA / 51.00 Millions) comparée au cours officiel de la Banque d'Algérie.",
+    "descriptionAr": "اكتشف قيمة 2000 يورو بالدينار في سوق السكوار بورسعيد (510 000 دج / 51.00 مليون) مقارنة بالسعر الرسمي لبنك الجزائر.",
+    "calcEur": {
+      "montant": 2000,
+      "devise": "EUR",
+      "symbole": "€",
+      "banqueDA": 308000,
+      "squareDA": 510000,
+      "ecartDA": 202000,
+      "squareMillions": "51.00",
+      "banqueMillions": "30.80",
+      "populaireFr": "51 Millions",
+      "populaireAr": "51 مليون"
+    },
+    "calcUsd": {
+      "montant": 2000,
+      "devise": "USD",
+      "symbole": "$",
+      "banqueDA": 278000,
+      "squareDA": 470000,
+      "ecartDA": 192000,
+      "squareMillions": "47.00",
+      "banqueMillions": "27.80",
+      "populaireFr": "47 Millions",
+      "populaireAr": "47 مليون"
+    },
+    "comparatif": [
+      {
+        "marcheFr": "Marché Parallèle (Square Port-Saïd)",
+        "marcheAr": "السوق الموازي (ساحة بورسعيد)",
+        "tauxFr": "1 € = 255 DA",
+        "tauxAr": "1 يورو = 255 دج",
+        "valeurDA": 510000,
+        "valeurMillions": "51.00",
+        "parleFr": "51 Millions",
+        "parleAr": "51 مليون"
+      },
+      {
+        "marcheFr": "Cours Officiel (Banque d'Algérie)",
+        "marcheAr": "السعر الرسمي (بنك الجزائر)",
+        "tauxFr": "1 € = 154 DA",
+        "tauxAr": "1 يورو = 154 دج",
+        "valeurDA": 308000,
+        "valeurMillions": "30.80",
+        "parleFr": "Taux officiel de facturation",
+        "parleAr": "السعر الرسمي للفوترة"
+      },
+      {
+        "marcheFr": "Écart entre les deux marchés",
+        "marcheAr": "الفارق بين السوقين",
+        "tauxFr": "+101 DA / €",
+        "tauxAr": "+101 دج / يورو",
+        "valeurDA": 202000,
+        "valeurMillions": "20.20",
+        "parleFr": "Surcote de +65.6%",
+        "parleAr": "فارق يقدر بـ +65.6%"
+      }
+    ],
+    "faqFr": [
+      {
+        "q": "Combien vaut 2000 € au Square Port-Saïd aujourd'hui ?",
+        "a": "Au cours actuel du marché informel (255 DA pour 1 Euro), 2000 € s'échangent contre 510 000 DA, ce qui correspond en langage populaire algérien à 51 Millions."
+      },
+      {
+        "q": "Combien vaut 2000 € au taux officiel de la Banque d'Algérie ?",
+        "a": "Au taux de change officiel de la Banque d'Algérie (154 DA pour 1 Euro), la contre-valeur de 2000 € est de 308 000 DA."
+      },
+      {
+        "q": "Quel est l'écart de valeur entre le cours officiel et le Square ?",
+        "a": "La différence nette s'élève à 202 000 DA en faveur du marché informel, soit un écart d'environ 65.6%."
+      }
+    ],
+    "faqAr": [
+      {
+        "q": "كم تساوي 2000 يورو في ساحة بورسعيد (السكوار) اليوم؟",
+        "a": "وفق سعر الصرف الحالي في السوق الموازي (255 دج لليورو الواحد)، تبلغ قيمة 2000 يورو ما يعادل 510 000 دج، أي بالدارجة الجزائرية: 51 مليون."
+      },
+      {
+        "q": "كم تساوي 2000 يورو بالسعر الرسمي لبنك الجزائر؟",
+        "a": "وفق السعر البنكي الرسمي الصادر عن بنك الجزائر (154 دج لليورو الواحد)، تساوي 2000 يورو مبلغ 308 000 دج."
+      },
+      {
+        "q": "كم يبلغ الفارق بين السعرين الرسمي والموازي؟",
+        "a": "يبلغ الفارق المالي 202 000 دج لصالح السوق الموازي، أي بزيادة تقدر بحوالي 65.6%."
+      }
+    ]
+  },
+  {
+    "slug": "2500-euros",
+    "montant": 2500,
+    "isAdsensePriority": false,
+    "titleFr": "Convertir 2500 Euros en Dinars Algériens (Taux Square Port-Saïd & Banque)",
+    "titleAr": "تحويل 2500 يورو بالدينار الجزائري (سعر السكوار وبنك الجزائر)",
+    "descriptionFr": "Découvrez la valeur de 2500 € en Dinars au marché informel Square Port-Saïd (637 500 DA / 63.75 Millions) comparée au cours officiel de la Banque d'Algérie.",
+    "descriptionAr": "اكتشف قيمة 2500 يورو بالدينار في سوق السكوار بورسعيد (637 500 دج / 63.75 مليون) مقارنة بالسعر الرسمي لبنك الجزائر.",
+    "calcEur": {
+      "montant": 2500,
+      "devise": "EUR",
+      "symbole": "€",
+      "banqueDA": 385000,
+      "squareDA": 637500,
+      "ecartDA": 252500,
+      "squareMillions": "63.75",
+      "banqueMillions": "38.50",
+      "populaireFr": "63 Millions 750 Mille centimes",
+      "populaireAr": "63 مليون و 750 ألف سنتيم"
+    },
+    "calcUsd": {
+      "montant": 2500,
+      "devise": "USD",
+      "symbole": "$",
+      "banqueDA": 347500,
+      "squareDA": 587500,
+      "ecartDA": 240000,
+      "squareMillions": "58.75",
+      "banqueMillions": "34.75",
+      "populaireFr": "58 Millions 750 Mille centimes",
+      "populaireAr": "58 مليون و 750 ألف سنتيم"
+    },
+    "comparatif": [
+      {
+        "marcheFr": "Marché Parallèle (Square Port-Saïd)",
+        "marcheAr": "السوق الموازي (ساحة بورسعيد)",
+        "tauxFr": "1 € = 255 DA",
+        "tauxAr": "1 يورو = 255 دج",
+        "valeurDA": 637500,
+        "valeurMillions": "63.75",
+        "parleFr": "63 Millions 750 Mille centimes",
+        "parleAr": "63 مليون و 750 ألف سنتيم"
+      },
+      {
+        "marcheFr": "Cours Officiel (Banque d'Algérie)",
+        "marcheAr": "السعر الرسمي (بنك الجزائر)",
+        "tauxFr": "1 € = 154 DA",
+        "tauxAr": "1 يورو = 154 دج",
+        "valeurDA": 385000,
+        "valeurMillions": "38.50",
+        "parleFr": "Taux officiel de facturation",
+        "parleAr": "السعر الرسمي للفوترة"
+      },
+      {
+        "marcheFr": "Écart entre les deux marchés",
+        "marcheAr": "الفارق بين السوقين",
+        "tauxFr": "+101 DA / €",
+        "tauxAr": "+101 دج / يورو",
+        "valeurDA": 252500,
+        "valeurMillions": "25.25",
+        "parleFr": "Surcote de +65.6%",
+        "parleAr": "فارق يقدر بـ +65.6%"
+      }
+    ],
+    "faqFr": [
+      {
+        "q": "Combien vaut 2500 € au Square Port-Saïd aujourd'hui ?",
+        "a": "Au cours actuel du marché informel (255 DA pour 1 Euro), 2500 € s'échangent contre 637 500 DA, ce qui correspond en langage populaire algérien à 63 Millions 750 Mille centimes."
+      },
+      {
+        "q": "Combien vaut 2500 € au taux officiel de la Banque d'Algérie ?",
+        "a": "Au taux de change officiel de la Banque d'Algérie (154 DA pour 1 Euro), la contre-valeur de 2500 € est de 385 000 DA."
+      },
+      {
+        "q": "Quel est l'écart de valeur entre le cours officiel et le Square ?",
+        "a": "La différence nette s'élève à 252 500 DA en faveur du marché informel, soit un écart d'environ 65.6%."
+      }
+    ],
+    "faqAr": [
+      {
+        "q": "كم تساوي 2500 يورو في ساحة بورسعيد (السكوار) اليوم؟",
+        "a": "وفق سعر الصرف الحالي في السوق الموازي (255 دج لليورو الواحد)، تبلغ قيمة 2500 يورو ما يعادل 637 500 دج، أي بالدارجة الجزائرية: 63 مليون و 750 ألف سنتيم."
+      },
+      {
+        "q": "كم تساوي 2500 يورو بالسعر الرسمي لبنك الجزائر؟",
+        "a": "وفق السعر البنكي الرسمي الصادر عن بنك الجزائر (154 دج لليورو الواحد)، تساوي 2500 يورو مبلغ 385 000 دج."
+      },
+      {
+        "q": "كم يبلغ الفارق بين السعرين الرسمي والموازي؟",
+        "a": "يبلغ الفارق المالي 252 500 دج لصالح السوق الموازي، أي بزيادة تقدر بحوالي 65.6%."
+      }
+    ]
+  },
+  {
+    "slug": "3000-euros",
+    "montant": 3000,
+    "isAdsensePriority": true,
+    "titleFr": "Convertir 3000 Euros en Dinars Algériens (Taux Square Port-Saïd & Banque)",
+    "titleAr": "تحويل 3000 يورو بالدينار الجزائري (سعر السكوار وبنك الجزائر)",
+    "descriptionFr": "Découvrez la valeur de 3000 € en Dinars au marché informel Square Port-Saïd (765 000 DA / 76.50 Millions) comparée au cours officiel de la Banque d'Algérie.",
+    "descriptionAr": "اكتشف قيمة 3000 يورو بالدينار في سوق السكوار بورسعيد (765 000 دج / 76.50 مليون) مقارنة بالسعر الرسمي لبنك الجزائر.",
+    "calcEur": {
+      "montant": 3000,
+      "devise": "EUR",
+      "symbole": "€",
+      "banqueDA": 462000,
+      "squareDA": 765000,
+      "ecartDA": 303000,
+      "squareMillions": "76.50",
+      "banqueMillions": "46.20",
+      "populaireFr": "76 Millions 500 Mille centimes",
+      "populaireAr": "76 مليون و 500 ألف سنتيم"
+    },
+    "calcUsd": {
+      "montant": 3000,
+      "devise": "USD",
+      "symbole": "$",
+      "banqueDA": 417000,
+      "squareDA": 705000,
+      "ecartDA": 288000,
+      "squareMillions": "70.50",
+      "banqueMillions": "41.70",
+      "populaireFr": "70 Millions 500 Mille centimes",
+      "populaireAr": "70 مليون و 500 ألف سنتيم"
+    },
+    "comparatif": [
+      {
+        "marcheFr": "Marché Parallèle (Square Port-Saïd)",
+        "marcheAr": "السوق الموازي (ساحة بورسعيد)",
+        "tauxFr": "1 € = 255 DA",
+        "tauxAr": "1 يورو = 255 دج",
+        "valeurDA": 765000,
+        "valeurMillions": "76.50",
+        "parleFr": "76 Millions 500 Mille centimes",
+        "parleAr": "76 مليون و 500 ألف سنتيم"
+      },
+      {
+        "marcheFr": "Cours Officiel (Banque d'Algérie)",
+        "marcheAr": "السعر الرسمي (بنك الجزائر)",
+        "tauxFr": "1 € = 154 DA",
+        "tauxAr": "1 يورو = 154 دج",
+        "valeurDA": 462000,
+        "valeurMillions": "46.20",
+        "parleFr": "Taux officiel de facturation",
+        "parleAr": "السعر الرسمي للفوترة"
+      },
+      {
+        "marcheFr": "Écart entre les deux marchés",
+        "marcheAr": "الفارق بين السوقين",
+        "tauxFr": "+101 DA / €",
+        "tauxAr": "+101 دج / يورو",
+        "valeurDA": 303000,
+        "valeurMillions": "30.30",
+        "parleFr": "Surcote de +65.6%",
+        "parleAr": "فارق يقدر بـ +65.6%"
+      }
+    ],
+    "faqFr": [
+      {
+        "q": "Combien vaut 3000 € au Square Port-Saïd aujourd'hui ?",
+        "a": "Au cours actuel du marché informel (255 DA pour 1 Euro), 3000 € s'échangent contre 765 000 DA, ce qui correspond en langage populaire algérien à 76 Millions 500 Mille centimes."
+      },
+      {
+        "q": "Combien vaut 3000 € au taux officiel de la Banque d'Algérie ?",
+        "a": "Au taux de change officiel de la Banque d'Algérie (154 DA pour 1 Euro), la contre-valeur de 3000 € est de 462 000 DA."
+      },
+      {
+        "q": "Quel est l'écart de valeur entre le cours officiel et le Square ?",
+        "a": "La différence nette s'élève à 303 000 DA en faveur du marché informel, soit un écart d'environ 65.6%."
+      }
+    ],
+    "faqAr": [
+      {
+        "q": "كم تساوي 3000 يورو في ساحة بورسعيد (السكوار) اليوم؟",
+        "a": "وفق سعر الصرف الحالي في السوق الموازي (255 دج لليورو الواحد)، تبلغ قيمة 3000 يورو ما يعادل 765 000 دج، أي بالدارجة الجزائرية: 76 مليون و 500 ألف سنتيم."
+      },
+      {
+        "q": "كم تساوي 3000 يورو بالسعر الرسمي لبنك الجزائر؟",
+        "a": "وفق السعر البنكي الرسمي الصادر عن بنك الجزائر (154 دج لليورو الواحد)، تساوي 3000 يورو مبلغ 462 000 دج."
+      },
+      {
+        "q": "كم يبلغ الفارق بين السعرين الرسمي والموازي؟",
+        "a": "يبلغ الفارق المالي 303 000 دج لصالح السوق الموازي، أي بزيادة تقدر بحوالي 65.6%."
+      }
+    ]
+  },
+  {
+    "slug": "4000-euros",
+    "montant": 4000,
+    "isAdsensePriority": false,
+    "titleFr": "Convertir 4000 Euros en Dinars Algériens (Taux Square Port-Saïd & Banque)",
+    "titleAr": "تحويل 4000 يورو بالدينار الجزائري (سعر السكوار وبنك الجزائر)",
+    "descriptionFr": "Découvrez la valeur de 4000 € en Dinars au marché informel Square Port-Saïd (1 020 000 DA / 102.00 Millions) comparée au cours officiel de la Banque d'Algérie.",
+    "descriptionAr": "اكتشف قيمة 4000 يورو بالدينار في سوق السكوار بورسعيد (1 020 000 دج / 102.00 مليون) مقارنة بالسعر الرسمي لبنك الجزائر.",
+    "calcEur": {
+      "montant": 4000,
+      "devise": "EUR",
+      "symbole": "€",
+      "banqueDA": 616000,
+      "squareDA": 1020000,
+      "ecartDA": 404000,
+      "squareMillions": "102.00",
+      "banqueMillions": "61.60",
+      "populaireFr": "102 Millions",
+      "populaireAr": "102 مليون"
+    },
+    "calcUsd": {
+      "montant": 4000,
+      "devise": "USD",
+      "symbole": "$",
+      "banqueDA": 556000,
+      "squareDA": 940000,
+      "ecartDA": 384000,
+      "squareMillions": "94.00",
+      "banqueMillions": "55.60",
+      "populaireFr": "94 Millions",
+      "populaireAr": "94 مليون"
+    },
+    "comparatif": [
+      {
+        "marcheFr": "Marché Parallèle (Square Port-Saïd)",
+        "marcheAr": "السوق الموازي (ساحة بورسعيد)",
+        "tauxFr": "1 € = 255 DA",
+        "tauxAr": "1 يورو = 255 دج",
+        "valeurDA": 1020000,
+        "valeurMillions": "102.00",
+        "parleFr": "102 Millions",
+        "parleAr": "102 مليون"
+      },
+      {
+        "marcheFr": "Cours Officiel (Banque d'Algérie)",
+        "marcheAr": "السعر الرسمي (بنك الجزائر)",
+        "tauxFr": "1 € = 154 DA",
+        "tauxAr": "1 يورو = 154 دج",
+        "valeurDA": 616000,
+        "valeurMillions": "61.60",
+        "parleFr": "Taux officiel de facturation",
+        "parleAr": "السعر الرسمي للفوترة"
+      },
+      {
+        "marcheFr": "Écart entre les deux marchés",
+        "marcheAr": "الفارق بين السوقين",
+        "tauxFr": "+101 DA / €",
+        "tauxAr": "+101 دج / يورو",
+        "valeurDA": 404000,
+        "valeurMillions": "40.40",
+        "parleFr": "Surcote de +65.6%",
+        "parleAr": "فارق يقدر بـ +65.6%"
+      }
+    ],
+    "faqFr": [
+      {
+        "q": "Combien vaut 4000 € au Square Port-Saïd aujourd'hui ?",
+        "a": "Au cours actuel du marché informel (255 DA pour 1 Euro), 4000 € s'échangent contre 1 020 000 DA, ce qui correspond en langage populaire algérien à 102 Millions."
+      },
+      {
+        "q": "Combien vaut 4000 € au taux officiel de la Banque d'Algérie ?",
+        "a": "Au taux de change officiel de la Banque d'Algérie (154 DA pour 1 Euro), la contre-valeur de 4000 € est de 616 000 DA."
+      },
+      {
+        "q": "Quel est l'écart de valeur entre le cours officiel et le Square ?",
+        "a": "La différence nette s'élève à 404 000 DA en faveur du marché informel, soit un écart d'environ 65.6%."
+      }
+    ],
+    "faqAr": [
+      {
+        "q": "كم تساوي 4000 يورو في ساحة بورسعيد (السكوار) اليوم؟",
+        "a": "وفق سعر الصرف الحالي في السوق الموازي (255 دج لليورو الواحد)، تبلغ قيمة 4000 يورو ما يعادل 1 020 000 دج، أي بالدارجة الجزائرية: 102 مليون."
+      },
+      {
+        "q": "كم تساوي 4000 يورو بالسعر الرسمي لبنك الجزائر؟",
+        "a": "وفق السعر البنكي الرسمي الصادر عن بنك الجزائر (154 دج لليورو الواحد)، تساوي 4000 يورو مبلغ 616 000 دج."
+      },
+      {
+        "q": "كم يبلغ الفارق بين السعرين الرسمي والموازي؟",
+        "a": "يبلغ الفارق المالي 404 000 دج لصالح السوق الموازي، أي بزيادة تقدر بحوالي 65.6%."
+      }
+    ]
+  },
+  {
+    "slug": "5000-euros",
+    "montant": 5000,
+    "isAdsensePriority": true,
+    "titleFr": "Convertir 5000 Euros en Dinars Algériens (Taux Square Port-Saïd & Banque)",
+    "titleAr": "تحويل 5000 يورو بالدينار الجزائري (سعر السكوار وبنك الجزائر)",
+    "descriptionFr": "Découvrez la valeur de 5000 € en Dinars au marché informel Square Port-Saïd (1 275 000 DA / 127.50 Millions) comparée au cours officiel de la Banque d'Algérie.",
+    "descriptionAr": "اكتشف قيمة 5000 يورو بالدينار في سوق السكوار بورسعيد (1 275 000 دج / 127.50 مليون) مقارنة بالسعر الرسمي لبنك الجزائر.",
+    "calcEur": {
+      "montant": 5000,
+      "devise": "EUR",
+      "symbole": "€",
+      "banqueDA": 770000,
+      "squareDA": 1275000,
+      "ecartDA": 505000,
+      "squareMillions": "127.50",
+      "banqueMillions": "77.00",
+      "populaireFr": "127 Millions 500 Mille centimes",
+      "populaireAr": "127 مليون و 500 ألف سنتيم"
+    },
+    "calcUsd": {
+      "montant": 5000,
+      "devise": "USD",
+      "symbole": "$",
+      "banqueDA": 695000,
+      "squareDA": 1175000,
+      "ecartDA": 480000,
+      "squareMillions": "117.50",
+      "banqueMillions": "69.50",
+      "populaireFr": "117 Millions 500 Mille centimes",
+      "populaireAr": "117 مليون و 500 ألف سنتيم"
+    },
+    "comparatif": [
+      {
+        "marcheFr": "Marché Parallèle (Square Port-Saïd)",
+        "marcheAr": "السوق الموازي (ساحة بورسعيد)",
+        "tauxFr": "1 € = 255 DA",
+        "tauxAr": "1 يورو = 255 دج",
+        "valeurDA": 1275000,
+        "valeurMillions": "127.50",
+        "parleFr": "127 Millions 500 Mille centimes",
+        "parleAr": "127 مليون و 500 ألف سنتيم"
+      },
+      {
+        "marcheFr": "Cours Officiel (Banque d'Algérie)",
+        "marcheAr": "السعر الرسمي (بنك الجزائر)",
+        "tauxFr": "1 € = 154 DA",
+        "tauxAr": "1 يورو = 154 دج",
+        "valeurDA": 770000,
+        "valeurMillions": "77.00",
+        "parleFr": "Taux officiel de facturation",
+        "parleAr": "السعر الرسمي للفوترة"
+      },
+      {
+        "marcheFr": "Écart entre les deux marchés",
+        "marcheAr": "الفارق بين السوقين",
+        "tauxFr": "+101 DA / €",
+        "tauxAr": "+101 دج / يورو",
+        "valeurDA": 505000,
+        "valeurMillions": "50.50",
+        "parleFr": "Surcote de +65.6%",
+        "parleAr": "فارق يقدر بـ +65.6%"
+      }
+    ],
+    "faqFr": [
+      {
+        "q": "Combien vaut 5000 € au Square Port-Saïd aujourd'hui ?",
+        "a": "Au cours actuel du marché informel (255 DA pour 1 Euro), 5000 € s'échangent contre 1 275 000 DA, ce qui correspond en langage populaire algérien à 127 Millions 500 Mille centimes."
+      },
+      {
+        "q": "Combien vaut 5000 € au taux officiel de la Banque d'Algérie ?",
+        "a": "Au taux de change officiel de la Banque d'Algérie (154 DA pour 1 Euro), la contre-valeur de 5000 € est de 770 000 DA."
+      },
+      {
+        "q": "Quel est l'écart de valeur entre le cours officiel et le Square ?",
+        "a": "La différence nette s'élève à 505 000 DA en faveur du marché informel, soit un écart d'environ 65.6%."
+      }
+    ],
+    "faqAr": [
+      {
+        "q": "كم تساوي 5000 يورو في ساحة بورسعيد (السكوار) اليوم؟",
+        "a": "وفق سعر الصرف الحالي في السوق الموازي (255 دج لليورو الواحد)، تبلغ قيمة 5000 يورو ما يعادل 1 275 000 دج، أي بالدارجة الجزائرية: 127 مليون و 500 ألف سنتيم."
+      },
+      {
+        "q": "كم تساوي 5000 يورو بالسعر الرسمي لبنك الجزائر؟",
+        "a": "وفق السعر البنكي الرسمي الصادر عن بنك الجزائر (154 دج لليورو الواحد)، تساوي 5000 يورو مبلغ 770 000 دج."
+      },
+      {
+        "q": "كم يبلغ الفارق بين السعرين الرسمي والموازي؟",
+        "a": "يبلغ الفارق المالي 505 000 دج لصالح السوق الموازي، أي بزيادة تقدر بحوالي 65.6%."
+      }
+    ]
+  },
+  {
+    "slug": "7500-euros",
+    "montant": 7500,
+    "isAdsensePriority": false,
+    "titleFr": "Convertir 7500 Euros en Dinars Algériens (Taux Square Port-Saïd & Banque)",
+    "titleAr": "تحويل 7500 يورو بالدينار الجزائري (سعر السكوار وبنك الجزائر)",
+    "descriptionFr": "Découvrez la valeur de 7500 € en Dinars au marché informel Square Port-Saïd (1 912 500 DA / 191.25 Millions) comparée au cours officiel de la Banque d'Algérie.",
+    "descriptionAr": "اكتشف قيمة 7500 يورو بالدينار في سوق السكوار بورسعيد (1 912 500 دج / 191.25 مليون) مقارنة بالسعر الرسمي لبنك الجزائر.",
+    "calcEur": {
+      "montant": 7500,
+      "devise": "EUR",
+      "symbole": "€",
+      "banqueDA": 1155000,
+      "squareDA": 1912500,
+      "ecartDA": 757500,
+      "squareMillions": "191.25",
+      "banqueMillions": "115.50",
+      "populaireFr": "191 Millions 250 Mille centimes",
+      "populaireAr": "191 مليون و 250 ألف سنتيم"
+    },
+    "calcUsd": {
+      "montant": 7500,
+      "devise": "USD",
+      "symbole": "$",
+      "banqueDA": 1042500,
+      "squareDA": 1762500,
+      "ecartDA": 720000,
+      "squareMillions": "176.25",
+      "banqueMillions": "104.25",
+      "populaireFr": "176 Millions 250 Mille centimes",
+      "populaireAr": "176 مليون و 250 ألف سنتيم"
+    },
+    "comparatif": [
+      {
+        "marcheFr": "Marché Parallèle (Square Port-Saïd)",
+        "marcheAr": "السوق الموازي (ساحة بورسعيد)",
+        "tauxFr": "1 € = 255 DA",
+        "tauxAr": "1 يورو = 255 دج",
+        "valeurDA": 1912500,
+        "valeurMillions": "191.25",
+        "parleFr": "191 Millions 250 Mille centimes",
+        "parleAr": "191 مليون و 250 ألف سنتيم"
+      },
+      {
+        "marcheFr": "Cours Officiel (Banque d'Algérie)",
+        "marcheAr": "السعر الرسمي (بنك الجزائر)",
+        "tauxFr": "1 € = 154 DA",
+        "tauxAr": "1 يورو = 154 دج",
+        "valeurDA": 1155000,
+        "valeurMillions": "115.50",
+        "parleFr": "Taux officiel de facturation",
+        "parleAr": "السعر الرسمي للفوترة"
+      },
+      {
+        "marcheFr": "Écart entre les deux marchés",
+        "marcheAr": "الفارق بين السوقين",
+        "tauxFr": "+101 DA / €",
+        "tauxAr": "+101 دج / يورو",
+        "valeurDA": 757500,
+        "valeurMillions": "75.75",
+        "parleFr": "Surcote de +65.6%",
+        "parleAr": "فارق يقدر بـ +65.6%"
+      }
+    ],
+    "faqFr": [
+      {
+        "q": "Combien vaut 7500 € au Square Port-Saïd aujourd'hui ?",
+        "a": "Au cours actuel du marché informel (255 DA pour 1 Euro), 7500 € s'échangent contre 1 912 500 DA, ce qui correspond en langage populaire algérien à 191 Millions 250 Mille centimes."
+      },
+      {
+        "q": "Combien vaut 7500 € au taux officiel de la Banque d'Algérie ?",
+        "a": "Au taux de change officiel de la Banque d'Algérie (154 DA pour 1 Euro), la contre-valeur de 7500 € est de 1 155 000 DA."
+      },
+      {
+        "q": "Quel est l'écart de valeur entre le cours officiel et le Square ?",
+        "a": "La différence nette s'élève à 757 500 DA en faveur du marché informel, soit un écart d'environ 65.6%."
+      }
+    ],
+    "faqAr": [
+      {
+        "q": "كم تساوي 7500 يورو في ساحة بورسعيد (السكوار) اليوم؟",
+        "a": "وفق سعر الصرف الحالي في السوق الموازي (255 دج لليورو الواحد)، تبلغ قيمة 7500 يورو ما يعادل 1 912 500 دج، أي بالدارجة الجزائرية: 191 مليون و 250 ألف سنتيم."
+      },
+      {
+        "q": "كم تساوي 7500 يورو بالسعر الرسمي لبنك الجزائر؟",
+        "a": "وفق السعر البنكي الرسمي الصادر عن بنك الجزائر (154 دج لليورو الواحد)، تساوي 7500 يورو مبلغ 1 155 000 دج."
+      },
+      {
+        "q": "كم يبلغ الفارق بين السعرين الرسمي والموازي؟",
+        "a": "يبلغ الفارق المالي 757 500 دج لصالح السوق الموازي، أي بزيادة تقدر بحوالي 65.6%."
+      }
+    ]
+  },
+  {
+    "slug": "10000-euros",
+    "montant": 10000,
+    "isAdsensePriority": true,
+    "titleFr": "Convertir 10000 Euros en Dinars Algériens (Taux Square Port-Saïd & Banque)",
+    "titleAr": "تحويل 10000 يورو بالدينار الجزائري (سعر السكوار وبنك الجزائر)",
+    "descriptionFr": "Découvrez la valeur de 10000 € en Dinars au marché informel Square Port-Saïd (2 550 000 DA / 255.00 Millions) comparée au cours officiel de la Banque d'Algérie.",
+    "descriptionAr": "اكتشف قيمة 10000 يورو بالدينار في سوق السكوار بورسعيد (2 550 000 دج / 255.00 مليون) مقارنة بالسعر الرسمي لبنك الجزائر.",
+    "calcEur": {
+      "montant": 10000,
+      "devise": "EUR",
+      "symbole": "€",
+      "banqueDA": 1540000,
+      "squareDA": 2550000,
+      "ecartDA": 1010000,
+      "squareMillions": "255.00",
+      "banqueMillions": "154.00",
+      "populaireFr": "255 Millions",
+      "populaireAr": "255 مليون"
+    },
+    "calcUsd": {
+      "montant": 10000,
+      "devise": "USD",
+      "symbole": "$",
+      "banqueDA": 1390000,
+      "squareDA": 2350000,
+      "ecartDA": 960000,
+      "squareMillions": "235.00",
+      "banqueMillions": "139.00",
+      "populaireFr": "235 Millions",
+      "populaireAr": "235 مليون"
+    },
+    "comparatif": [
+      {
+        "marcheFr": "Marché Parallèle (Square Port-Saïd)",
+        "marcheAr": "السوق الموازي (ساحة بورسعيد)",
+        "tauxFr": "1 € = 255 DA",
+        "tauxAr": "1 يورو = 255 دج",
+        "valeurDA": 2550000,
+        "valeurMillions": "255.00",
+        "parleFr": "255 Millions",
+        "parleAr": "255 مليون"
+      },
+      {
+        "marcheFr": "Cours Officiel (Banque d'Algérie)",
+        "marcheAr": "السعر الرسمي (بنك الجزائر)",
+        "tauxFr": "1 € = 154 DA",
+        "tauxAr": "1 يورو = 154 دج",
+        "valeurDA": 1540000,
+        "valeurMillions": "154.00",
+        "parleFr": "Taux officiel de facturation",
+        "parleAr": "السعر الرسمي للفوترة"
+      },
+      {
+        "marcheFr": "Écart entre les deux marchés",
+        "marcheAr": "الفارق بين السوقين",
+        "tauxFr": "+101 DA / €",
+        "tauxAr": "+101 دج / يورو",
+        "valeurDA": 1010000,
+        "valeurMillions": "101.00",
+        "parleFr": "Surcote de +65.6%",
+        "parleAr": "فارق يقدر بـ +65.6%"
+      }
+    ],
+    "faqFr": [
+      {
+        "q": "Combien vaut 10000 € au Square Port-Saïd aujourd'hui ?",
+        "a": "Au cours actuel du marché informel (255 DA pour 1 Euro), 10000 € s'échangent contre 2 550 000 DA, ce qui correspond en langage populaire algérien à 255 Millions."
+      },
+      {
+        "q": "Combien vaut 10000 € au taux officiel de la Banque d'Algérie ?",
+        "a": "Au taux de change officiel de la Banque d'Algérie (154 DA pour 1 Euro), la contre-valeur de 10000 € est de 1 540 000 DA."
+      },
+      {
+        "q": "Quel est l'écart de valeur entre le cours officiel et le Square ?",
+        "a": "La différence nette s'élève à 1 010 000 DA en faveur du marché informel, soit un écart d'environ 65.6%."
+      }
+    ],
+    "faqAr": [
+      {
+        "q": "كم تساوي 10000 يورو في ساحة بورسعيد (السكوار) اليوم؟",
+        "a": "وفق سعر الصرف الحالي في السوق الموازي (255 دج لليورو الواحد)، تبلغ قيمة 10000 يورو ما يعادل 2 550 000 دج، أي بالدارجة الجزائرية: 255 مليون."
+      },
+      {
+        "q": "كم تساوي 10000 يورو بالسعر الرسمي لبنك الجزائر؟",
+        "a": "وفق السعر البنكي الرسمي الصادر عن بنك الجزائر (154 دج لليورو الواحد)، تساوي 10000 يورو مبلغ 1 540 000 دج."
+      },
+      {
+        "q": "كم يبلغ الفارق بين السعرين الرسمي والموازي؟",
+        "a": "يبلغ الفارق المالي 1 010 000 دج لصالح السوق الموازي، أي بزيادة تقدر بحوالي 65.6%."
+      }
+    ]
+  },
+  {
+    "slug": "15000-euros",
+    "montant": 15000,
+    "isAdsensePriority": false,
+    "titleFr": "Convertir 15000 Euros en Dinars Algériens (Taux Square Port-Saïd & Banque)",
+    "titleAr": "تحويل 15000 يورو بالدينار الجزائري (سعر السكوار وبنك الجزائر)",
+    "descriptionFr": "Découvrez la valeur de 15000 € en Dinars au marché informel Square Port-Saïd (3 825 000 DA / 382.50 Millions) comparée au cours officiel de la Banque d'Algérie.",
+    "descriptionAr": "اكتشف قيمة 15000 يورو بالدينار في سوق السكوار بورسعيد (3 825 000 دج / 382.50 مليون) مقارنة بالسعر الرسمي لبنك الجزائر.",
+    "calcEur": {
+      "montant": 15000,
+      "devise": "EUR",
+      "symbole": "€",
+      "banqueDA": 2310000,
+      "squareDA": 3825000,
+      "ecartDA": 1515000,
+      "squareMillions": "382.50",
+      "banqueMillions": "231.00",
+      "populaireFr": "382 Millions 500 Mille centimes",
+      "populaireAr": "382 مليون و 500 ألف سنتيم"
+    },
+    "calcUsd": {
+      "montant": 15000,
+      "devise": "USD",
+      "symbole": "$",
+      "banqueDA": 2085000,
+      "squareDA": 3525000,
+      "ecartDA": 1440000,
+      "squareMillions": "352.50",
+      "banqueMillions": "208.50",
+      "populaireFr": "352 Millions 500 Mille centimes",
+      "populaireAr": "352 مليون و 500 ألف سنتيم"
+    },
+    "comparatif": [
+      {
+        "marcheFr": "Marché Parallèle (Square Port-Saïd)",
+        "marcheAr": "السوق الموازي (ساحة بورسعيد)",
+        "tauxFr": "1 € = 255 DA",
+        "tauxAr": "1 يورو = 255 دج",
+        "valeurDA": 3825000,
+        "valeurMillions": "382.50",
+        "parleFr": "382 Millions 500 Mille centimes",
+        "parleAr": "382 مليون و 500 ألف سنتيم"
+      },
+      {
+        "marcheFr": "Cours Officiel (Banque d'Algérie)",
+        "marcheAr": "السعر الرسمي (بنك الجزائر)",
+        "tauxFr": "1 € = 154 DA",
+        "tauxAr": "1 يورو = 154 دج",
+        "valeurDA": 2310000,
+        "valeurMillions": "231.00",
+        "parleFr": "Taux officiel de facturation",
+        "parleAr": "السعر الرسمي للفوترة"
+      },
+      {
+        "marcheFr": "Écart entre les deux marchés",
+        "marcheAr": "الفارق بين السوقين",
+        "tauxFr": "+101 DA / €",
+        "tauxAr": "+101 دج / يورو",
+        "valeurDA": 1515000,
+        "valeurMillions": "151.50",
+        "parleFr": "Surcote de +65.6%",
+        "parleAr": "فارق يقدر بـ +65.6%"
+      }
+    ],
+    "faqFr": [
+      {
+        "q": "Combien vaut 15000 € au Square Port-Saïd aujourd'hui ?",
+        "a": "Au cours actuel du marché informel (255 DA pour 1 Euro), 15000 € s'échangent contre 3 825 000 DA, ce qui correspond en langage populaire algérien à 382 Millions 500 Mille centimes."
+      },
+      {
+        "q": "Combien vaut 15000 € au taux officiel de la Banque d'Algérie ?",
+        "a": "Au taux de change officiel de la Banque d'Algérie (154 DA pour 1 Euro), la contre-valeur de 15000 € est de 2 310 000 DA."
+      },
+      {
+        "q": "Quel est l'écart de valeur entre le cours officiel et le Square ?",
+        "a": "La différence nette s'élève à 1 515 000 DA en faveur du marché informel, soit un écart d'environ 65.6%."
+      }
+    ],
+    "faqAr": [
+      {
+        "q": "كم تساوي 15000 يورو في ساحة بورسعيد (السكوار) اليوم؟",
+        "a": "وفق سعر الصرف الحالي في السوق الموازي (255 دج لليورو الواحد)، تبلغ قيمة 15000 يورو ما يعادل 3 825 000 دج، أي بالدارجة الجزائرية: 382 مليون و 500 ألف سنتيم."
+      },
+      {
+        "q": "كم تساوي 15000 يورو بالسعر الرسمي لبنك الجزائر؟",
+        "a": "وفق السعر البنكي الرسمي الصادر عن بنك الجزائر (154 دج لليورو الواحد)، تساوي 15000 يورو مبلغ 2 310 000 دج."
+      },
+      {
+        "q": "كم يبلغ الفارق بين السعرين الرسمي والموازي؟",
+        "a": "يبلغ الفارق المالي 1 515 000 دج لصالح السوق الموازي، أي بزيادة تقدر بحوالي 65.6%."
+      }
+    ]
+  },
+  {
+    "slug": "20000-euros",
+    "montant": 20000,
+    "isAdsensePriority": true,
+    "titleFr": "Convertir 20000 Euros en Dinars Algériens (Taux Square Port-Saïd & Banque)",
+    "titleAr": "تحويل 20000 يورو بالدينار الجزائري (سعر السكوار وبنك الجزائر)",
+    "descriptionFr": "Découvrez la valeur de 20000 € en Dinars au marché informel Square Port-Saïd (5 100 000 DA / 510.00 Millions) comparée au cours officiel de la Banque d'Algérie.",
+    "descriptionAr": "اكتشف قيمة 20000 يورو بالدينار في سوق السكوار بورسعيد (5 100 000 دج / 510.00 مليون) مقارنة بالسعر الرسمي لبنك الجزائر.",
+    "calcEur": {
+      "montant": 20000,
+      "devise": "EUR",
+      "symbole": "€",
+      "banqueDA": 3080000,
+      "squareDA": 5100000,
+      "ecartDA": 2020000,
+      "squareMillions": "510.00",
+      "banqueMillions": "308.00",
+      "populaireFr": "510 Millions",
+      "populaireAr": "510 مليون"
+    },
+    "calcUsd": {
+      "montant": 20000,
+      "devise": "USD",
+      "symbole": "$",
+      "banqueDA": 2780000,
+      "squareDA": 4700000,
+      "ecartDA": 1920000,
+      "squareMillions": "470.00",
+      "banqueMillions": "278.00",
+      "populaireFr": "470 Millions",
+      "populaireAr": "470 مليون"
+    },
+    "comparatif": [
+      {
+        "marcheFr": "Marché Parallèle (Square Port-Saïd)",
+        "marcheAr": "السوق الموازي (ساحة بورسعيد)",
+        "tauxFr": "1 € = 255 DA",
+        "tauxAr": "1 يورو = 255 دج",
+        "valeurDA": 5100000,
+        "valeurMillions": "510.00",
+        "parleFr": "510 Millions",
+        "parleAr": "510 مليون"
+      },
+      {
+        "marcheFr": "Cours Officiel (Banque d'Algérie)",
+        "marcheAr": "السعر الرسمي (بنك الجزائر)",
+        "tauxFr": "1 € = 154 DA",
+        "tauxAr": "1 يورو = 154 دج",
+        "valeurDA": 3080000,
+        "valeurMillions": "308.00",
+        "parleFr": "Taux officiel de facturation",
+        "parleAr": "السعر الرسمي للفوترة"
+      },
+      {
+        "marcheFr": "Écart entre les deux marchés",
+        "marcheAr": "الفارق بين السوقين",
+        "tauxFr": "+101 DA / €",
+        "tauxAr": "+101 دج / يورو",
+        "valeurDA": 2020000,
+        "valeurMillions": "202.00",
+        "parleFr": "Surcote de +65.6%",
+        "parleAr": "فارق يقدر بـ +65.6%"
+      }
+    ],
+    "faqFr": [
+      {
+        "q": "Combien vaut 20000 € au Square Port-Saïd aujourd'hui ?",
+        "a": "Au cours actuel du marché informel (255 DA pour 1 Euro), 20000 € s'échangent contre 5 100 000 DA, ce qui correspond en langage populaire algérien à 510 Millions."
+      },
+      {
+        "q": "Combien vaut 20000 € au taux officiel de la Banque d'Algérie ?",
+        "a": "Au taux de change officiel de la Banque d'Algérie (154 DA pour 1 Euro), la contre-valeur de 20000 € est de 3 080 000 DA."
+      },
+      {
+        "q": "Quel est l'écart de valeur entre le cours officiel et le Square ?",
+        "a": "La différence nette s'élève à 2 020 000 DA en faveur du marché informel, soit un écart d'environ 65.6%."
+      }
+    ],
+    "faqAr": [
+      {
+        "q": "كم تساوي 20000 يورو في ساحة بورسعيد (السكوار) اليوم؟",
+        "a": "وفق سعر الصرف الحالي في السوق الموازي (255 دج لليورو الواحد)، تبلغ قيمة 20000 يورو ما يعادل 5 100 000 دج، أي بالدارجة الجزائرية: 510 مليون."
+      },
+      {
+        "q": "كم تساوي 20000 يورو بالسعر الرسمي لبنك الجزائر؟",
+        "a": "وفق السعر البنكي الرسمي الصادر عن بنك الجزائر (154 دج لليورو الواحد)، تساوي 20000 يورو مبلغ 3 080 000 دج."
+      },
+      {
+        "q": "كم يبلغ الفارق بين السعرين الرسمي والموازي؟",
+        "a": "يبلغ الفارق المالي 2 020 000 دج لصالح السوق الموازي، أي بزيادة تقدر بحوالي 65.6%."
+      }
+    ]
+  }
+]

@@ -1,0 +1,2654 @@
+[
+  {
+    "slug": "25000-da",
+    "brut": 25000,
+    "isAdsensePriority": false,
+    "titleFr": "Salaire Net pour 25 000 DA Brut en Algérie (Calcul IRG & CNAS 2024)",
+    "titleAr": "الراتب الصافي لمبلغ 25 000 دج خام في الجزائر (حساب الضريبة والضمان الاجتماعي)",
+    "descriptionFr": "Découvrez le salaire net exact pour un salaire brut de 25 000 DA en Algérie : déduction CNAS (9%), impôt IRG barème 2024, comparaison Régime Nord vs Régime Sud.",
+    "descriptionAr": "اكتشف الراتب الصافي الدقيق لراتب خام قدره 25 000 دج في الجزائر: خصم الضمان الاجتماعي (9%)، ضريبة الدخل IRG، ومقارنة نظام الشمال ونظام الجنوب.",
+    "calc": {
+      "brut": 25000,
+      "cnas": 2250,
+      "salaireImposable": 22750,
+      "irgBrut": 633,
+      "irgFinal": 0,
+      "net": 22750,
+      "netMillions": "2.27",
+      "brutMillions": "2.50",
+      "cnasMillions": "0.23",
+      "irgMillions": "0.00"
+    },
+    "calcSud": {
+      "brut": 25000,
+      "cnas": 2250,
+      "salaireImposable": 22750,
+      "irgBrut": 633,
+      "irgFinal": 0,
+      "net": 22750,
+      "netMillions": "2.27",
+      "brutMillions": "2.50",
+      "cnasMillions": "0.23",
+      "irgMillions": "0.00"
+    },
+    "calcPrimes": {
+      "brut": 25000,
+      "cnas": 2250,
+      "salaireImposable": 32750,
+      "irgBrut": 2933,
+      "irgFinal": 1236,
+      "net": 31514,
+      "netMillions": "3.15",
+      "brutMillions": "2.50",
+      "cnasMillions": "0.23",
+      "irgMillions": "0.12"
+    },
+    "comparatif": [
+      {
+        "regimeFr": "Régime Nord (Standard)",
+        "regimeAr": "نظام الشمال (العادي)",
+        "brutDA": 25000,
+        "cnasDA": 2250,
+        "irgDA": 0,
+        "netDA": 22750,
+        "netMillions": "2.27"
+      },
+      {
+        "regimeFr": "Régime Grand Sud (-50% IRG)",
+        "regimeAr": "نظام الجنوب الكبير (تخفيض 50% من الضريبة)",
+        "brutDA": 25000,
+        "cnasDA": 2250,
+        "irgDA": 0,
+        "netDA": 22750,
+        "netMillions": "2.27"
+      },
+      {
+        "regimeFr": "Avec Primes Imposables (+10 000 DA)",
+        "regimeAr": "مع علاوات خاضعة (+10 000 دج)",
+        "brutDA": 35000,
+        "cnasDA": 2250,
+        "irgDA": 1236,
+        "netDA": 31514,
+        "netMillions": "3.15"
+      }
+    ],
+    "faqFr": [
+      {
+        "q": "Quel est le salaire net pour un salaire brut de 25 000 DA en Algérie ?",
+        "a": "Pour un salaire brut de 25 000 DA, le salaire net à percevoir est de 22 750 DA (soit environ 2.27 Millions de centimes) après déduction de 2 250 DA pour la CNAS (9%) et 0 DA d'IRG."
+      },
+      {
+        "q": "Combien paye-t-on d'impôt IRG sur un salaire de 25 000 DA ?",
+        "a": "Le montant prélevé au titre de l'Impôt sur le Revenu Global (IRG) pour 25 000 DA de salaire brut est de 0 DA dans le Régime Nord, et de seulement 0 DA dans le cadre du Régime Grand Sud grâce à l'abattement territorial de 50%."
+      },
+      {
+        "q": "Combien représente ce salaire en Millions de centimes ?",
+        "a": "Un salaire brut de 25 000 DA correspond à 2.50 Millions de centimes. Après l'ensemble des prélèvements sociaux et fiscaux, vous encaissez un montant net de 2.27 Millions de centimes."
+      }
+    ],
+    "faqAr": [
+      {
+        "q": "كم يبلغ الراتب الصافي لراتب خام قدره 25 000 دج في الجزائر؟",
+        "a": "لراتب خام قدره 25 000 دج، يبلغ الراتب الصافي المقبوض 22 750 دج (أي ما يعادل حوالي 2.27 مليون سنتيم)، بعد خصم 2 250 دج للضمان الاجتماعي و0 دج كضريبة على الدخل الإجمالي."
+      },
+      {
+        "q": "كم يبلغ اقتطاع ضريبة IRG لمبلغ 25 000 دج؟",
+        "a": "قيمة الضريبة المقتطعة على الدخل الإجمالي (IRG) لراتب 25 000 دج خام هي 0 دج في ولايات الشمال، وتنخفض إلى 0 دج في ولايات الجنوب الكبير بفضل التخفيض القانوني المقدر بـ 50%."
+      },
+      {
+        "q": "كم يساوي هذا الراتب بملايين السنتيم الجزائري؟",
+        "a": "الراتب الخام البالغ 25 000 دج يساوي 2.50 مليون سنتيم، ويصبح الراتب الصافي للقبض بعد كل الاقتطاعات 2.27 مليون سنتيم."
+      }
+    ]
+  },
+  {
+    "slug": "30000-da",
+    "brut": 30000,
+    "isAdsensePriority": true,
+    "titleFr": "Salaire Net pour 30 000 DA Brut en Algérie (Calcul IRG & CNAS 2024)",
+    "titleAr": "الراتب الصافي لمبلغ 30 000 دج خام في الجزائر (حساب الضريبة والضمان الاجتماعي)",
+    "descriptionFr": "Découvrez le salaire net exact pour un salaire brut de 30 000 DA en Algérie : déduction CNAS (9%), impôt IRG barème 2024, comparaison Régime Nord vs Régime Sud.",
+    "descriptionAr": "اكتشف الراتب الصافي الدقيق لراتب خام قدره 30 000 دج في الجزائر: خصم الضمان الاجتماعي (9%)، ضريبة الدخل IRG، ومقارنة نظام الشمال ونظام الجنوب.",
+    "calc": {
+      "brut": 30000,
+      "cnas": 2700,
+      "salaireImposable": 27300,
+      "irgBrut": 1679,
+      "irgFinal": 0,
+      "net": 27300,
+      "netMillions": "2.73",
+      "brutMillions": "3.00",
+      "cnasMillions": "0.27",
+      "irgMillions": "0.00"
+    },
+    "calcSud": {
+      "brut": 30000,
+      "cnas": 2700,
+      "salaireImposable": 27300,
+      "irgBrut": 1679,
+      "irgFinal": 0,
+      "net": 27300,
+      "netMillions": "2.73",
+      "brutMillions": "3.00",
+      "cnasMillions": "0.27",
+      "irgMillions": "0.00"
+    },
+    "calcPrimes": {
+      "brut": 30000,
+      "cnas": 2700,
+      "salaireImposable": 37300,
+      "irgBrut": 3979,
+      "irgFinal": 2479,
+      "net": 34821,
+      "netMillions": "3.48",
+      "brutMillions": "3.00",
+      "cnasMillions": "0.27",
+      "irgMillions": "0.25"
+    },
+    "comparatif": [
+      {
+        "regimeFr": "Régime Nord (Standard)",
+        "regimeAr": "نظام الشمال (العادي)",
+        "brutDA": 30000,
+        "cnasDA": 2700,
+        "irgDA": 0,
+        "netDA": 27300,
+        "netMillions": "2.73"
+      },
+      {
+        "regimeFr": "Régime Grand Sud (-50% IRG)",
+        "regimeAr": "نظام الجنوب الكبير (تخفيض 50% من الضريبة)",
+        "brutDA": 30000,
+        "cnasDA": 2700,
+        "irgDA": 0,
+        "netDA": 27300,
+        "netMillions": "2.73"
+      },
+      {
+        "regimeFr": "Avec Primes Imposables (+10 000 DA)",
+        "regimeAr": "مع علاوات خاضعة (+10 000 دج)",
+        "brutDA": 40000,
+        "cnasDA": 2700,
+        "irgDA": 2479,
+        "netDA": 34821,
+        "netMillions": "3.48"
+      }
+    ],
+    "faqFr": [
+      {
+        "q": "Quel est le salaire net pour un salaire brut de 30 000 DA en Algérie ?",
+        "a": "Pour un salaire brut de 30 000 DA, le salaire net à percevoir est de 27 300 DA (soit environ 2.73 Millions de centimes) après déduction de 2 700 DA pour la CNAS (9%) et 0 DA d'IRG."
+      },
+      {
+        "q": "Combien paye-t-on d'impôt IRG sur un salaire de 30 000 DA ?",
+        "a": "Le montant prélevé au titre de l'Impôt sur le Revenu Global (IRG) pour 30 000 DA de salaire brut est de 0 DA dans le Régime Nord, et de seulement 0 DA dans le cadre du Régime Grand Sud grâce à l'abattement territorial de 50%."
+      },
+      {
+        "q": "Combien représente ce salaire en Millions de centimes ?",
+        "a": "Un salaire brut de 30 000 DA correspond à 3.00 Millions de centimes. Après l'ensemble des prélèvements sociaux et fiscaux, vous encaissez un montant net de 2.73 Millions de centimes."
+      }
+    ],
+    "faqAr": [
+      {
+        "q": "كم يبلغ الراتب الصافي لراتب خام قدره 30 000 دج في الجزائر؟",
+        "a": "لراتب خام قدره 30 000 دج، يبلغ الراتب الصافي المقبوض 27 300 دج (أي ما يعادل حوالي 2.73 مليون سنتيم)، بعد خصم 2 700 دج للضمان الاجتماعي و0 دج كضريبة على الدخل الإجمالي."
+      },
+      {
+        "q": "كم يبلغ اقتطاع ضريبة IRG لمبلغ 30 000 دج؟",
+        "a": "قيمة الضريبة المقتطعة على الدخل الإجمالي (IRG) لراتب 30 000 دج خام هي 0 دج في ولايات الشمال، وتنخفض إلى 0 دج في ولايات الجنوب الكبير بفضل التخفيض القانوني المقدر بـ 50%."
+      },
+      {
+        "q": "كم يساوي هذا الراتب بملايين السنتيم الجزائري؟",
+        "a": "الراتب الخام البالغ 30 000 دج يساوي 3.00 مليون سنتيم، ويصبح الراتب الصافي للقبض بعد كل الاقتطاعات 2.73 مليون سنتيم."
+      }
+    ]
+  },
+  {
+    "slug": "35000-da",
+    "brut": 35000,
+    "isAdsensePriority": false,
+    "titleFr": "Salaire Net pour 35 000 DA Brut en Algérie (Calcul IRG & CNAS 2024)",
+    "titleAr": "الراتب الصافي لمبلغ 35 000 دج خام في الجزائر (حساب الضريبة والضمان الاجتماعي)",
+    "descriptionFr": "Découvrez le salaire net exact pour un salaire brut de 35 000 DA en Algérie : déduction CNAS (9%), impôt IRG barème 2024, comparaison Régime Nord vs Régime Sud.",
+    "descriptionAr": "اكتشف الراتب الصافي الدقيق لراتب خام قدره 35 000 دج في الجزائر: خصم الضمان الاجتماعي (9%)، ضريبة الدخل IRG، ومقارنة نظام الشمال ونظام الجنوب.",
+    "calc": {
+      "brut": 35000,
+      "cnas": 3150,
+      "salaireImposable": 31850,
+      "irgBrut": 2726,
+      "irgFinal": 902,
+      "net": 30948,
+      "netMillions": "3.09",
+      "brutMillions": "3.50",
+      "cnasMillions": "0.32",
+      "irgMillions": "0.09"
+    },
+    "calcSud": {
+      "brut": 35000,
+      "cnas": 3150,
+      "salaireImposable": 31850,
+      "irgBrut": 2726,
+      "irgFinal": 451,
+      "net": 31399,
+      "netMillions": "3.14",
+      "brutMillions": "3.50",
+      "cnasMillions": "0.32",
+      "irgMillions": "0.05"
+    },
+    "calcPrimes": {
+      "brut": 35000,
+      "cnas": 3150,
+      "salaireImposable": 41850,
+      "irgBrut": 5100,
+      "irgFinal": 3600,
+      "net": 38250,
+      "netMillions": "3.83",
+      "brutMillions": "3.50",
+      "cnasMillions": "0.32",
+      "irgMillions": "0.36"
+    },
+    "comparatif": [
+      {
+        "regimeFr": "Régime Nord (Standard)",
+        "regimeAr": "نظام الشمال (العادي)",
+        "brutDA": 35000,
+        "cnasDA": 3150,
+        "irgDA": 902,
+        "netDA": 30948,
+        "netMillions": "3.09"
+      },
+      {
+        "regimeFr": "Régime Grand Sud (-50% IRG)",
+        "regimeAr": "نظام الجنوب الكبير (تخفيض 50% من الضريبة)",
+        "brutDA": 35000,
+        "cnasDA": 3150,
+        "irgDA": 451,
+        "netDA": 31399,
+        "netMillions": "3.14"
+      },
+      {
+        "regimeFr": "Avec Primes Imposables (+10 000 DA)",
+        "regimeAr": "مع علاوات خاضعة (+10 000 دج)",
+        "brutDA": 45000,
+        "cnasDA": 3150,
+        "irgDA": 3600,
+        "netDA": 38250,
+        "netMillions": "3.83"
+      }
+    ],
+    "faqFr": [
+      {
+        "q": "Quel est le salaire net pour un salaire brut de 35 000 DA en Algérie ?",
+        "a": "Pour un salaire brut de 35 000 DA, le salaire net à percevoir est de 30 948 DA (soit environ 3.09 Millions de centimes) après déduction de 3 150 DA pour la CNAS (9%) et 902 DA d'IRG."
+      },
+      {
+        "q": "Combien paye-t-on d'impôt IRG sur un salaire de 35 000 DA ?",
+        "a": "Le montant prélevé au titre de l'Impôt sur le Revenu Global (IRG) pour 35 000 DA de salaire brut est de 902 DA dans le Régime Nord, et de seulement 451 DA dans le cadre du Régime Grand Sud grâce à l'abattement territorial de 50%."
+      },
+      {
+        "q": "Combien représente ce salaire en Millions de centimes ?",
+        "a": "Un salaire brut de 35 000 DA correspond à 3.50 Millions de centimes. Après l'ensemble des prélèvements sociaux et fiscaux, vous encaissez un montant net de 3.09 Millions de centimes."
+      }
+    ],
+    "faqAr": [
+      {
+        "q": "كم يبلغ الراتب الصافي لراتب خام قدره 35 000 دج في الجزائر؟",
+        "a": "لراتب خام قدره 35 000 دج، يبلغ الراتب الصافي المقبوض 30 948 دج (أي ما يعادل حوالي 3.09 مليون سنتيم)، بعد خصم 3 150 دج للضمان الاجتماعي و902 دج كضريبة على الدخل الإجمالي."
+      },
+      {
+        "q": "كم يبلغ اقتطاع ضريبة IRG لمبلغ 35 000 دج؟",
+        "a": "قيمة الضريبة المقتطعة على الدخل الإجمالي (IRG) لراتب 35 000 دج خام هي 902 دج في ولايات الشمال، وتنخفض إلى 451 دج في ولايات الجنوب الكبير بفضل التخفيض القانوني المقدر بـ 50%."
+      },
+      {
+        "q": "كم يساوي هذا الراتب بملايين السنتيم الجزائري؟",
+        "a": "الراتب الخام البالغ 35 000 دج يساوي 3.50 مليون سنتيم، ويصبح الراتب الصافي للقبض بعد كل الاقتطاعات 3.09 مليون سنتيم."
+      }
+    ]
+  },
+  {
+    "slug": "40000-da",
+    "brut": 40000,
+    "isAdsensePriority": false,
+    "titleFr": "Salaire Net pour 40 000 DA Brut en Algérie (Calcul IRG & CNAS 2024)",
+    "titleAr": "الراتب الصافي لمبلغ 40 000 دج خام في الجزائر (حساب الضريبة والضمان الاجتماعي)",
+    "descriptionFr": "Découvrez le salaire net exact pour un salaire brut de 40 000 DA en Algérie : déduction CNAS (9%), impôt IRG barème 2024, comparaison Régime Nord vs Régime Sud.",
+    "descriptionAr": "اكتشف الراتب الصافي الدقيق لراتب خام قدره 40 000 دج في الجزائر: خصم الضمان الاجتماعي (9%)، ضريبة الدخل IRG، ومقارنة نظام الشمال ونظام الجنوب.",
+    "calc": {
+      "brut": 40000,
+      "cnas": 3600,
+      "salaireImposable": 36400,
+      "irgBrut": 3772,
+      "irgFinal": 2272,
+      "net": 34128,
+      "netMillions": "3.41",
+      "brutMillions": "4.00",
+      "cnasMillions": "0.36",
+      "irgMillions": "0.23"
+    },
+    "calcSud": {
+      "brut": 40000,
+      "cnas": 3600,
+      "salaireImposable": 36400,
+      "irgBrut": 3772,
+      "irgFinal": 1136,
+      "net": 35264,
+      "netMillions": "3.53",
+      "brutMillions": "4.00",
+      "cnasMillions": "0.36",
+      "irgMillions": "0.11"
+    },
+    "calcPrimes": {
+      "brut": 40000,
+      "cnas": 3600,
+      "salaireImposable": 46400,
+      "irgBrut": 6328,
+      "irgFinal": 4828,
+      "net": 41572,
+      "netMillions": "4.16",
+      "brutMillions": "4.00",
+      "cnasMillions": "0.36",
+      "irgMillions": "0.48"
+    },
+    "comparatif": [
+      {
+        "regimeFr": "Régime Nord (Standard)",
+        "regimeAr": "نظام الشمال (العادي)",
+        "brutDA": 40000,
+        "cnasDA": 3600,
+        "irgDA": 2272,
+        "netDA": 34128,
+        "netMillions": "3.41"
+      },
+      {
+        "regimeFr": "Régime Grand Sud (-50% IRG)",
+        "regimeAr": "نظام الجنوب الكبير (تخفيض 50% من الضريبة)",
+        "brutDA": 40000,
+        "cnasDA": 3600,
+        "irgDA": 1136,
+        "netDA": 35264,
+        "netMillions": "3.53"
+      },
+      {
+        "regimeFr": "Avec Primes Imposables (+10 000 DA)",
+        "regimeAr": "مع علاوات خاضعة (+10 000 دج)",
+        "brutDA": 50000,
+        "cnasDA": 3600,
+        "irgDA": 4828,
+        "netDA": 41572,
+        "netMillions": "4.16"
+      }
+    ],
+    "faqFr": [
+      {
+        "q": "Quel est le salaire net pour un salaire brut de 40 000 DA en Algérie ?",
+        "a": "Pour un salaire brut de 40 000 DA, le salaire net à percevoir est de 34 128 DA (soit environ 3.41 Millions de centimes) après déduction de 3 600 DA pour la CNAS (9%) et 2 272 DA d'IRG."
+      },
+      {
+        "q": "Combien paye-t-on d'impôt IRG sur un salaire de 40 000 DA ?",
+        "a": "Le montant prélevé au titre de l'Impôt sur le Revenu Global (IRG) pour 40 000 DA de salaire brut est de 2 272 DA dans le Régime Nord, et de seulement 1 136 DA dans le cadre du Régime Grand Sud grâce à l'abattement territorial de 50%."
+      },
+      {
+        "q": "Combien représente ce salaire en Millions de centimes ?",
+        "a": "Un salaire brut de 40 000 DA correspond à 4.00 Millions de centimes. Après l'ensemble des prélèvements sociaux et fiscaux, vous encaissez un montant net de 3.41 Millions de centimes."
+      }
+    ],
+    "faqAr": [
+      {
+        "q": "كم يبلغ الراتب الصافي لراتب خام قدره 40 000 دج في الجزائر؟",
+        "a": "لراتب خام قدره 40 000 دج، يبلغ الراتب الصافي المقبوض 34 128 دج (أي ما يعادل حوالي 3.41 مليون سنتيم)، بعد خصم 3 600 دج للضمان الاجتماعي و2 272 دج كضريبة على الدخل الإجمالي."
+      },
+      {
+        "q": "كم يبلغ اقتطاع ضريبة IRG لمبلغ 40 000 دج؟",
+        "a": "قيمة الضريبة المقتطعة على الدخل الإجمالي (IRG) لراتب 40 000 دج خام هي 2 272 دج في ولايات الشمال، وتنخفض إلى 1 136 دج في ولايات الجنوب الكبير بفضل التخفيض القانوني المقدر بـ 50%."
+      },
+      {
+        "q": "كم يساوي هذا الراتب بملايين السنتيم الجزائري؟",
+        "a": "الراتب الخام البالغ 40 000 دج يساوي 4.00 مليون سنتيم، ويصبح الراتب الصافي للقبض بعد كل الاقتطاعات 3.41 مليون سنتيم."
+      }
+    ]
+  },
+  {
+    "slug": "45000-da",
+    "brut": 45000,
+    "isAdsensePriority": true,
+    "titleFr": "Salaire Net pour 45 000 DA Brut en Algérie (Calcul IRG & CNAS 2024)",
+    "titleAr": "الراتب الصافي لمبلغ 45 000 دج خام في الجزائر (حساب الضريبة والضمان الاجتماعي)",
+    "descriptionFr": "Découvrez le salaire net exact pour un salaire brut de 45 000 DA en Algérie : déduction CNAS (9%), impôt IRG barème 2024, comparaison Régime Nord vs Régime Sud.",
+    "descriptionAr": "اكتشف الراتب الصافي الدقيق لراتب خام قدره 45 000 دج في الجزائر: خصم الضمان الاجتماعي (9%)، ضريبة الدخل IRG، ومقارنة نظام الشمال ونظام الجنوب.",
+    "calc": {
+      "brut": 45000,
+      "cnas": 4050,
+      "salaireImposable": 40950,
+      "irgBrut": 4857,
+      "irgFinal": 3357,
+      "net": 37593,
+      "netMillions": "3.76",
+      "brutMillions": "4.50",
+      "cnasMillions": "0.41",
+      "irgMillions": "0.34"
+    },
+    "calcSud": {
+      "brut": 45000,
+      "cnas": 4050,
+      "salaireImposable": 40950,
+      "irgBrut": 4857,
+      "irgFinal": 1678,
+      "net": 39272,
+      "netMillions": "3.93",
+      "brutMillions": "4.50",
+      "cnasMillions": "0.41",
+      "irgMillions": "0.17"
+    },
+    "calcPrimes": {
+      "brut": 45000,
+      "cnas": 4050,
+      "salaireImposable": 50950,
+      "irgBrut": 7557,
+      "irgFinal": 6057,
+      "net": 44893,
+      "netMillions": "4.49",
+      "brutMillions": "4.50",
+      "cnasMillions": "0.41",
+      "irgMillions": "0.61"
+    },
+    "comparatif": [
+      {
+        "regimeFr": "Régime Nord (Standard)",
+        "regimeAr": "نظام الشمال (العادي)",
+        "brutDA": 45000,
+        "cnasDA": 4050,
+        "irgDA": 3357,
+        "netDA": 37593,
+        "netMillions": "3.76"
+      },
+      {
+        "regimeFr": "Régime Grand Sud (-50% IRG)",
+        "regimeAr": "نظام الجنوب الكبير (تخفيض 50% من الضريبة)",
+        "brutDA": 45000,
+        "cnasDA": 4050,
+        "irgDA": 1678,
+        "netDA": 39272,
+        "netMillions": "3.93"
+      },
+      {
+        "regimeFr": "Avec Primes Imposables (+10 000 DA)",
+        "regimeAr": "مع علاوات خاضعة (+10 000 دج)",
+        "brutDA": 55000,
+        "cnasDA": 4050,
+        "irgDA": 6057,
+        "netDA": 44893,
+        "netMillions": "4.49"
+      }
+    ],
+    "faqFr": [
+      {
+        "q": "Quel est le salaire net pour un salaire brut de 45 000 DA en Algérie ?",
+        "a": "Pour un salaire brut de 45 000 DA, le salaire net à percevoir est de 37 593 DA (soit environ 3.76 Millions de centimes) après déduction de 4 050 DA pour la CNAS (9%) et 3 357 DA d'IRG."
+      },
+      {
+        "q": "Combien paye-t-on d'impôt IRG sur un salaire de 45 000 DA ?",
+        "a": "Le montant prélevé au titre de l'Impôt sur le Revenu Global (IRG) pour 45 000 DA de salaire brut est de 3 357 DA dans le Régime Nord, et de seulement 1 678 DA dans le cadre du Régime Grand Sud grâce à l'abattement territorial de 50%."
+      },
+      {
+        "q": "Combien représente ce salaire en Millions de centimes ?",
+        "a": "Un salaire brut de 45 000 DA correspond à 4.50 Millions de centimes. Après l'ensemble des prélèvements sociaux et fiscaux, vous encaissez un montant net de 3.76 Millions de centimes."
+      }
+    ],
+    "faqAr": [
+      {
+        "q": "كم يبلغ الراتب الصافي لراتب خام قدره 45 000 دج في الجزائر؟",
+        "a": "لراتب خام قدره 45 000 دج، يبلغ الراتب الصافي المقبوض 37 593 دج (أي ما يعادل حوالي 3.76 مليون سنتيم)، بعد خصم 4 050 دج للضمان الاجتماعي و3 357 دج كضريبة على الدخل الإجمالي."
+      },
+      {
+        "q": "كم يبلغ اقتطاع ضريبة IRG لمبلغ 45 000 دج؟",
+        "a": "قيمة الضريبة المقتطعة على الدخل الإجمالي (IRG) لراتب 45 000 دج خام هي 3 357 دج في ولايات الشمال، وتنخفض إلى 1 678 دج في ولايات الجنوب الكبير بفضل التخفيض القانوني المقدر بـ 50%."
+      },
+      {
+        "q": "كم يساوي هذا الراتب بملايين السنتيم الجزائري؟",
+        "a": "الراتب الخام البالغ 45 000 دج يساوي 4.50 مليون سنتيم، ويصبح الراتب الصافي للقبض بعد كل الاقتطاعات 3.76 مليون سنتيم."
+      }
+    ]
+  },
+  {
+    "slug": "50000-da",
+    "brut": 50000,
+    "isAdsensePriority": true,
+    "titleFr": "Salaire Net pour 50 000 DA Brut en Algérie (Calcul IRG & CNAS 2024)",
+    "titleAr": "الراتب الصافي لمبلغ 50 000 دج خام في الجزائر (حساب الضريبة والضمان الاجتماعي)",
+    "descriptionFr": "Découvrez le salaire net exact pour un salaire brut de 50 000 DA en Algérie : déduction CNAS (9%), impôt IRG barème 2024, comparaison Régime Nord vs Régime Sud.",
+    "descriptionAr": "اكتشف الراتب الصافي الدقيق لراتب خام قدره 50 000 دج في الجزائر: خصم الضمان الاجتماعي (9%)، ضريبة الدخل IRG، ومقارنة نظام الشمال ونظام الجنوب.",
+    "calc": {
+      "brut": 50000,
+      "cnas": 4500,
+      "salaireImposable": 45500,
+      "irgBrut": 6085,
+      "irgFinal": 4585,
+      "net": 40915,
+      "netMillions": "4.09",
+      "brutMillions": "5.00",
+      "cnasMillions": "0.45",
+      "irgMillions": "0.46"
+    },
+    "calcSud": {
+      "brut": 50000,
+      "cnas": 4500,
+      "salaireImposable": 45500,
+      "irgBrut": 6085,
+      "irgFinal": 2293,
+      "net": 43207,
+      "netMillions": "4.32",
+      "brutMillions": "5.00",
+      "cnasMillions": "0.45",
+      "irgMillions": "0.23"
+    },
+    "calcPrimes": {
+      "brut": 50000,
+      "cnas": 4500,
+      "salaireImposable": 55500,
+      "irgBrut": 8785,
+      "irgFinal": 7285,
+      "net": 48215,
+      "netMillions": "4.82",
+      "brutMillions": "5.00",
+      "cnasMillions": "0.45",
+      "irgMillions": "0.73"
+    },
+    "comparatif": [
+      {
+        "regimeFr": "Régime Nord (Standard)",
+        "regimeAr": "نظام الشمال (العادي)",
+        "brutDA": 50000,
+        "cnasDA": 4500,
+        "irgDA": 4585,
+        "netDA": 40915,
+        "netMillions": "4.09"
+      },
+      {
+        "regimeFr": "Régime Grand Sud (-50% IRG)",
+        "regimeAr": "نظام الجنوب الكبير (تخفيض 50% من الضريبة)",
+        "brutDA": 50000,
+        "cnasDA": 4500,
+        "irgDA": 2293,
+        "netDA": 43207,
+        "netMillions": "4.32"
+      },
+      {
+        "regimeFr": "Avec Primes Imposables (+10 000 DA)",
+        "regimeAr": "مع علاوات خاضعة (+10 000 دج)",
+        "brutDA": 60000,
+        "cnasDA": 4500,
+        "irgDA": 7285,
+        "netDA": 48215,
+        "netMillions": "4.82"
+      }
+    ],
+    "faqFr": [
+      {
+        "q": "Quel est le salaire net pour un salaire brut de 50 000 DA en Algérie ?",
+        "a": "Pour un salaire brut de 50 000 DA, le salaire net à percevoir est de 40 915 DA (soit environ 4.09 Millions de centimes) après déduction de 4 500 DA pour la CNAS (9%) et 4 585 DA d'IRG."
+      },
+      {
+        "q": "Combien paye-t-on d'impôt IRG sur un salaire de 50 000 DA ?",
+        "a": "Le montant prélevé au titre de l'Impôt sur le Revenu Global (IRG) pour 50 000 DA de salaire brut est de 4 585 DA dans le Régime Nord, et de seulement 2 293 DA dans le cadre du Régime Grand Sud grâce à l'abattement territorial de 50%."
+      },
+      {
+        "q": "Combien représente ce salaire en Millions de centimes ?",
+        "a": "Un salaire brut de 50 000 DA correspond à 5.00 Millions de centimes. Après l'ensemble des prélèvements sociaux et fiscaux, vous encaissez un montant net de 4.09 Millions de centimes."
+      }
+    ],
+    "faqAr": [
+      {
+        "q": "كم يبلغ الراتب الصافي لراتب خام قدره 50 000 دج في الجزائر؟",
+        "a": "لراتب خام قدره 50 000 دج، يبلغ الراتب الصافي المقبوض 40 915 دج (أي ما يعادل حوالي 4.09 مليون سنتيم)، بعد خصم 4 500 دج للضمان الاجتماعي و4 585 دج كضريبة على الدخل الإجمالي."
+      },
+      {
+        "q": "كم يبلغ اقتطاع ضريبة IRG لمبلغ 50 000 دج؟",
+        "a": "قيمة الضريبة المقتطعة على الدخل الإجمالي (IRG) لراتب 50 000 دج خام هي 4 585 دج في ولايات الشمال، وتنخفض إلى 2 293 دج في ولايات الجنوب الكبير بفضل التخفيض القانوني المقدر بـ 50%."
+      },
+      {
+        "q": "كم يساوي هذا الراتب بملايين السنتيم الجزائري؟",
+        "a": "الراتب الخام البالغ 50 000 دج يساوي 5.00 مليون سنتيم، ويصبح الراتب الصافي للقبض بعد كل الاقتطاعات 4.09 مليون سنتيم."
+      }
+    ]
+  },
+  {
+    "slug": "55000-da",
+    "brut": 55000,
+    "isAdsensePriority": false,
+    "titleFr": "Salaire Net pour 55 000 DA Brut en Algérie (Calcul IRG & CNAS 2024)",
+    "titleAr": "الراتب الصافي لمبلغ 55 000 دج خام في الجزائر (حساب الضريبة والضمان الاجتماعي)",
+    "descriptionFr": "Découvrez le salaire net exact pour un salaire brut de 55 000 DA en Algérie : déduction CNAS (9%), impôt IRG barème 2024, comparaison Régime Nord vs Régime Sud.",
+    "descriptionAr": "اكتشف الراتب الصافي الدقيق لراتب خام قدره 55 000 دج في الجزائر: خصم الضمان الاجتماعي (9%)، ضريبة الدخل IRG، ومقارنة نظام الشمال ونظام الجنوب.",
+    "calc": {
+      "brut": 55000,
+      "cnas": 4950,
+      "salaireImposable": 50050,
+      "irgBrut": 7314,
+      "irgFinal": 5814,
+      "net": 44236,
+      "netMillions": "4.42",
+      "brutMillions": "5.50",
+      "cnasMillions": "0.49",
+      "irgMillions": "0.58"
+    },
+    "calcSud": {
+      "brut": 55000,
+      "cnas": 4950,
+      "salaireImposable": 50050,
+      "irgBrut": 7314,
+      "irgFinal": 2907,
+      "net": 47143,
+      "netMillions": "4.71",
+      "brutMillions": "5.50",
+      "cnasMillions": "0.49",
+      "irgMillions": "0.29"
+    },
+    "calcPrimes": {
+      "brut": 55000,
+      "cnas": 4950,
+      "salaireImposable": 60050,
+      "irgBrut": 10014,
+      "irgFinal": 8514,
+      "net": 51536,
+      "netMillions": "5.15",
+      "brutMillions": "5.50",
+      "cnasMillions": "0.49",
+      "irgMillions": "0.85"
+    },
+    "comparatif": [
+      {
+        "regimeFr": "Régime Nord (Standard)",
+        "regimeAr": "نظام الشمال (العادي)",
+        "brutDA": 55000,
+        "cnasDA": 4950,
+        "irgDA": 5814,
+        "netDA": 44236,
+        "netMillions": "4.42"
+      },
+      {
+        "regimeFr": "Régime Grand Sud (-50% IRG)",
+        "regimeAr": "نظام الجنوب الكبير (تخفيض 50% من الضريبة)",
+        "brutDA": 55000,
+        "cnasDA": 4950,
+        "irgDA": 2907,
+        "netDA": 47143,
+        "netMillions": "4.71"
+      },
+      {
+        "regimeFr": "Avec Primes Imposables (+10 000 DA)",
+        "regimeAr": "مع علاوات خاضعة (+10 000 دج)",
+        "brutDA": 65000,
+        "cnasDA": 4950,
+        "irgDA": 8514,
+        "netDA": 51536,
+        "netMillions": "5.15"
+      }
+    ],
+    "faqFr": [
+      {
+        "q": "Quel est le salaire net pour un salaire brut de 55 000 DA en Algérie ?",
+        "a": "Pour un salaire brut de 55 000 DA, le salaire net à percevoir est de 44 236 DA (soit environ 4.42 Millions de centimes) après déduction de 4 950 DA pour la CNAS (9%) et 5 814 DA d'IRG."
+      },
+      {
+        "q": "Combien paye-t-on d'impôt IRG sur un salaire de 55 000 DA ?",
+        "a": "Le montant prélevé au titre de l'Impôt sur le Revenu Global (IRG) pour 55 000 DA de salaire brut est de 5 814 DA dans le Régime Nord, et de seulement 2 907 DA dans le cadre du Régime Grand Sud grâce à l'abattement territorial de 50%."
+      },
+      {
+        "q": "Combien représente ce salaire en Millions de centimes ?",
+        "a": "Un salaire brut de 55 000 DA correspond à 5.50 Millions de centimes. Après l'ensemble des prélèvements sociaux et fiscaux, vous encaissez un montant net de 4.42 Millions de centimes."
+      }
+    ],
+    "faqAr": [
+      {
+        "q": "كم يبلغ الراتب الصافي لراتب خام قدره 55 000 دج في الجزائر؟",
+        "a": "لراتب خام قدره 55 000 دج، يبلغ الراتب الصافي المقبوض 44 236 دج (أي ما يعادل حوالي 4.42 مليون سنتيم)، بعد خصم 4 950 دج للضمان الاجتماعي و5 814 دج كضريبة على الدخل الإجمالي."
+      },
+      {
+        "q": "كم يبلغ اقتطاع ضريبة IRG لمبلغ 55 000 دج؟",
+        "a": "قيمة الضريبة المقتطعة على الدخل الإجمالي (IRG) لراتب 55 000 دج خام هي 5 814 دج في ولايات الشمال، وتنخفض إلى 2 907 دج في ولايات الجنوب الكبير بفضل التخفيض القانوني المقدر بـ 50%."
+      },
+      {
+        "q": "كم يساوي هذا الراتب بملايين السنتيم الجزائري؟",
+        "a": "الراتب الخام البالغ 55 000 دج يساوي 5.50 مليون سنتيم، ويصبح الراتب الصافي للقبض بعد كل الاقتطاعات 4.42 مليون سنتيم."
+      }
+    ]
+  },
+  {
+    "slug": "60000-da",
+    "brut": 60000,
+    "isAdsensePriority": true,
+    "titleFr": "Salaire Net pour 60 000 DA Brut en Algérie (Calcul IRG & CNAS 2024)",
+    "titleAr": "الراتب الصافي لمبلغ 60 000 دج خام في الجزائر (حساب الضريبة والضمان الاجتماعي)",
+    "descriptionFr": "Découvrez le salaire net exact pour un salaire brut de 60 000 DA en Algérie : déduction CNAS (9%), impôt IRG barème 2024, comparaison Régime Nord vs Régime Sud.",
+    "descriptionAr": "اكتشف الراتب الصافي الدقيق لراتب خام قدره 60 000 دج في الجزائر: خصم الضمان الاجتماعي (9%)، ضريبة الدخل IRG، ومقارنة نظام الشمال ونظام الجنوب.",
+    "calc": {
+      "brut": 60000,
+      "cnas": 5400,
+      "salaireImposable": 54600,
+      "irgBrut": 8542,
+      "irgFinal": 7042,
+      "net": 47558,
+      "netMillions": "4.76",
+      "brutMillions": "6.00",
+      "cnasMillions": "0.54",
+      "irgMillions": "0.70"
+    },
+    "calcSud": {
+      "brut": 60000,
+      "cnas": 5400,
+      "salaireImposable": 54600,
+      "irgBrut": 8542,
+      "irgFinal": 3521,
+      "net": 51079,
+      "netMillions": "5.11",
+      "brutMillions": "6.00",
+      "cnasMillions": "0.54",
+      "irgMillions": "0.35"
+    },
+    "calcPrimes": {
+      "brut": 60000,
+      "cnas": 5400,
+      "salaireImposable": 64600,
+      "irgBrut": 11242,
+      "irgFinal": 9742,
+      "net": 54858,
+      "netMillions": "5.49",
+      "brutMillions": "6.00",
+      "cnasMillions": "0.54",
+      "irgMillions": "0.97"
+    },
+    "comparatif": [
+      {
+        "regimeFr": "Régime Nord (Standard)",
+        "regimeAr": "نظام الشمال (العادي)",
+        "brutDA": 60000,
+        "cnasDA": 5400,
+        "irgDA": 7042,
+        "netDA": 47558,
+        "netMillions": "4.76"
+      },
+      {
+        "regimeFr": "Régime Grand Sud (-50% IRG)",
+        "regimeAr": "نظام الجنوب الكبير (تخفيض 50% من الضريبة)",
+        "brutDA": 60000,
+        "cnasDA": 5400,
+        "irgDA": 3521,
+        "netDA": 51079,
+        "netMillions": "5.11"
+      },
+      {
+        "regimeFr": "Avec Primes Imposables (+10 000 DA)",
+        "regimeAr": "مع علاوات خاضعة (+10 000 دج)",
+        "brutDA": 70000,
+        "cnasDA": 5400,
+        "irgDA": 9742,
+        "netDA": 54858,
+        "netMillions": "5.49"
+      }
+    ],
+    "faqFr": [
+      {
+        "q": "Quel est le salaire net pour un salaire brut de 60 000 DA en Algérie ?",
+        "a": "Pour un salaire brut de 60 000 DA, le salaire net à percevoir est de 47 558 DA (soit environ 4.76 Millions de centimes) après déduction de 5 400 DA pour la CNAS (9%) et 7 042 DA d'IRG."
+      },
+      {
+        "q": "Combien paye-t-on d'impôt IRG sur un salaire de 60 000 DA ?",
+        "a": "Le montant prélevé au titre de l'Impôt sur le Revenu Global (IRG) pour 60 000 DA de salaire brut est de 7 042 DA dans le Régime Nord, et de seulement 3 521 DA dans le cadre du Régime Grand Sud grâce à l'abattement territorial de 50%."
+      },
+      {
+        "q": "Combien représente ce salaire en Millions de centimes ?",
+        "a": "Un salaire brut de 60 000 DA correspond à 6.00 Millions de centimes. Après l'ensemble des prélèvements sociaux et fiscaux, vous encaissez un montant net de 4.76 Millions de centimes."
+      }
+    ],
+    "faqAr": [
+      {
+        "q": "كم يبلغ الراتب الصافي لراتب خام قدره 60 000 دج في الجزائر؟",
+        "a": "لراتب خام قدره 60 000 دج، يبلغ الراتب الصافي المقبوض 47 558 دج (أي ما يعادل حوالي 4.76 مليون سنتيم)، بعد خصم 5 400 دج للضمان الاجتماعي و7 042 دج كضريبة على الدخل الإجمالي."
+      },
+      {
+        "q": "كم يبلغ اقتطاع ضريبة IRG لمبلغ 60 000 دج؟",
+        "a": "قيمة الضريبة المقتطعة على الدخل الإجمالي (IRG) لراتب 60 000 دج خام هي 7 042 دج في ولايات الشمال، وتنخفض إلى 3 521 دج في ولايات الجنوب الكبير بفضل التخفيض القانوني المقدر بـ 50%."
+      },
+      {
+        "q": "كم يساوي هذا الراتب بملايين السنتيم الجزائري؟",
+        "a": "الراتب الخام البالغ 60 000 دج يساوي 6.00 مليون سنتيم، ويصبح الراتب الصافي للقبض بعد كل الاقتطاعات 4.76 مليون سنتيم."
+      }
+    ]
+  },
+  {
+    "slug": "65000-da",
+    "brut": 65000,
+    "isAdsensePriority": false,
+    "titleFr": "Salaire Net pour 65 000 DA Brut en Algérie (Calcul IRG & CNAS 2024)",
+    "titleAr": "الراتب الصافي لمبلغ 65 000 دج خام في الجزائر (حساب الضريبة والضمان الاجتماعي)",
+    "descriptionFr": "Découvrez le salaire net exact pour un salaire brut de 65 000 DA en Algérie : déduction CNAS (9%), impôt IRG barème 2024, comparaison Régime Nord vs Régime Sud.",
+    "descriptionAr": "اكتشف الراتب الصافي الدقيق لراتب خام قدره 65 000 دج في الجزائر: خصم الضمان الاجتماعي (9%)، ضريبة الدخل IRG، ومقارنة نظام الشمال ونظام الجنوب.",
+    "calc": {
+      "brut": 65000,
+      "cnas": 5850,
+      "salaireImposable": 59150,
+      "irgBrut": 9771,
+      "irgFinal": 8271,
+      "net": 50879,
+      "netMillions": "5.09",
+      "brutMillions": "6.50",
+      "cnasMillions": "0.58",
+      "irgMillions": "0.83"
+    },
+    "calcSud": {
+      "brut": 65000,
+      "cnas": 5850,
+      "salaireImposable": 59150,
+      "irgBrut": 9771,
+      "irgFinal": 4135,
+      "net": 55015,
+      "netMillions": "5.50",
+      "brutMillions": "6.50",
+      "cnasMillions": "0.58",
+      "irgMillions": "0.41"
+    },
+    "calcPrimes": {
+      "brut": 65000,
+      "cnas": 5850,
+      "salaireImposable": 69150,
+      "irgBrut": 12471,
+      "irgFinal": 10971,
+      "net": 58179,
+      "netMillions": "5.82",
+      "brutMillions": "6.50",
+      "cnasMillions": "0.58",
+      "irgMillions": "1.10"
+    },
+    "comparatif": [
+      {
+        "regimeFr": "Régime Nord (Standard)",
+        "regimeAr": "نظام الشمال (العادي)",
+        "brutDA": 65000,
+        "cnasDA": 5850,
+        "irgDA": 8271,
+        "netDA": 50879,
+        "netMillions": "5.09"
+      },
+      {
+        "regimeFr": "Régime Grand Sud (-50% IRG)",
+        "regimeAr": "نظام الجنوب الكبير (تخفيض 50% من الضريبة)",
+        "brutDA": 65000,
+        "cnasDA": 5850,
+        "irgDA": 4135,
+        "netDA": 55015,
+        "netMillions": "5.50"
+      },
+      {
+        "regimeFr": "Avec Primes Imposables (+10 000 DA)",
+        "regimeAr": "مع علاوات خاضعة (+10 000 دج)",
+        "brutDA": 75000,
+        "cnasDA": 5850,
+        "irgDA": 10971,
+        "netDA": 58179,
+        "netMillions": "5.82"
+      }
+    ],
+    "faqFr": [
+      {
+        "q": "Quel est le salaire net pour un salaire brut de 65 000 DA en Algérie ?",
+        "a": "Pour un salaire brut de 65 000 DA, le salaire net à percevoir est de 50 879 DA (soit environ 5.09 Millions de centimes) après déduction de 5 850 DA pour la CNAS (9%) et 8 271 DA d'IRG."
+      },
+      {
+        "q": "Combien paye-t-on d'impôt IRG sur un salaire de 65 000 DA ?",
+        "a": "Le montant prélevé au titre de l'Impôt sur le Revenu Global (IRG) pour 65 000 DA de salaire brut est de 8 271 DA dans le Régime Nord, et de seulement 4 135 DA dans le cadre du Régime Grand Sud grâce à l'abattement territorial de 50%."
+      },
+      {
+        "q": "Combien représente ce salaire en Millions de centimes ?",
+        "a": "Un salaire brut de 65 000 DA correspond à 6.50 Millions de centimes. Après l'ensemble des prélèvements sociaux et fiscaux, vous encaissez un montant net de 5.09 Millions de centimes."
+      }
+    ],
+    "faqAr": [
+      {
+        "q": "كم يبلغ الراتب الصافي لراتب خام قدره 65 000 دج في الجزائر؟",
+        "a": "لراتب خام قدره 65 000 دج، يبلغ الراتب الصافي المقبوض 50 879 دج (أي ما يعادل حوالي 5.09 مليون سنتيم)، بعد خصم 5 850 دج للضمان الاجتماعي و8 271 دج كضريبة على الدخل الإجمالي."
+      },
+      {
+        "q": "كم يبلغ اقتطاع ضريبة IRG لمبلغ 65 000 دج؟",
+        "a": "قيمة الضريبة المقتطعة على الدخل الإجمالي (IRG) لراتب 65 000 دج خام هي 8 271 دج في ولايات الشمال، وتنخفض إلى 4 135 دج في ولايات الجنوب الكبير بفضل التخفيض القانوني المقدر بـ 50%."
+      },
+      {
+        "q": "كم يساوي هذا الراتب بملايين السنتيم الجزائري؟",
+        "a": "الراتب الخام البالغ 65 000 دج يساوي 6.50 مليون سنتيم، ويصبح الراتب الصافي للقبض بعد كل الاقتطاعات 5.09 مليون سنتيم."
+      }
+    ]
+  },
+  {
+    "slug": "70000-da",
+    "brut": 70000,
+    "isAdsensePriority": false,
+    "titleFr": "Salaire Net pour 70 000 DA Brut en Algérie (Calcul IRG & CNAS 2024)",
+    "titleAr": "الراتب الصافي لمبلغ 70 000 دج خام في الجزائر (حساب الضريبة والضمان الاجتماعي)",
+    "descriptionFr": "Découvrez le salaire net exact pour un salaire brut de 70 000 DA en Algérie : déduction CNAS (9%), impôt IRG barème 2024, comparaison Régime Nord vs Régime Sud.",
+    "descriptionAr": "اكتشف الراتب الصافي الدقيق لراتب خام قدره 70 000 دج في الجزائر: خصم الضمان الاجتماعي (9%)، ضريبة الدخل IRG، ومقارنة نظام الشمال ونظام الجنوب.",
+    "calc": {
+      "brut": 70000,
+      "cnas": 6300,
+      "salaireImposable": 63700,
+      "irgBrut": 10999,
+      "irgFinal": 9499,
+      "net": 54201,
+      "netMillions": "5.42",
+      "brutMillions": "7.00",
+      "cnasMillions": "0.63",
+      "irgMillions": "0.95"
+    },
+    "calcSud": {
+      "brut": 70000,
+      "cnas": 6300,
+      "salaireImposable": 63700,
+      "irgBrut": 10999,
+      "irgFinal": 4750,
+      "net": 58950,
+      "netMillions": "5.89",
+      "brutMillions": "7.00",
+      "cnasMillions": "0.63",
+      "irgMillions": "0.47"
+    },
+    "calcPrimes": {
+      "brut": 70000,
+      "cnas": 6300,
+      "salaireImposable": 73700,
+      "irgBrut": 13699,
+      "irgFinal": 12199,
+      "net": 61501,
+      "netMillions": "6.15",
+      "brutMillions": "7.00",
+      "cnasMillions": "0.63",
+      "irgMillions": "1.22"
+    },
+    "comparatif": [
+      {
+        "regimeFr": "Régime Nord (Standard)",
+        "regimeAr": "نظام الشمال (العادي)",
+        "brutDA": 70000,
+        "cnasDA": 6300,
+        "irgDA": 9499,
+        "netDA": 54201,
+        "netMillions": "5.42"
+      },
+      {
+        "regimeFr": "Régime Grand Sud (-50% IRG)",
+        "regimeAr": "نظام الجنوب الكبير (تخفيض 50% من الضريبة)",
+        "brutDA": 70000,
+        "cnasDA": 6300,
+        "irgDA": 4750,
+        "netDA": 58950,
+        "netMillions": "5.89"
+      },
+      {
+        "regimeFr": "Avec Primes Imposables (+10 000 DA)",
+        "regimeAr": "مع علاوات خاضعة (+10 000 دج)",
+        "brutDA": 80000,
+        "cnasDA": 6300,
+        "irgDA": 12199,
+        "netDA": 61501,
+        "netMillions": "6.15"
+      }
+    ],
+    "faqFr": [
+      {
+        "q": "Quel est le salaire net pour un salaire brut de 70 000 DA en Algérie ?",
+        "a": "Pour un salaire brut de 70 000 DA, le salaire net à percevoir est de 54 201 DA (soit environ 5.42 Millions de centimes) après déduction de 6 300 DA pour la CNAS (9%) et 9 499 DA d'IRG."
+      },
+      {
+        "q": "Combien paye-t-on d'impôt IRG sur un salaire de 70 000 DA ?",
+        "a": "Le montant prélevé au titre de l'Impôt sur le Revenu Global (IRG) pour 70 000 DA de salaire brut est de 9 499 DA dans le Régime Nord, et de seulement 4 750 DA dans le cadre du Régime Grand Sud grâce à l'abattement territorial de 50%."
+      },
+      {
+        "q": "Combien représente ce salaire en Millions de centimes ?",
+        "a": "Un salaire brut de 70 000 DA correspond à 7.00 Millions de centimes. Après l'ensemble des prélèvements sociaux et fiscaux, vous encaissez un montant net de 5.42 Millions de centimes."
+      }
+    ],
+    "faqAr": [
+      {
+        "q": "كم يبلغ الراتب الصافي لراتب خام قدره 70 000 دج في الجزائر؟",
+        "a": "لراتب خام قدره 70 000 دج، يبلغ الراتب الصافي المقبوض 54 201 دج (أي ما يعادل حوالي 5.42 مليون سنتيم)، بعد خصم 6 300 دج للضمان الاجتماعي و9 499 دج كضريبة على الدخل الإجمالي."
+      },
+      {
+        "q": "كم يبلغ اقتطاع ضريبة IRG لمبلغ 70 000 دج؟",
+        "a": "قيمة الضريبة المقتطعة على الدخل الإجمالي (IRG) لراتب 70 000 دج خام هي 9 499 دج في ولايات الشمال، وتنخفض إلى 4 750 دج في ولايات الجنوب الكبير بفضل التخفيض القانوني المقدر بـ 50%."
+      },
+      {
+        "q": "كم يساوي هذا الراتب بملايين السنتيم الجزائري؟",
+        "a": "الراتب الخام البالغ 70 000 دج يساوي 7.00 مليون سنتيم، ويصبح الراتب الصافي للقبض بعد كل الاقتطاعات 5.42 مليون سنتيم."
+      }
+    ]
+  },
+  {
+    "slug": "75000-da",
+    "brut": 75000,
+    "isAdsensePriority": true,
+    "titleFr": "Salaire Net pour 75 000 DA Brut en Algérie (Calcul IRG & CNAS 2024)",
+    "titleAr": "الراتب الصافي لمبلغ 75 000 دج خام في الجزائر (حساب الضريبة والضمان الاجتماعي)",
+    "descriptionFr": "Découvrez le salaire net exact pour un salaire brut de 75 000 DA en Algérie : déduction CNAS (9%), impôt IRG barème 2024, comparaison Régime Nord vs Régime Sud.",
+    "descriptionAr": "اكتشف الراتب الصافي الدقيق لراتب خام قدره 75 000 دج في الجزائر: خصم الضمان الاجتماعي (9%)، ضريبة الدخل IRG، ومقارنة نظام الشمال ونظام الجنوب.",
+    "calc": {
+      "brut": 75000,
+      "cnas": 6750,
+      "salaireImposable": 68250,
+      "irgBrut": 12228,
+      "irgFinal": 10728,
+      "net": 57522,
+      "netMillions": "5.75",
+      "brutMillions": "7.50",
+      "cnasMillions": "0.68",
+      "irgMillions": "1.07"
+    },
+    "calcSud": {
+      "brut": 75000,
+      "cnas": 6750,
+      "salaireImposable": 68250,
+      "irgBrut": 12228,
+      "irgFinal": 5364,
+      "net": 62886,
+      "netMillions": "6.29",
+      "brutMillions": "7.50",
+      "cnasMillions": "0.68",
+      "irgMillions": "0.54"
+    },
+    "calcPrimes": {
+      "brut": 75000,
+      "cnas": 6750,
+      "salaireImposable": 78250,
+      "irgBrut": 14928,
+      "irgFinal": 13428,
+      "net": 64822,
+      "netMillions": "6.48",
+      "brutMillions": "7.50",
+      "cnasMillions": "0.68",
+      "irgMillions": "1.34"
+    },
+    "comparatif": [
+      {
+        "regimeFr": "Régime Nord (Standard)",
+        "regimeAr": "نظام الشمال (العادي)",
+        "brutDA": 75000,
+        "cnasDA": 6750,
+        "irgDA": 10728,
+        "netDA": 57522,
+        "netMillions": "5.75"
+      },
+      {
+        "regimeFr": "Régime Grand Sud (-50% IRG)",
+        "regimeAr": "نظام الجنوب الكبير (تخفيض 50% من الضريبة)",
+        "brutDA": 75000,
+        "cnasDA": 6750,
+        "irgDA": 5364,
+        "netDA": 62886,
+        "netMillions": "6.29"
+      },
+      {
+        "regimeFr": "Avec Primes Imposables (+10 000 DA)",
+        "regimeAr": "مع علاوات خاضعة (+10 000 دج)",
+        "brutDA": 85000,
+        "cnasDA": 6750,
+        "irgDA": 13428,
+        "netDA": 64822,
+        "netMillions": "6.48"
+      }
+    ],
+    "faqFr": [
+      {
+        "q": "Quel est le salaire net pour un salaire brut de 75 000 DA en Algérie ?",
+        "a": "Pour un salaire brut de 75 000 DA, le salaire net à percevoir est de 57 522 DA (soit environ 5.75 Millions de centimes) après déduction de 6 750 DA pour la CNAS (9%) et 10 728 DA d'IRG."
+      },
+      {
+        "q": "Combien paye-t-on d'impôt IRG sur un salaire de 75 000 DA ?",
+        "a": "Le montant prélevé au titre de l'Impôt sur le Revenu Global (IRG) pour 75 000 DA de salaire brut est de 10 728 DA dans le Régime Nord, et de seulement 5 364 DA dans le cadre du Régime Grand Sud grâce à l'abattement territorial de 50%."
+      },
+      {
+        "q": "Combien représente ce salaire en Millions de centimes ?",
+        "a": "Un salaire brut de 75 000 DA correspond à 7.50 Millions de centimes. Après l'ensemble des prélèvements sociaux et fiscaux, vous encaissez un montant net de 5.75 Millions de centimes."
+      }
+    ],
+    "faqAr": [
+      {
+        "q": "كم يبلغ الراتب الصافي لراتب خام قدره 75 000 دج في الجزائر؟",
+        "a": "لراتب خام قدره 75 000 دج، يبلغ الراتب الصافي المقبوض 57 522 دج (أي ما يعادل حوالي 5.75 مليون سنتيم)، بعد خصم 6 750 دج للضمان الاجتماعي و10 728 دج كضريبة على الدخل الإجمالي."
+      },
+      {
+        "q": "كم يبلغ اقتطاع ضريبة IRG لمبلغ 75 000 دج؟",
+        "a": "قيمة الضريبة المقتطعة على الدخل الإجمالي (IRG) لراتب 75 000 دج خام هي 10 728 دج في ولايات الشمال، وتنخفض إلى 5 364 دج في ولايات الجنوب الكبير بفضل التخفيض القانوني المقدر بـ 50%."
+      },
+      {
+        "q": "كم يساوي هذا الراتب بملايين السنتيم الجزائري؟",
+        "a": "الراتب الخام البالغ 75 000 دج يساوي 7.50 مليون سنتيم، ويصبح الراتب الصافي للقبض بعد كل الاقتطاعات 5.75 مليون سنتيم."
+      }
+    ]
+  },
+  {
+    "slug": "80000-da",
+    "brut": 80000,
+    "isAdsensePriority": true,
+    "titleFr": "Salaire Net pour 80 000 DA Brut en Algérie (Calcul IRG & CNAS 2024)",
+    "titleAr": "الراتب الصافي لمبلغ 80 000 دج خام في الجزائر (حساب الضريبة والضمان الاجتماعي)",
+    "descriptionFr": "Découvrez le salaire net exact pour un salaire brut de 80 000 DA en Algérie : déduction CNAS (9%), impôt IRG barème 2024, comparaison Régime Nord vs Régime Sud.",
+    "descriptionAr": "اكتشف الراتب الصافي الدقيق لراتب خام قدره 80 000 دج في الجزائر: خصم الضمان الاجتماعي (9%)، ضريبة الدخل IRG، ومقارنة نظام الشمال ونظام الجنوب.",
+    "calc": {
+      "brut": 80000,
+      "cnas": 7200,
+      "salaireImposable": 72800,
+      "irgBrut": 13456,
+      "irgFinal": 11956,
+      "net": 60844,
+      "netMillions": "6.08",
+      "brutMillions": "8.00",
+      "cnasMillions": "0.72",
+      "irgMillions": "1.20"
+    },
+    "calcSud": {
+      "brut": 80000,
+      "cnas": 7200,
+      "salaireImposable": 72800,
+      "irgBrut": 13456,
+      "irgFinal": 5978,
+      "net": 66822,
+      "netMillions": "6.68",
+      "brutMillions": "8.00",
+      "cnasMillions": "0.72",
+      "irgMillions": "0.60"
+    },
+    "calcPrimes": {
+      "brut": 80000,
+      "cnas": 7200,
+      "salaireImposable": 82800,
+      "irgBrut": 16240,
+      "irgFinal": 14740,
+      "net": 68060,
+      "netMillions": "6.81",
+      "brutMillions": "8.00",
+      "cnasMillions": "0.72",
+      "irgMillions": "1.47"
+    },
+    "comparatif": [
+      {
+        "regimeFr": "Régime Nord (Standard)",
+        "regimeAr": "نظام الشمال (العادي)",
+        "brutDA": 80000,
+        "cnasDA": 7200,
+        "irgDA": 11956,
+        "netDA": 60844,
+        "netMillions": "6.08"
+      },
+      {
+        "regimeFr": "Régime Grand Sud (-50% IRG)",
+        "regimeAr": "نظام الجنوب الكبير (تخفيض 50% من الضريبة)",
+        "brutDA": 80000,
+        "cnasDA": 7200,
+        "irgDA": 5978,
+        "netDA": 66822,
+        "netMillions": "6.68"
+      },
+      {
+        "regimeFr": "Avec Primes Imposables (+10 000 DA)",
+        "regimeAr": "مع علاوات خاضعة (+10 000 دج)",
+        "brutDA": 90000,
+        "cnasDA": 7200,
+        "irgDA": 14740,
+        "netDA": 68060,
+        "netMillions": "6.81"
+      }
+    ],
+    "faqFr": [
+      {
+        "q": "Quel est le salaire net pour un salaire brut de 80 000 DA en Algérie ?",
+        "a": "Pour un salaire brut de 80 000 DA, le salaire net à percevoir est de 60 844 DA (soit environ 6.08 Millions de centimes) après déduction de 7 200 DA pour la CNAS (9%) et 11 956 DA d'IRG."
+      },
+      {
+        "q": "Combien paye-t-on d'impôt IRG sur un salaire de 80 000 DA ?",
+        "a": "Le montant prélevé au titre de l'Impôt sur le Revenu Global (IRG) pour 80 000 DA de salaire brut est de 11 956 DA dans le Régime Nord, et de seulement 5 978 DA dans le cadre du Régime Grand Sud grâce à l'abattement territorial de 50%."
+      },
+      {
+        "q": "Combien représente ce salaire en Millions de centimes ?",
+        "a": "Un salaire brut de 80 000 DA correspond à 8.00 Millions de centimes. Après l'ensemble des prélèvements sociaux et fiscaux, vous encaissez un montant net de 6.08 Millions de centimes."
+      }
+    ],
+    "faqAr": [
+      {
+        "q": "كم يبلغ الراتب الصافي لراتب خام قدره 80 000 دج في الجزائر؟",
+        "a": "لراتب خام قدره 80 000 دج، يبلغ الراتب الصافي المقبوض 60 844 دج (أي ما يعادل حوالي 6.08 مليون سنتيم)، بعد خصم 7 200 دج للضمان الاجتماعي و11 956 دج كضريبة على الدخل الإجمالي."
+      },
+      {
+        "q": "كم يبلغ اقتطاع ضريبة IRG لمبلغ 80 000 دج؟",
+        "a": "قيمة الضريبة المقتطعة على الدخل الإجمالي (IRG) لراتب 80 000 دج خام هي 11 956 دج في ولايات الشمال، وتنخفض إلى 5 978 دج في ولايات الجنوب الكبير بفضل التخفيض القانوني المقدر بـ 50%."
+      },
+      {
+        "q": "كم يساوي هذا الراتب بملايين السنتيم الجزائري؟",
+        "a": "الراتب الخام البالغ 80 000 دج يساوي 8.00 مليون سنتيم، ويصبح الراتب الصافي للقبض بعد كل الاقتطاعات 6.08 مليون سنتيم."
+      }
+    ]
+  },
+  {
+    "slug": "85000-da",
+    "brut": 85000,
+    "isAdsensePriority": false,
+    "titleFr": "Salaire Net pour 85 000 DA Brut en Algérie (Calcul IRG & CNAS 2024)",
+    "titleAr": "الراتب الصافي لمبلغ 85 000 دج خام في الجزائر (حساب الضريبة والضمان الاجتماعي)",
+    "descriptionFr": "Découvrez le salaire net exact pour un salaire brut de 85 000 DA en Algérie : déduction CNAS (9%), impôt IRG barème 2024, comparaison Régime Nord vs Régime Sud.",
+    "descriptionAr": "اكتشف الراتب الصافي الدقيق لراتب خام قدره 85 000 دج في الجزائر: خصم الضمان الاجتماعي (9%)، ضريبة الدخل IRG، ومقارنة نظام الشمال ونظام الجنوب.",
+    "calc": {
+      "brut": 85000,
+      "cnas": 7650,
+      "salaireImposable": 77350,
+      "irgBrut": 14685,
+      "irgFinal": 13185,
+      "net": 64165,
+      "netMillions": "6.42",
+      "brutMillions": "8.50",
+      "cnasMillions": "0.77",
+      "irgMillions": "1.32"
+    },
+    "calcSud": {
+      "brut": 85000,
+      "cnas": 7650,
+      "salaireImposable": 77350,
+      "irgBrut": 14685,
+      "irgFinal": 6592,
+      "net": 70758,
+      "netMillions": "7.08",
+      "brutMillions": "8.50",
+      "cnasMillions": "0.77",
+      "irgMillions": "0.66"
+    },
+    "calcPrimes": {
+      "brut": 85000,
+      "cnas": 7650,
+      "salaireImposable": 87350,
+      "irgBrut": 17605,
+      "irgFinal": 16105,
+      "net": 71245,
+      "netMillions": "7.12",
+      "brutMillions": "8.50",
+      "cnasMillions": "0.77",
+      "irgMillions": "1.61"
+    },
+    "comparatif": [
+      {
+        "regimeFr": "Régime Nord (Standard)",
+        "regimeAr": "نظام الشمال (العادي)",
+        "brutDA": 85000,
+        "cnasDA": 7650,
+        "irgDA": 13185,
+        "netDA": 64165,
+        "netMillions": "6.42"
+      },
+      {
+        "regimeFr": "Régime Grand Sud (-50% IRG)",
+        "regimeAr": "نظام الجنوب الكبير (تخفيض 50% من الضريبة)",
+        "brutDA": 85000,
+        "cnasDA": 7650,
+        "irgDA": 6592,
+        "netDA": 70758,
+        "netMillions": "7.08"
+      },
+      {
+        "regimeFr": "Avec Primes Imposables (+10 000 DA)",
+        "regimeAr": "مع علاوات خاضعة (+10 000 دج)",
+        "brutDA": 95000,
+        "cnasDA": 7650,
+        "irgDA": 16105,
+        "netDA": 71245,
+        "netMillions": "7.12"
+      }
+    ],
+    "faqFr": [
+      {
+        "q": "Quel est le salaire net pour un salaire brut de 85 000 DA en Algérie ?",
+        "a": "Pour un salaire brut de 85 000 DA, le salaire net à percevoir est de 64 165 DA (soit environ 6.42 Millions de centimes) après déduction de 7 650 DA pour la CNAS (9%) et 13 185 DA d'IRG."
+      },
+      {
+        "q": "Combien paye-t-on d'impôt IRG sur un salaire de 85 000 DA ?",
+        "a": "Le montant prélevé au titre de l'Impôt sur le Revenu Global (IRG) pour 85 000 DA de salaire brut est de 13 185 DA dans le Régime Nord, et de seulement 6 592 DA dans le cadre du Régime Grand Sud grâce à l'abattement territorial de 50%."
+      },
+      {
+        "q": "Combien représente ce salaire en Millions de centimes ?",
+        "a": "Un salaire brut de 85 000 DA correspond à 8.50 Millions de centimes. Après l'ensemble des prélèvements sociaux et fiscaux, vous encaissez un montant net de 6.42 Millions de centimes."
+      }
+    ],
+    "faqAr": [
+      {
+        "q": "كم يبلغ الراتب الصافي لراتب خام قدره 85 000 دج في الجزائر؟",
+        "a": "لراتب خام قدره 85 000 دج، يبلغ الراتب الصافي المقبوض 64 165 دج (أي ما يعادل حوالي 6.42 مليون سنتيم)، بعد خصم 7 650 دج للضمان الاجتماعي و13 185 دج كضريبة على الدخل الإجمالي."
+      },
+      {
+        "q": "كم يبلغ اقتطاع ضريبة IRG لمبلغ 85 000 دج؟",
+        "a": "قيمة الضريبة المقتطعة على الدخل الإجمالي (IRG) لراتب 85 000 دج خام هي 13 185 دج في ولايات الشمال، وتنخفض إلى 6 592 دج في ولايات الجنوب الكبير بفضل التخفيض القانوني المقدر بـ 50%."
+      },
+      {
+        "q": "كم يساوي هذا الراتب بملايين السنتيم الجزائري؟",
+        "a": "الراتب الخام البالغ 85 000 دج يساوي 8.50 مليون سنتيم، ويصبح الراتب الصافي للقبض بعد كل الاقتطاعات 6.42 مليون سنتيم."
+      }
+    ]
+  },
+  {
+    "slug": "90000-da",
+    "brut": 90000,
+    "isAdsensePriority": false,
+    "titleFr": "Salaire Net pour 90 000 DA Brut en Algérie (Calcul IRG & CNAS 2024)",
+    "titleAr": "الراتب الصافي لمبلغ 90 000 دج خام في الجزائر (حساب الضريبة والضمان الاجتماعي)",
+    "descriptionFr": "Découvrez le salaire net exact pour un salaire brut de 90 000 DA en Algérie : déduction CNAS (9%), impôt IRG barème 2024, comparaison Régime Nord vs Régime Sud.",
+    "descriptionAr": "اكتشف الراتب الصافي الدقيق لراتب خام قدره 90 000 دج في الجزائر: خصم الضمان الاجتماعي (9%)، ضريبة الدخل IRG، ومقارنة نظام الشمال ونظام الجنوب.",
+    "calc": {
+      "brut": 90000,
+      "cnas": 8100,
+      "salaireImposable": 81900,
+      "irgBrut": 15970,
+      "irgFinal": 14470,
+      "net": 67430,
+      "netMillions": "6.74",
+      "brutMillions": "9.00",
+      "cnasMillions": "0.81",
+      "irgMillions": "1.45"
+    },
+    "calcSud": {
+      "brut": 90000,
+      "cnas": 8100,
+      "salaireImposable": 81900,
+      "irgBrut": 15970,
+      "irgFinal": 7235,
+      "net": 74665,
+      "netMillions": "7.47",
+      "brutMillions": "9.00",
+      "cnasMillions": "0.81",
+      "irgMillions": "0.72"
+    },
+    "calcPrimes": {
+      "brut": 90000,
+      "cnas": 8100,
+      "salaireImposable": 91900,
+      "irgBrut": 18970,
+      "irgFinal": 17470,
+      "net": 74430,
+      "netMillions": "7.44",
+      "brutMillions": "9.00",
+      "cnasMillions": "0.81",
+      "irgMillions": "1.75"
+    },
+    "comparatif": [
+      {
+        "regimeFr": "Régime Nord (Standard)",
+        "regimeAr": "نظام الشمال (العادي)",
+        "brutDA": 90000,
+        "cnasDA": 8100,
+        "irgDA": 14470,
+        "netDA": 67430,
+        "netMillions": "6.74"
+      },
+      {
+        "regimeFr": "Régime Grand Sud (-50% IRG)",
+        "regimeAr": "نظام الجنوب الكبير (تخفيض 50% من الضريبة)",
+        "brutDA": 90000,
+        "cnasDA": 8100,
+        "irgDA": 7235,
+        "netDA": 74665,
+        "netMillions": "7.47"
+      },
+      {
+        "regimeFr": "Avec Primes Imposables (+10 000 DA)",
+        "regimeAr": "مع علاوات خاضعة (+10 000 دج)",
+        "brutDA": 100000,
+        "cnasDA": 8100,
+        "irgDA": 17470,
+        "netDA": 74430,
+        "netMillions": "7.44"
+      }
+    ],
+    "faqFr": [
+      {
+        "q": "Quel est le salaire net pour un salaire brut de 90 000 DA en Algérie ?",
+        "a": "Pour un salaire brut de 90 000 DA, le salaire net à percevoir est de 67 430 DA (soit environ 6.74 Millions de centimes) après déduction de 8 100 DA pour la CNAS (9%) et 14 470 DA d'IRG."
+      },
+      {
+        "q": "Combien paye-t-on d'impôt IRG sur un salaire de 90 000 DA ?",
+        "a": "Le montant prélevé au titre de l'Impôt sur le Revenu Global (IRG) pour 90 000 DA de salaire brut est de 14 470 DA dans le Régime Nord, et de seulement 7 235 DA dans le cadre du Régime Grand Sud grâce à l'abattement territorial de 50%."
+      },
+      {
+        "q": "Combien représente ce salaire en Millions de centimes ?",
+        "a": "Un salaire brut de 90 000 DA correspond à 9.00 Millions de centimes. Après l'ensemble des prélèvements sociaux et fiscaux, vous encaissez un montant net de 6.74 Millions de centimes."
+      }
+    ],
+    "faqAr": [
+      {
+        "q": "كم يبلغ الراتب الصافي لراتب خام قدره 90 000 دج في الجزائر؟",
+        "a": "لراتب خام قدره 90 000 دج، يبلغ الراتب الصافي المقبوض 67 430 دج (أي ما يعادل حوالي 6.74 مليون سنتيم)، بعد خصم 8 100 دج للضمان الاجتماعي و14 470 دج كضريبة على الدخل الإجمالي."
+      },
+      {
+        "q": "كم يبلغ اقتطاع ضريبة IRG لمبلغ 90 000 دج؟",
+        "a": "قيمة الضريبة المقتطعة على الدخل الإجمالي (IRG) لراتب 90 000 دج خام هي 14 470 دج في ولايات الشمال، وتنخفض إلى 7 235 دج في ولايات الجنوب الكبير بفضل التخفيض القانوني المقدر بـ 50%."
+      },
+      {
+        "q": "كم يساوي هذا الراتب بملايين السنتيم الجزائري؟",
+        "a": "الراتب الخام البالغ 90 000 دج يساوي 9.00 مليون سنتيم، ويصبح الراتب الصافي للقبض بعد كل الاقتطاعات 6.74 مليون سنتيم."
+      }
+    ]
+  },
+  {
+    "slug": "95000-da",
+    "brut": 95000,
+    "isAdsensePriority": false,
+    "titleFr": "Salaire Net pour 95 000 DA Brut en Algérie (Calcul IRG & CNAS 2024)",
+    "titleAr": "الراتب الصافي لمبلغ 95 000 دج خام في الجزائر (حساب الضريبة والضمان الاجتماعي)",
+    "descriptionFr": "Découvrez le salaire net exact pour un salaire brut de 95 000 DA en Algérie : déduction CNAS (9%), impôt IRG barème 2024, comparaison Régime Nord vs Régime Sud.",
+    "descriptionAr": "اكتشف الراتب الصافي الدقيق لراتب خام قدره 95 000 دج في الجزائر: خصم الضمان الاجتماعي (9%)، ضريبة الدخل IRG، ومقارنة نظام الشمال ونظام الجنوب.",
+    "calc": {
+      "brut": 95000,
+      "cnas": 8550,
+      "salaireImposable": 86450,
+      "irgBrut": 17335,
+      "irgFinal": 15835,
+      "net": 70615,
+      "netMillions": "7.06",
+      "brutMillions": "9.50",
+      "cnasMillions": "0.85",
+      "irgMillions": "1.58"
+    },
+    "calcSud": {
+      "brut": 95000,
+      "cnas": 8550,
+      "salaireImposable": 86450,
+      "irgBrut": 17335,
+      "irgFinal": 7918,
+      "net": 78532,
+      "netMillions": "7.85",
+      "brutMillions": "9.50",
+      "cnasMillions": "0.85",
+      "irgMillions": "0.79"
+    },
+    "calcPrimes": {
+      "brut": 95000,
+      "cnas": 8550,
+      "salaireImposable": 96450,
+      "irgBrut": 20335,
+      "irgFinal": 18835,
+      "net": 77615,
+      "netMillions": "7.76",
+      "brutMillions": "9.50",
+      "cnasMillions": "0.85",
+      "irgMillions": "1.88"
+    },
+    "comparatif": [
+      {
+        "regimeFr": "Régime Nord (Standard)",
+        "regimeAr": "نظام الشمال (العادي)",
+        "brutDA": 95000,
+        "cnasDA": 8550,
+        "irgDA": 15835,
+        "netDA": 70615,
+        "netMillions": "7.06"
+      },
+      {
+        "regimeFr": "Régime Grand Sud (-50% IRG)",
+        "regimeAr": "نظام الجنوب الكبير (تخفيض 50% من الضريبة)",
+        "brutDA": 95000,
+        "cnasDA": 8550,
+        "irgDA": 7918,
+        "netDA": 78532,
+        "netMillions": "7.85"
+      },
+      {
+        "regimeFr": "Avec Primes Imposables (+10 000 DA)",
+        "regimeAr": "مع علاوات خاضعة (+10 000 دج)",
+        "brutDA": 105000,
+        "cnasDA": 8550,
+        "irgDA": 18835,
+        "netDA": 77615,
+        "netMillions": "7.76"
+      }
+    ],
+    "faqFr": [
+      {
+        "q": "Quel est le salaire net pour un salaire brut de 95 000 DA en Algérie ?",
+        "a": "Pour un salaire brut de 95 000 DA, le salaire net à percevoir est de 70 615 DA (soit environ 7.06 Millions de centimes) après déduction de 8 550 DA pour la CNAS (9%) et 15 835 DA d'IRG."
+      },
+      {
+        "q": "Combien paye-t-on d'impôt IRG sur un salaire de 95 000 DA ?",
+        "a": "Le montant prélevé au titre de l'Impôt sur le Revenu Global (IRG) pour 95 000 DA de salaire brut est de 15 835 DA dans le Régime Nord, et de seulement 7 918 DA dans le cadre du Régime Grand Sud grâce à l'abattement territorial de 50%."
+      },
+      {
+        "q": "Combien représente ce salaire en Millions de centimes ?",
+        "a": "Un salaire brut de 95 000 DA correspond à 9.50 Millions de centimes. Après l'ensemble des prélèvements sociaux et fiscaux, vous encaissez un montant net de 7.06 Millions de centimes."
+      }
+    ],
+    "faqAr": [
+      {
+        "q": "كم يبلغ الراتب الصافي لراتب خام قدره 95 000 دج في الجزائر؟",
+        "a": "لراتب خام قدره 95 000 دج، يبلغ الراتب الصافي المقبوض 70 615 دج (أي ما يعادل حوالي 7.06 مليون سنتيم)، بعد خصم 8 550 دج للضمان الاجتماعي و15 835 دج كضريبة على الدخل الإجمالي."
+      },
+      {
+        "q": "كم يبلغ اقتطاع ضريبة IRG لمبلغ 95 000 دج؟",
+        "a": "قيمة الضريبة المقتطعة على الدخل الإجمالي (IRG) لراتب 95 000 دج خام هي 15 835 دج في ولايات الشمال، وتنخفض إلى 7 918 دج في ولايات الجنوب الكبير بفضل التخفيض القانوني المقدر بـ 50%."
+      },
+      {
+        "q": "كم يساوي هذا الراتب بملايين السنتيم الجزائري؟",
+        "a": "الراتب الخام البالغ 95 000 دج يساوي 9.50 مليون سنتيم، ويصبح الراتب الصافي للقبض بعد كل الاقتطاعات 7.06 مليون سنتيم."
+      }
+    ]
+  },
+  {
+    "slug": "100000-da",
+    "brut": 100000,
+    "isAdsensePriority": true,
+    "titleFr": "Salaire Net pour 100 000 DA Brut en Algérie (Calcul IRG & CNAS 2024)",
+    "titleAr": "الراتب الصافي لمبلغ 100 000 دج خام في الجزائر (حساب الضريبة والضمان الاجتماعي)",
+    "descriptionFr": "Découvrez le salaire net exact pour un salaire brut de 100 000 DA en Algérie : déduction CNAS (9%), impôt IRG barème 2024, comparaison Régime Nord vs Régime Sud.",
+    "descriptionAr": "اكتشف الراتب الصافي الدقيق لراتب خام قدره 100 000 دج في الجزائر: خصم الضمان الاجتماعي (9%)، ضريبة الدخل IRG، ومقارنة نظام الشمال ونظام الجنوب.",
+    "calc": {
+      "brut": 100000,
+      "cnas": 9000,
+      "salaireImposable": 91000,
+      "irgBrut": 18700,
+      "irgFinal": 17200,
+      "net": 73800,
+      "netMillions": "7.38",
+      "brutMillions": "10.00",
+      "cnasMillions": "0.90",
+      "irgMillions": "1.72"
+    },
+    "calcSud": {
+      "brut": 100000,
+      "cnas": 9000,
+      "salaireImposable": 91000,
+      "irgBrut": 18700,
+      "irgFinal": 8600,
+      "net": 82400,
+      "netMillions": "8.24",
+      "brutMillions": "10.00",
+      "cnasMillions": "0.90",
+      "irgMillions": "0.86"
+    },
+    "calcPrimes": {
+      "brut": 100000,
+      "cnas": 9000,
+      "salaireImposable": 101000,
+      "irgBrut": 21700,
+      "irgFinal": 20200,
+      "net": 80800,
+      "netMillions": "8.08",
+      "brutMillions": "10.00",
+      "cnasMillions": "0.90",
+      "irgMillions": "2.02"
+    },
+    "comparatif": [
+      {
+        "regimeFr": "Régime Nord (Standard)",
+        "regimeAr": "نظام الشمال (العادي)",
+        "brutDA": 100000,
+        "cnasDA": 9000,
+        "irgDA": 17200,
+        "netDA": 73800,
+        "netMillions": "7.38"
+      },
+      {
+        "regimeFr": "Régime Grand Sud (-50% IRG)",
+        "regimeAr": "نظام الجنوب الكبير (تخفيض 50% من الضريبة)",
+        "brutDA": 100000,
+        "cnasDA": 9000,
+        "irgDA": 8600,
+        "netDA": 82400,
+        "netMillions": "8.24"
+      },
+      {
+        "regimeFr": "Avec Primes Imposables (+10 000 DA)",
+        "regimeAr": "مع علاوات خاضعة (+10 000 دج)",
+        "brutDA": 110000,
+        "cnasDA": 9000,
+        "irgDA": 20200,
+        "netDA": 80800,
+        "netMillions": "8.08"
+      }
+    ],
+    "faqFr": [
+      {
+        "q": "Quel est le salaire net pour un salaire brut de 100 000 DA en Algérie ?",
+        "a": "Pour un salaire brut de 100 000 DA, le salaire net à percevoir est de 73 800 DA (soit environ 7.38 Millions de centimes) après déduction de 9 000 DA pour la CNAS (9%) et 17 200 DA d'IRG."
+      },
+      {
+        "q": "Combien paye-t-on d'impôt IRG sur un salaire de 100 000 DA ?",
+        "a": "Le montant prélevé au titre de l'Impôt sur le Revenu Global (IRG) pour 100 000 DA de salaire brut est de 17 200 DA dans le Régime Nord, et de seulement 8 600 DA dans le cadre du Régime Grand Sud grâce à l'abattement territorial de 50%."
+      },
+      {
+        "q": "Combien représente ce salaire en Millions de centimes ?",
+        "a": "Un salaire brut de 100 000 DA correspond à 10.00 Millions de centimes. Après l'ensemble des prélèvements sociaux et fiscaux, vous encaissez un montant net de 7.38 Millions de centimes."
+      }
+    ],
+    "faqAr": [
+      {
+        "q": "كم يبلغ الراتب الصافي لراتب خام قدره 100 000 دج في الجزائر؟",
+        "a": "لراتب خام قدره 100 000 دج، يبلغ الراتب الصافي المقبوض 73 800 دج (أي ما يعادل حوالي 7.38 مليون سنتيم)، بعد خصم 9 000 دج للضمان الاجتماعي و17 200 دج كضريبة على الدخل الإجمالي."
+      },
+      {
+        "q": "كم يبلغ اقتطاع ضريبة IRG لمبلغ 100 000 دج؟",
+        "a": "قيمة الضريبة المقتطعة على الدخل الإجمالي (IRG) لراتب 100 000 دج خام هي 17 200 دج في ولايات الشمال، وتنخفض إلى 8 600 دج في ولايات الجنوب الكبير بفضل التخفيض القانوني المقدر بـ 50%."
+      },
+      {
+        "q": "كم يساوي هذا الراتب بملايين السنتيم الجزائري؟",
+        "a": "الراتب الخام البالغ 100 000 دج يساوي 10.00 مليون سنتيم، ويصبح الراتب الصافي للقبض بعد كل الاقتطاعات 7.38 مليون سنتيم."
+      }
+    ]
+  },
+  {
+    "slug": "110000-da",
+    "brut": 110000,
+    "isAdsensePriority": false,
+    "titleFr": "Salaire Net pour 110 000 DA Brut en Algérie (Calcul IRG & CNAS 2024)",
+    "titleAr": "الراتب الصافي لمبلغ 110 000 دج خام في الجزائر (حساب الضريبة والضمان الاجتماعي)",
+    "descriptionFr": "Découvrez le salaire net exact pour un salaire brut de 110 000 DA en Algérie : déduction CNAS (9%), impôt IRG barème 2024, comparaison Régime Nord vs Régime Sud.",
+    "descriptionAr": "اكتشف الراتب الصافي الدقيق لراتب خام قدره 110 000 دج في الجزائر: خصم الضمان الاجتماعي (9%)، ضريبة الدخل IRG، ومقارنة نظام الشمال ونظام الجنوب.",
+    "calc": {
+      "brut": 110000,
+      "cnas": 9900,
+      "salaireImposable": 100100,
+      "irgBrut": 21430,
+      "irgFinal": 19930,
+      "net": 80170,
+      "netMillions": "8.02",
+      "brutMillions": "11.00",
+      "cnasMillions": "0.99",
+      "irgMillions": "1.99"
+    },
+    "calcSud": {
+      "brut": 110000,
+      "cnas": 9900,
+      "salaireImposable": 100100,
+      "irgBrut": 21430,
+      "irgFinal": 9965,
+      "net": 90135,
+      "netMillions": "9.01",
+      "brutMillions": "11.00",
+      "cnasMillions": "0.99",
+      "irgMillions": "1.00"
+    },
+    "calcPrimes": {
+      "brut": 110000,
+      "cnas": 9900,
+      "salaireImposable": 110100,
+      "irgBrut": 24430,
+      "irgFinal": 22930,
+      "net": 87170,
+      "netMillions": "8.72",
+      "brutMillions": "11.00",
+      "cnasMillions": "0.99",
+      "irgMillions": "2.29"
+    },
+    "comparatif": [
+      {
+        "regimeFr": "Régime Nord (Standard)",
+        "regimeAr": "نظام الشمال (العادي)",
+        "brutDA": 110000,
+        "cnasDA": 9900,
+        "irgDA": 19930,
+        "netDA": 80170,
+        "netMillions": "8.02"
+      },
+      {
+        "regimeFr": "Régime Grand Sud (-50% IRG)",
+        "regimeAr": "نظام الجنوب الكبير (تخفيض 50% من الضريبة)",
+        "brutDA": 110000,
+        "cnasDA": 9900,
+        "irgDA": 9965,
+        "netDA": 90135,
+        "netMillions": "9.01"
+      },
+      {
+        "regimeFr": "Avec Primes Imposables (+10 000 DA)",
+        "regimeAr": "مع علاوات خاضعة (+10 000 دج)",
+        "brutDA": 120000,
+        "cnasDA": 9900,
+        "irgDA": 22930,
+        "netDA": 87170,
+        "netMillions": "8.72"
+      }
+    ],
+    "faqFr": [
+      {
+        "q": "Quel est le salaire net pour un salaire brut de 110 000 DA en Algérie ?",
+        "a": "Pour un salaire brut de 110 000 DA, le salaire net à percevoir est de 80 170 DA (soit environ 8.02 Millions de centimes) après déduction de 9 900 DA pour la CNAS (9%) et 19 930 DA d'IRG."
+      },
+      {
+        "q": "Combien paye-t-on d'impôt IRG sur un salaire de 110 000 DA ?",
+        "a": "Le montant prélevé au titre de l'Impôt sur le Revenu Global (IRG) pour 110 000 DA de salaire brut est de 19 930 DA dans le Régime Nord, et de seulement 9 965 DA dans le cadre du Régime Grand Sud grâce à l'abattement territorial de 50%."
+      },
+      {
+        "q": "Combien représente ce salaire en Millions de centimes ?",
+        "a": "Un salaire brut de 110 000 DA correspond à 11.00 Millions de centimes. Après l'ensemble des prélèvements sociaux et fiscaux, vous encaissez un montant net de 8.02 Millions de centimes."
+      }
+    ],
+    "faqAr": [
+      {
+        "q": "كم يبلغ الراتب الصافي لراتب خام قدره 110 000 دج في الجزائر؟",
+        "a": "لراتب خام قدره 110 000 دج، يبلغ الراتب الصافي المقبوض 80 170 دج (أي ما يعادل حوالي 8.02 مليون سنتيم)، بعد خصم 9 900 دج للضمان الاجتماعي و19 930 دج كضريبة على الدخل الإجمالي."
+      },
+      {
+        "q": "كم يبلغ اقتطاع ضريبة IRG لمبلغ 110 000 دج؟",
+        "a": "قيمة الضريبة المقتطعة على الدخل الإجمالي (IRG) لراتب 110 000 دج خام هي 19 930 دج في ولايات الشمال، وتنخفض إلى 9 965 دج في ولايات الجنوب الكبير بفضل التخفيض القانوني المقدر بـ 50%."
+      },
+      {
+        "q": "كم يساوي هذا الراتب بملايين السنتيم الجزائري؟",
+        "a": "الراتب الخام البالغ 110 000 دج يساوي 11.00 مليون سنتيم، ويصبح الراتب الصافي للقبض بعد كل الاقتطاعات 8.02 مليون سنتيم."
+      }
+    ]
+  },
+  {
+    "slug": "120000-da",
+    "brut": 120000,
+    "isAdsensePriority": true,
+    "titleFr": "Salaire Net pour 120 000 DA Brut en Algérie (Calcul IRG & CNAS 2024)",
+    "titleAr": "الراتب الصافي لمبلغ 120 000 دج خام في الجزائر (حساب الضريبة والضمان الاجتماعي)",
+    "descriptionFr": "Découvrez le salaire net exact pour un salaire brut de 120 000 DA en Algérie : déduction CNAS (9%), impôt IRG barème 2024, comparaison Régime Nord vs Régime Sud.",
+    "descriptionAr": "اكتشف الراتب الصافي الدقيق لراتب خام قدره 120 000 دج في الجزائر: خصم الضمان الاجتماعي (9%)، ضريبة الدخل IRG، ومقارنة نظام الشمال ونظام الجنوب.",
+    "calc": {
+      "brut": 120000,
+      "cnas": 10800,
+      "salaireImposable": 109200,
+      "irgBrut": 24160,
+      "irgFinal": 22660,
+      "net": 86540,
+      "netMillions": "8.65",
+      "brutMillions": "12.00",
+      "cnasMillions": "1.08",
+      "irgMillions": "2.27"
+    },
+    "calcSud": {
+      "brut": 120000,
+      "cnas": 10800,
+      "salaireImposable": 109200,
+      "irgBrut": 24160,
+      "irgFinal": 11330,
+      "net": 97870,
+      "netMillions": "9.79",
+      "brutMillions": "12.00",
+      "cnasMillions": "1.08",
+      "irgMillions": "1.13"
+    },
+    "calcPrimes": {
+      "brut": 120000,
+      "cnas": 10800,
+      "salaireImposable": 119200,
+      "irgBrut": 27160,
+      "irgFinal": 25660,
+      "net": 93540,
+      "netMillions": "9.35",
+      "brutMillions": "12.00",
+      "cnasMillions": "1.08",
+      "irgMillions": "2.57"
+    },
+    "comparatif": [
+      {
+        "regimeFr": "Régime Nord (Standard)",
+        "regimeAr": "نظام الشمال (العادي)",
+        "brutDA": 120000,
+        "cnasDA": 10800,
+        "irgDA": 22660,
+        "netDA": 86540,
+        "netMillions": "8.65"
+      },
+      {
+        "regimeFr": "Régime Grand Sud (-50% IRG)",
+        "regimeAr": "نظام الجنوب الكبير (تخفيض 50% من الضريبة)",
+        "brutDA": 120000,
+        "cnasDA": 10800,
+        "irgDA": 11330,
+        "netDA": 97870,
+        "netMillions": "9.79"
+      },
+      {
+        "regimeFr": "Avec Primes Imposables (+10 000 DA)",
+        "regimeAr": "مع علاوات خاضعة (+10 000 دج)",
+        "brutDA": 130000,
+        "cnasDA": 10800,
+        "irgDA": 25660,
+        "netDA": 93540,
+        "netMillions": "9.35"
+      }
+    ],
+    "faqFr": [
+      {
+        "q": "Quel est le salaire net pour un salaire brut de 120 000 DA en Algérie ?",
+        "a": "Pour un salaire brut de 120 000 DA, le salaire net à percevoir est de 86 540 DA (soit environ 8.65 Millions de centimes) après déduction de 10 800 DA pour la CNAS (9%) et 22 660 DA d'IRG."
+      },
+      {
+        "q": "Combien paye-t-on d'impôt IRG sur un salaire de 120 000 DA ?",
+        "a": "Le montant prélevé au titre de l'Impôt sur le Revenu Global (IRG) pour 120 000 DA de salaire brut est de 22 660 DA dans le Régime Nord, et de seulement 11 330 DA dans le cadre du Régime Grand Sud grâce à l'abattement territorial de 50%."
+      },
+      {
+        "q": "Combien représente ce salaire en Millions de centimes ?",
+        "a": "Un salaire brut de 120 000 DA correspond à 12.00 Millions de centimes. Après l'ensemble des prélèvements sociaux et fiscaux, vous encaissez un montant net de 8.65 Millions de centimes."
+      }
+    ],
+    "faqAr": [
+      {
+        "q": "كم يبلغ الراتب الصافي لراتب خام قدره 120 000 دج في الجزائر؟",
+        "a": "لراتب خام قدره 120 000 دج، يبلغ الراتب الصافي المقبوض 86 540 دج (أي ما يعادل حوالي 8.65 مليون سنتيم)، بعد خصم 10 800 دج للضمان الاجتماعي و22 660 دج كضريبة على الدخل الإجمالي."
+      },
+      {
+        "q": "كم يبلغ اقتطاع ضريبة IRG لمبلغ 120 000 دج؟",
+        "a": "قيمة الضريبة المقتطعة على الدخل الإجمالي (IRG) لراتب 120 000 دج خام هي 22 660 دج في ولايات الشمال، وتنخفض إلى 11 330 دج في ولايات الجنوب الكبير بفضل التخفيض القانوني المقدر بـ 50%."
+      },
+      {
+        "q": "كم يساوي هذا الراتب بملايين السنتيم الجزائري؟",
+        "a": "الراتب الخام البالغ 120 000 دج يساوي 12.00 مليون سنتيم، ويصبح الراتب الصافي للقبض بعد كل الاقتطاعات 8.65 مليون سنتيم."
+      }
+    ]
+  },
+  {
+    "slug": "130000-da",
+    "brut": 130000,
+    "isAdsensePriority": false,
+    "titleFr": "Salaire Net pour 130 000 DA Brut en Algérie (Calcul IRG & CNAS 2024)",
+    "titleAr": "الراتب الصافي لمبلغ 130 000 دج خام في الجزائر (حساب الضريبة والضمان الاجتماعي)",
+    "descriptionFr": "Découvrez le salaire net exact pour un salaire brut de 130 000 DA en Algérie : déduction CNAS (9%), impôt IRG barème 2024, comparaison Régime Nord vs Régime Sud.",
+    "descriptionAr": "اكتشف الراتب الصافي الدقيق لراتب خام قدره 130 000 دج في الجزائر: خصم الضمان الاجتماعي (9%)، ضريبة الدخل IRG، ومقارنة نظام الشمال ونظام الجنوب.",
+    "calc": {
+      "brut": 130000,
+      "cnas": 11700,
+      "salaireImposable": 118300,
+      "irgBrut": 26890,
+      "irgFinal": 25390,
+      "net": 92910,
+      "netMillions": "9.29",
+      "brutMillions": "13.00",
+      "cnasMillions": "1.17",
+      "irgMillions": "2.54"
+    },
+    "calcSud": {
+      "brut": 130000,
+      "cnas": 11700,
+      "salaireImposable": 118300,
+      "irgBrut": 26890,
+      "irgFinal": 12695,
+      "net": 105605,
+      "netMillions": "10.56",
+      "brutMillions": "13.00",
+      "cnasMillions": "1.17",
+      "irgMillions": "1.27"
+    },
+    "calcPrimes": {
+      "brut": 130000,
+      "cnas": 11700,
+      "salaireImposable": 128300,
+      "irgBrut": 29890,
+      "irgFinal": 28390,
+      "net": 99910,
+      "netMillions": "9.99",
+      "brutMillions": "13.00",
+      "cnasMillions": "1.17",
+      "irgMillions": "2.84"
+    },
+    "comparatif": [
+      {
+        "regimeFr": "Régime Nord (Standard)",
+        "regimeAr": "نظام الشمال (العادي)",
+        "brutDA": 130000,
+        "cnasDA": 11700,
+        "irgDA": 25390,
+        "netDA": 92910,
+        "netMillions": "9.29"
+      },
+      {
+        "regimeFr": "Régime Grand Sud (-50% IRG)",
+        "regimeAr": "نظام الجنوب الكبير (تخفيض 50% من الضريبة)",
+        "brutDA": 130000,
+        "cnasDA": 11700,
+        "irgDA": 12695,
+        "netDA": 105605,
+        "netMillions": "10.56"
+      },
+      {
+        "regimeFr": "Avec Primes Imposables (+10 000 DA)",
+        "regimeAr": "مع علاوات خاضعة (+10 000 دج)",
+        "brutDA": 140000,
+        "cnasDA": 11700,
+        "irgDA": 28390,
+        "netDA": 99910,
+        "netMillions": "9.99"
+      }
+    ],
+    "faqFr": [
+      {
+        "q": "Quel est le salaire net pour un salaire brut de 130 000 DA en Algérie ?",
+        "a": "Pour un salaire brut de 130 000 DA, le salaire net à percevoir est de 92 910 DA (soit environ 9.29 Millions de centimes) après déduction de 11 700 DA pour la CNAS (9%) et 25 390 DA d'IRG."
+      },
+      {
+        "q": "Combien paye-t-on d'impôt IRG sur un salaire de 130 000 DA ?",
+        "a": "Le montant prélevé au titre de l'Impôt sur le Revenu Global (IRG) pour 130 000 DA de salaire brut est de 25 390 DA dans le Régime Nord, et de seulement 12 695 DA dans le cadre du Régime Grand Sud grâce à l'abattement territorial de 50%."
+      },
+      {
+        "q": "Combien représente ce salaire en Millions de centimes ?",
+        "a": "Un salaire brut de 130 000 DA correspond à 13.00 Millions de centimes. Après l'ensemble des prélèvements sociaux et fiscaux, vous encaissez un montant net de 9.29 Millions de centimes."
+      }
+    ],
+    "faqAr": [
+      {
+        "q": "كم يبلغ الراتب الصافي لراتب خام قدره 130 000 دج في الجزائر؟",
+        "a": "لراتب خام قدره 130 000 دج، يبلغ الراتب الصافي المقبوض 92 910 دج (أي ما يعادل حوالي 9.29 مليون سنتيم)، بعد خصم 11 700 دج للضمان الاجتماعي و25 390 دج كضريبة على الدخل الإجمالي."
+      },
+      {
+        "q": "كم يبلغ اقتطاع ضريبة IRG لمبلغ 130 000 دج؟",
+        "a": "قيمة الضريبة المقتطعة على الدخل الإجمالي (IRG) لراتب 130 000 دج خام هي 25 390 دج في ولايات الشمال، وتنخفض إلى 12 695 دج في ولايات الجنوب الكبير بفضل التخفيض القانوني المقدر بـ 50%."
+      },
+      {
+        "q": "كم يساوي هذا الراتب بملايين السنتيم الجزائري؟",
+        "a": "الراتب الخام البالغ 130 000 دج يساوي 13.00 مليون سنتيم، ويصبح الراتب الصافي للقبض بعد كل الاقتطاعات 9.29 مليون سنتيم."
+      }
+    ]
+  },
+  {
+    "slug": "140000-da",
+    "brut": 140000,
+    "isAdsensePriority": false,
+    "titleFr": "Salaire Net pour 140 000 DA Brut en Algérie (Calcul IRG & CNAS 2024)",
+    "titleAr": "الراتب الصافي لمبلغ 140 000 دج خام في الجزائر (حساب الضريبة والضمان الاجتماعي)",
+    "descriptionFr": "Découvrez le salaire net exact pour un salaire brut de 140 000 DA en Algérie : déduction CNAS (9%), impôt IRG barème 2024, comparaison Régime Nord vs Régime Sud.",
+    "descriptionAr": "اكتشف الراتب الصافي الدقيق لراتب خام قدره 140 000 دج في الجزائر: خصم الضمان الاجتماعي (9%)، ضريبة الدخل IRG، ومقارنة نظام الشمال ونظام الجنوب.",
+    "calc": {
+      "brut": 140000,
+      "cnas": 12600,
+      "salaireImposable": 127400,
+      "irgBrut": 29620,
+      "irgFinal": 28120,
+      "net": 99280,
+      "netMillions": "9.93",
+      "brutMillions": "14.00",
+      "cnasMillions": "1.26",
+      "irgMillions": "2.81"
+    },
+    "calcSud": {
+      "brut": 140000,
+      "cnas": 12600,
+      "salaireImposable": 127400,
+      "irgBrut": 29620,
+      "irgFinal": 14060,
+      "net": 113340,
+      "netMillions": "11.33",
+      "brutMillions": "14.00",
+      "cnasMillions": "1.26",
+      "irgMillions": "1.41"
+    },
+    "calcPrimes": {
+      "brut": 140000,
+      "cnas": 12600,
+      "salaireImposable": 137400,
+      "irgBrut": 32620,
+      "irgFinal": 31120,
+      "net": 106280,
+      "netMillions": "10.63",
+      "brutMillions": "14.00",
+      "cnasMillions": "1.26",
+      "irgMillions": "3.11"
+    },
+    "comparatif": [
+      {
+        "regimeFr": "Régime Nord (Standard)",
+        "regimeAr": "نظام الشمال (العادي)",
+        "brutDA": 140000,
+        "cnasDA": 12600,
+        "irgDA": 28120,
+        "netDA": 99280,
+        "netMillions": "9.93"
+      },
+      {
+        "regimeFr": "Régime Grand Sud (-50% IRG)",
+        "regimeAr": "نظام الجنوب الكبير (تخفيض 50% من الضريبة)",
+        "brutDA": 140000,
+        "cnasDA": 12600,
+        "irgDA": 14060,
+        "netDA": 113340,
+        "netMillions": "11.33"
+      },
+      {
+        "regimeFr": "Avec Primes Imposables (+10 000 DA)",
+        "regimeAr": "مع علاوات خاضعة (+10 000 دج)",
+        "brutDA": 150000,
+        "cnasDA": 12600,
+        "irgDA": 31120,
+        "netDA": 106280,
+        "netMillions": "10.63"
+      }
+    ],
+    "faqFr": [
+      {
+        "q": "Quel est le salaire net pour un salaire brut de 140 000 DA en Algérie ?",
+        "a": "Pour un salaire brut de 140 000 DA, le salaire net à percevoir est de 99 280 DA (soit environ 9.93 Millions de centimes) après déduction de 12 600 DA pour la CNAS (9%) et 28 120 DA d'IRG."
+      },
+      {
+        "q": "Combien paye-t-on d'impôt IRG sur un salaire de 140 000 DA ?",
+        "a": "Le montant prélevé au titre de l'Impôt sur le Revenu Global (IRG) pour 140 000 DA de salaire brut est de 28 120 DA dans le Régime Nord, et de seulement 14 060 DA dans le cadre du Régime Grand Sud grâce à l'abattement territorial de 50%."
+      },
+      {
+        "q": "Combien représente ce salaire en Millions de centimes ?",
+        "a": "Un salaire brut de 140 000 DA correspond à 14.00 Millions de centimes. Après l'ensemble des prélèvements sociaux et fiscaux, vous encaissez un montant net de 9.93 Millions de centimes."
+      }
+    ],
+    "faqAr": [
+      {
+        "q": "كم يبلغ الراتب الصافي لراتب خام قدره 140 000 دج في الجزائر؟",
+        "a": "لراتب خام قدره 140 000 دج، يبلغ الراتب الصافي المقبوض 99 280 دج (أي ما يعادل حوالي 9.93 مليون سنتيم)، بعد خصم 12 600 دج للضمان الاجتماعي و28 120 دج كضريبة على الدخل الإجمالي."
+      },
+      {
+        "q": "كم يبلغ اقتطاع ضريبة IRG لمبلغ 140 000 دج؟",
+        "a": "قيمة الضريبة المقتطعة على الدخل الإجمالي (IRG) لراتب 140 000 دج خام هي 28 120 دج في ولايات الشمال، وتنخفض إلى 14 060 دج في ولايات الجنوب الكبير بفضل التخفيض القانوني المقدر بـ 50%."
+      },
+      {
+        "q": "كم يساوي هذا الراتب بملايين السنتيم الجزائري؟",
+        "a": "الراتب الخام البالغ 140 000 دج يساوي 14.00 مليون سنتيم، ويصبح الراتب الصافي للقبض بعد كل الاقتطاعات 9.93 مليون سنتيم."
+      }
+    ]
+  },
+  {
+    "slug": "150000-da",
+    "brut": 150000,
+    "isAdsensePriority": true,
+    "titleFr": "Salaire Net pour 150 000 DA Brut en Algérie (Calcul IRG & CNAS 2024)",
+    "titleAr": "الراتب الصافي لمبلغ 150 000 دج خام في الجزائر (حساب الضريبة والضمان الاجتماعي)",
+    "descriptionFr": "Découvrez le salaire net exact pour un salaire brut de 150 000 DA en Algérie : déduction CNAS (9%), impôt IRG barème 2024, comparaison Régime Nord vs Régime Sud.",
+    "descriptionAr": "اكتشف الراتب الصافي الدقيق لراتب خام قدره 150 000 دج في الجزائر: خصم الضمان الاجتماعي (9%)، ضريبة الدخل IRG، ومقارنة نظام الشمال ونظام الجنوب.",
+    "calc": {
+      "brut": 150000,
+      "cnas": 13500,
+      "salaireImposable": 136500,
+      "irgBrut": 32350,
+      "irgFinal": 30850,
+      "net": 105650,
+      "netMillions": "10.56",
+      "brutMillions": "15.00",
+      "cnasMillions": "1.35",
+      "irgMillions": "3.08"
+    },
+    "calcSud": {
+      "brut": 150000,
+      "cnas": 13500,
+      "salaireImposable": 136500,
+      "irgBrut": 32350,
+      "irgFinal": 15425,
+      "net": 121075,
+      "netMillions": "12.11",
+      "brutMillions": "15.00",
+      "cnasMillions": "1.35",
+      "irgMillions": "1.54"
+    },
+    "calcPrimes": {
+      "brut": 150000,
+      "cnas": 13500,
+      "salaireImposable": 146500,
+      "irgBrut": 35350,
+      "irgFinal": 33850,
+      "net": 112650,
+      "netMillions": "11.27",
+      "brutMillions": "15.00",
+      "cnasMillions": "1.35",
+      "irgMillions": "3.38"
+    },
+    "comparatif": [
+      {
+        "regimeFr": "Régime Nord (Standard)",
+        "regimeAr": "نظام الشمال (العادي)",
+        "brutDA": 150000,
+        "cnasDA": 13500,
+        "irgDA": 30850,
+        "netDA": 105650,
+        "netMillions": "10.56"
+      },
+      {
+        "regimeFr": "Régime Grand Sud (-50% IRG)",
+        "regimeAr": "نظام الجنوب الكبير (تخفيض 50% من الضريبة)",
+        "brutDA": 150000,
+        "cnasDA": 13500,
+        "irgDA": 15425,
+        "netDA": 121075,
+        "netMillions": "12.11"
+      },
+      {
+        "regimeFr": "Avec Primes Imposables (+10 000 DA)",
+        "regimeAr": "مع علاوات خاضعة (+10 000 دج)",
+        "brutDA": 160000,
+        "cnasDA": 13500,
+        "irgDA": 33850,
+        "netDA": 112650,
+        "netMillions": "11.27"
+      }
+    ],
+    "faqFr": [
+      {
+        "q": "Quel est le salaire net pour un salaire brut de 150 000 DA en Algérie ?",
+        "a": "Pour un salaire brut de 150 000 DA, le salaire net à percevoir est de 105 650 DA (soit environ 10.56 Millions de centimes) après déduction de 13 500 DA pour la CNAS (9%) et 30 850 DA d'IRG."
+      },
+      {
+        "q": "Combien paye-t-on d'impôt IRG sur un salaire de 150 000 DA ?",
+        "a": "Le montant prélevé au titre de l'Impôt sur le Revenu Global (IRG) pour 150 000 DA de salaire brut est de 30 850 DA dans le Régime Nord, et de seulement 15 425 DA dans le cadre du Régime Grand Sud grâce à l'abattement territorial de 50%."
+      },
+      {
+        "q": "Combien représente ce salaire en Millions de centimes ?",
+        "a": "Un salaire brut de 150 000 DA correspond à 15.00 Millions de centimes. Après l'ensemble des prélèvements sociaux et fiscaux, vous encaissez un montant net de 10.56 Millions de centimes."
+      }
+    ],
+    "faqAr": [
+      {
+        "q": "كم يبلغ الراتب الصافي لراتب خام قدره 150 000 دج في الجزائر؟",
+        "a": "لراتب خام قدره 150 000 دج، يبلغ الراتب الصافي المقبوض 105 650 دج (أي ما يعادل حوالي 10.56 مليون سنتيم)، بعد خصم 13 500 دج للضمان الاجتماعي و30 850 دج كضريبة على الدخل الإجمالي."
+      },
+      {
+        "q": "كم يبلغ اقتطاع ضريبة IRG لمبلغ 150 000 دج؟",
+        "a": "قيمة الضريبة المقتطعة على الدخل الإجمالي (IRG) لراتب 150 000 دج خام هي 30 850 دج في ولايات الشمال، وتنخفض إلى 15 425 دج في ولايات الجنوب الكبير بفضل التخفيض القانوني المقدر بـ 50%."
+      },
+      {
+        "q": "كم يساوي هذا الراتب بملايين السنتيم الجزائري؟",
+        "a": "الراتب الخام البالغ 150 000 دج يساوي 15.00 مليون سنتيم، ويصبح الراتب الصافي للقبض بعد كل الاقتطاعات 10.56 مليون سنتيم."
+      }
+    ]
+  },
+  {
+    "slug": "160000-da",
+    "brut": 160000,
+    "isAdsensePriority": false,
+    "titleFr": "Salaire Net pour 160 000 DA Brut en Algérie (Calcul IRG & CNAS 2024)",
+    "titleAr": "الراتب الصافي لمبلغ 160 000 دج خام في الجزائر (حساب الضريبة والضمان الاجتماعي)",
+    "descriptionFr": "Découvrez le salaire net exact pour un salaire brut de 160 000 DA en Algérie : déduction CNAS (9%), impôt IRG barème 2024, comparaison Régime Nord vs Régime Sud.",
+    "descriptionAr": "اكتشف الراتب الصافي الدقيق لراتب خام قدره 160 000 دج في الجزائر: خصم الضمان الاجتماعي (9%)، ضريبة الدخل IRG، ومقارنة نظام الشمال ونظام الجنوب.",
+    "calc": {
+      "brut": 160000,
+      "cnas": 14400,
+      "salaireImposable": 145600,
+      "irgBrut": 35080,
+      "irgFinal": 33580,
+      "net": 112020,
+      "netMillions": "11.20",
+      "brutMillions": "16.00",
+      "cnasMillions": "1.44",
+      "irgMillions": "3.36"
+    },
+    "calcSud": {
+      "brut": 160000,
+      "cnas": 14400,
+      "salaireImposable": 145600,
+      "irgBrut": 35080,
+      "irgFinal": 16790,
+      "net": 128810,
+      "netMillions": "12.88",
+      "brutMillions": "16.00",
+      "cnasMillions": "1.44",
+      "irgMillions": "1.68"
+    },
+    "calcPrimes": {
+      "brut": 160000,
+      "cnas": 14400,
+      "salaireImposable": 155600,
+      "irgBrut": 38080,
+      "irgFinal": 36580,
+      "net": 119020,
+      "netMillions": "11.90",
+      "brutMillions": "16.00",
+      "cnasMillions": "1.44",
+      "irgMillions": "3.66"
+    },
+    "comparatif": [
+      {
+        "regimeFr": "Régime Nord (Standard)",
+        "regimeAr": "نظام الشمال (العادي)",
+        "brutDA": 160000,
+        "cnasDA": 14400,
+        "irgDA": 33580,
+        "netDA": 112020,
+        "netMillions": "11.20"
+      },
+      {
+        "regimeFr": "Régime Grand Sud (-50% IRG)",
+        "regimeAr": "نظام الجنوب الكبير (تخفيض 50% من الضريبة)",
+        "brutDA": 160000,
+        "cnasDA": 14400,
+        "irgDA": 16790,
+        "netDA": 128810,
+        "netMillions": "12.88"
+      },
+      {
+        "regimeFr": "Avec Primes Imposables (+10 000 DA)",
+        "regimeAr": "مع علاوات خاضعة (+10 000 دج)",
+        "brutDA": 170000,
+        "cnasDA": 14400,
+        "irgDA": 36580,
+        "netDA": 119020,
+        "netMillions": "11.90"
+      }
+    ],
+    "faqFr": [
+      {
+        "q": "Quel est le salaire net pour un salaire brut de 160 000 DA en Algérie ?",
+        "a": "Pour un salaire brut de 160 000 DA, le salaire net à percevoir est de 112 020 DA (soit environ 11.20 Millions de centimes) après déduction de 14 400 DA pour la CNAS (9%) et 33 580 DA d'IRG."
+      },
+      {
+        "q": "Combien paye-t-on d'impôt IRG sur un salaire de 160 000 DA ?",
+        "a": "Le montant prélevé au titre de l'Impôt sur le Revenu Global (IRG) pour 160 000 DA de salaire brut est de 33 580 DA dans le Régime Nord, et de seulement 16 790 DA dans le cadre du Régime Grand Sud grâce à l'abattement territorial de 50%."
+      },
+      {
+        "q": "Combien représente ce salaire en Millions de centimes ?",
+        "a": "Un salaire brut de 160 000 DA correspond à 16.00 Millions de centimes. Après l'ensemble des prélèvements sociaux et fiscaux, vous encaissez un montant net de 11.20 Millions de centimes."
+      }
+    ],
+    "faqAr": [
+      {
+        "q": "كم يبلغ الراتب الصافي لراتب خام قدره 160 000 دج في الجزائر؟",
+        "a": "لراتب خام قدره 160 000 دج، يبلغ الراتب الصافي المقبوض 112 020 دج (أي ما يعادل حوالي 11.20 مليون سنتيم)، بعد خصم 14 400 دج للضمان الاجتماعي و33 580 دج كضريبة على الدخل الإجمالي."
+      },
+      {
+        "q": "كم يبلغ اقتطاع ضريبة IRG لمبلغ 160 000 دج؟",
+        "a": "قيمة الضريبة المقتطعة على الدخل الإجمالي (IRG) لراتب 160 000 دج خام هي 33 580 دج في ولايات الشمال، وتنخفض إلى 16 790 دج في ولايات الجنوب الكبير بفضل التخفيض القانوني المقدر بـ 50%."
+      },
+      {
+        "q": "كم يساوي هذا الراتب بملايين السنتيم الجزائري؟",
+        "a": "الراتب الخام البالغ 160 000 دج يساوي 16.00 مليون سنتيم، ويصبح الراتب الصافي للقبض بعد كل الاقتطاعات 11.20 مليون سنتيم."
+      }
+    ]
+  },
+  {
+    "slug": "180000-da",
+    "brut": 180000,
+    "isAdsensePriority": false,
+    "titleFr": "Salaire Net pour 180 000 DA Brut en Algérie (Calcul IRG & CNAS 2024)",
+    "titleAr": "الراتب الصافي لمبلغ 180 000 دج خام في الجزائر (حساب الضريبة والضمان الاجتماعي)",
+    "descriptionFr": "Découvrez le salaire net exact pour un salaire brut de 180 000 DA en Algérie : déduction CNAS (9%), impôt IRG barème 2024, comparaison Régime Nord vs Régime Sud.",
+    "descriptionAr": "اكتشف الراتب الصافي الدقيق لراتب خام قدره 180 000 دج في الجزائر: خصم الضمان الاجتماعي (9%)، ضريبة الدخل IRG، ومقارنة نظام الشمال ونظام الجنوب.",
+    "calc": {
+      "brut": 180000,
+      "cnas": 16200,
+      "salaireImposable": 163800,
+      "irgBrut": 40654,
+      "irgFinal": 39154,
+      "net": 124646,
+      "netMillions": "12.46",
+      "brutMillions": "18.00",
+      "cnasMillions": "1.62",
+      "irgMillions": "3.92"
+    },
+    "calcSud": {
+      "brut": 180000,
+      "cnas": 16200,
+      "salaireImposable": 163800,
+      "irgBrut": 40654,
+      "irgFinal": 19577,
+      "net": 144223,
+      "netMillions": "14.42",
+      "brutMillions": "18.00",
+      "cnasMillions": "1.62",
+      "irgMillions": "1.96"
+    },
+    "calcPrimes": {
+      "brut": 180000,
+      "cnas": 16200,
+      "salaireImposable": 173800,
+      "irgBrut": 43954,
+      "irgFinal": 42454,
+      "net": 131346,
+      "netMillions": "13.13",
+      "brutMillions": "18.00",
+      "cnasMillions": "1.62",
+      "irgMillions": "4.25"
+    },
+    "comparatif": [
+      {
+        "regimeFr": "Régime Nord (Standard)",
+        "regimeAr": "نظام الشمال (العادي)",
+        "brutDA": 180000,
+        "cnasDA": 16200,
+        "irgDA": 39154,
+        "netDA": 124646,
+        "netMillions": "12.46"
+      },
+      {
+        "regimeFr": "Régime Grand Sud (-50% IRG)",
+        "regimeAr": "نظام الجنوب الكبير (تخفيض 50% من الضريبة)",
+        "brutDA": 180000,
+        "cnasDA": 16200,
+        "irgDA": 19577,
+        "netDA": 144223,
+        "netMillions": "14.42"
+      },
+      {
+        "regimeFr": "Avec Primes Imposables (+10 000 DA)",
+        "regimeAr": "مع علاوات خاضعة (+10 000 دج)",
+        "brutDA": 190000,
+        "cnasDA": 16200,
+        "irgDA": 42454,
+        "netDA": 131346,
+        "netMillions": "13.13"
+      }
+    ],
+    "faqFr": [
+      {
+        "q": "Quel est le salaire net pour un salaire brut de 180 000 DA en Algérie ?",
+        "a": "Pour un salaire brut de 180 000 DA, le salaire net à percevoir est de 124 646 DA (soit environ 12.46 Millions de centimes) après déduction de 16 200 DA pour la CNAS (9%) et 39 154 DA d'IRG."
+      },
+      {
+        "q": "Combien paye-t-on d'impôt IRG sur un salaire de 180 000 DA ?",
+        "a": "Le montant prélevé au titre de l'Impôt sur le Revenu Global (IRG) pour 180 000 DA de salaire brut est de 39 154 DA dans le Régime Nord, et de seulement 19 577 DA dans le cadre du Régime Grand Sud grâce à l'abattement territorial de 50%."
+      },
+      {
+        "q": "Combien représente ce salaire en Millions de centimes ?",
+        "a": "Un salaire brut de 180 000 DA correspond à 18.00 Millions de centimes. Après l'ensemble des prélèvements sociaux et fiscaux, vous encaissez un montant net de 12.46 Millions de centimes."
+      }
+    ],
+    "faqAr": [
+      {
+        "q": "كم يبلغ الراتب الصافي لراتب خام قدره 180 000 دج في الجزائر؟",
+        "a": "لراتب خام قدره 180 000 دج، يبلغ الراتب الصافي المقبوض 124 646 دج (أي ما يعادل حوالي 12.46 مليون سنتيم)، بعد خصم 16 200 دج للضمان الاجتماعي و39 154 دج كضريبة على الدخل الإجمالي."
+      },
+      {
+        "q": "كم يبلغ اقتطاع ضريبة IRG لمبلغ 180 000 دج؟",
+        "a": "قيمة الضريبة المقتطعة على الدخل الإجمالي (IRG) لراتب 180 000 دج خام هي 39 154 دج في ولايات الشمال، وتنخفض إلى 19 577 دج في ولايات الجنوب الكبير بفضل التخفيض القانوني المقدر بـ 50%."
+      },
+      {
+        "q": "كم يساوي هذا الراتب بملايين السنتيم الجزائري؟",
+        "a": "الراتب الخام البالغ 180 000 دج يساوي 18.00 مليون سنتيم، ويصبح الراتب الصافي للقبض بعد كل الاقتطاعات 12.46 مليون سنتيم."
+      }
+    ]
+  },
+  {
+    "slug": "200000-da",
+    "brut": 200000,
+    "isAdsensePriority": true,
+    "titleFr": "Salaire Net pour 200 000 DA Brut en Algérie (Calcul IRG & CNAS 2024)",
+    "titleAr": "الراتب الصافي لمبلغ 200 000 دج خام في الجزائر (حساب الضريبة والضمان الاجتماعي)",
+    "descriptionFr": "Découvrez le salaire net exact pour un salaire brut de 200 000 DA en Algérie : déduction CNAS (9%), impôt IRG barème 2024, comparaison Régime Nord vs Régime Sud.",
+    "descriptionAr": "اكتشف الراتب الصافي الدقيق لراتب خام قدره 200 000 دج في الجزائر: خصم الضمان الاجتماعي (9%)، ضريبة الدخل IRG، ومقارنة نظام الشمال ونظام الجنوب.",
+    "calc": {
+      "brut": 200000,
+      "cnas": 18000,
+      "salaireImposable": 182000,
+      "irgBrut": 46660,
+      "irgFinal": 45160,
+      "net": 136840,
+      "netMillions": "13.68",
+      "brutMillions": "20.00",
+      "cnasMillions": "1.80",
+      "irgMillions": "4.52"
+    },
+    "calcSud": {
+      "brut": 200000,
+      "cnas": 18000,
+      "salaireImposable": 182000,
+      "irgBrut": 46660,
+      "irgFinal": 22580,
+      "net": 159420,
+      "netMillions": "15.94",
+      "brutMillions": "20.00",
+      "cnasMillions": "1.80",
+      "irgMillions": "2.26"
+    },
+    "calcPrimes": {
+      "brut": 200000,
+      "cnas": 18000,
+      "salaireImposable": 192000,
+      "irgBrut": 49960,
+      "irgFinal": 48460,
+      "net": 143540,
+      "netMillions": "14.35",
+      "brutMillions": "20.00",
+      "cnasMillions": "1.80",
+      "irgMillions": "4.85"
+    },
+    "comparatif": [
+      {
+        "regimeFr": "Régime Nord (Standard)",
+        "regimeAr": "نظام الشمال (العادي)",
+        "brutDA": 200000,
+        "cnasDA": 18000,
+        "irgDA": 45160,
+        "netDA": 136840,
+        "netMillions": "13.68"
+      },
+      {
+        "regimeFr": "Régime Grand Sud (-50% IRG)",
+        "regimeAr": "نظام الجنوب الكبير (تخفيض 50% من الضريبة)",
+        "brutDA": 200000,
+        "cnasDA": 18000,
+        "irgDA": 22580,
+        "netDA": 159420,
+        "netMillions": "15.94"
+      },
+      {
+        "regimeFr": "Avec Primes Imposables (+10 000 DA)",
+        "regimeAr": "مع علاوات خاضعة (+10 000 دج)",
+        "brutDA": 210000,
+        "cnasDA": 18000,
+        "irgDA": 48460,
+        "netDA": 143540,
+        "netMillions": "14.35"
+      }
+    ],
+    "faqFr": [
+      {
+        "q": "Quel est le salaire net pour un salaire brut de 200 000 DA en Algérie ?",
+        "a": "Pour un salaire brut de 200 000 DA, le salaire net à percevoir est de 136 840 DA (soit environ 13.68 Millions de centimes) après déduction de 18 000 DA pour la CNAS (9%) et 45 160 DA d'IRG."
+      },
+      {
+        "q": "Combien paye-t-on d'impôt IRG sur un salaire de 200 000 DA ?",
+        "a": "Le montant prélevé au titre de l'Impôt sur le Revenu Global (IRG) pour 200 000 DA de salaire brut est de 45 160 DA dans le Régime Nord, et de seulement 22 580 DA dans le cadre du Régime Grand Sud grâce à l'abattement territorial de 50%."
+      },
+      {
+        "q": "Combien représente ce salaire en Millions de centimes ?",
+        "a": "Un salaire brut de 200 000 DA correspond à 20.00 Millions de centimes. Après l'ensemble des prélèvements sociaux et fiscaux, vous encaissez un montant net de 13.68 Millions de centimes."
+      }
+    ],
+    "faqAr": [
+      {
+        "q": "كم يبلغ الراتب الصافي لراتب خام قدره 200 000 دج في الجزائر؟",
+        "a": "لراتب خام قدره 200 000 دج، يبلغ الراتب الصافي المقبوض 136 840 دج (أي ما يعادل حوالي 13.68 مليون سنتيم)، بعد خصم 18 000 دج للضمان الاجتماعي و45 160 دج كضريبة على الدخل الإجمالي."
+      },
+      {
+        "q": "كم يبلغ اقتطاع ضريبة IRG لمبلغ 200 000 دج؟",
+        "a": "قيمة الضريبة المقتطعة على الدخل الإجمالي (IRG) لراتب 200 000 دج خام هي 45 160 دج في ولايات الشمال، وتنخفض إلى 22 580 دج في ولايات الجنوب الكبير بفضل التخفيض القانوني المقدر بـ 50%."
+      },
+      {
+        "q": "كم يساوي هذا الراتب بملايين السنتيم الجزائري؟",
+        "a": "الراتب الخام البالغ 200 000 دج يساوي 20.00 مليون سنتيم، ويصبح الراتب الصافي للقبض بعد كل الاقتطاعات 13.68 مليون سنتيم."
+      }
+    ]
+  },
+  {
+    "slug": "220000-da",
+    "brut": 220000,
+    "isAdsensePriority": false,
+    "titleFr": "Salaire Net pour 220 000 DA Brut en Algérie (Calcul IRG & CNAS 2024)",
+    "titleAr": "الراتب الصافي لمبلغ 220 000 دج خام في الجزائر (حساب الضريبة والضمان الاجتماعي)",
+    "descriptionFr": "Découvrez le salaire net exact pour un salaire brut de 220 000 DA en Algérie : déduction CNAS (9%), impôt IRG barème 2024, comparaison Régime Nord vs Régime Sud.",
+    "descriptionAr": "اكتشف الراتب الصافي الدقيق لراتب خام قدره 220 000 دج في الجزائر: خصم الضمان الاجتماعي (9%)، ضريبة الدخل IRG، ومقارنة نظام الشمال ونظام الجنوب.",
+    "calc": {
+      "brut": 220000,
+      "cnas": 19800,
+      "salaireImposable": 200200,
+      "irgBrut": 52666,
+      "irgFinal": 51166,
+      "net": 149034,
+      "netMillions": "14.90",
+      "brutMillions": "22.00",
+      "cnasMillions": "1.98",
+      "irgMillions": "5.12"
+    },
+    "calcSud": {
+      "brut": 220000,
+      "cnas": 19800,
+      "salaireImposable": 200200,
+      "irgBrut": 52666,
+      "irgFinal": 25583,
+      "net": 174617,
+      "netMillions": "17.46",
+      "brutMillions": "22.00",
+      "cnasMillions": "1.98",
+      "irgMillions": "2.56"
+    },
+    "calcPrimes": {
+      "brut": 220000,
+      "cnas": 19800,
+      "salaireImposable": 210200,
+      "irgBrut": 55966,
+      "irgFinal": 54466,
+      "net": 155734,
+      "netMillions": "15.57",
+      "brutMillions": "22.00",
+      "cnasMillions": "1.98",
+      "irgMillions": "5.45"
+    },
+    "comparatif": [
+      {
+        "regimeFr": "Régime Nord (Standard)",
+        "regimeAr": "نظام الشمال (العادي)",
+        "brutDA": 220000,
+        "cnasDA": 19800,
+        "irgDA": 51166,
+        "netDA": 149034,
+        "netMillions": "14.90"
+      },
+      {
+        "regimeFr": "Régime Grand Sud (-50% IRG)",
+        "regimeAr": "نظام الجنوب الكبير (تخفيض 50% من الضريبة)",
+        "brutDA": 220000,
+        "cnasDA": 19800,
+        "irgDA": 25583,
+        "netDA": 174617,
+        "netMillions": "17.46"
+      },
+      {
+        "regimeFr": "Avec Primes Imposables (+10 000 DA)",
+        "regimeAr": "مع علاوات خاضعة (+10 000 دج)",
+        "brutDA": 230000,
+        "cnasDA": 19800,
+        "irgDA": 54466,
+        "netDA": 155734,
+        "netMillions": "15.57"
+      }
+    ],
+    "faqFr": [
+      {
+        "q": "Quel est le salaire net pour un salaire brut de 220 000 DA en Algérie ?",
+        "a": "Pour un salaire brut de 220 000 DA, le salaire net à percevoir est de 149 034 DA (soit environ 14.90 Millions de centimes) après déduction de 19 800 DA pour la CNAS (9%) et 51 166 DA d'IRG."
+      },
+      {
+        "q": "Combien paye-t-on d'impôt IRG sur un salaire de 220 000 DA ?",
+        "a": "Le montant prélevé au titre de l'Impôt sur le Revenu Global (IRG) pour 220 000 DA de salaire brut est de 51 166 DA dans le Régime Nord, et de seulement 25 583 DA dans le cadre du Régime Grand Sud grâce à l'abattement territorial de 50%."
+      },
+      {
+        "q": "Combien représente ce salaire en Millions de centimes ?",
+        "a": "Un salaire brut de 220 000 DA correspond à 22.00 Millions de centimes. Après l'ensemble des prélèvements sociaux et fiscaux, vous encaissez un montant net de 14.90 Millions de centimes."
+      }
+    ],
+    "faqAr": [
+      {
+        "q": "كم يبلغ الراتب الصافي لراتب خام قدره 220 000 دج في الجزائر؟",
+        "a": "لراتب خام قدره 220 000 دج، يبلغ الراتب الصافي المقبوض 149 034 دج (أي ما يعادل حوالي 14.90 مليون سنتيم)، بعد خصم 19 800 دج للضمان الاجتماعي و51 166 دج كضريبة على الدخل الإجمالي."
+      },
+      {
+        "q": "كم يبلغ اقتطاع ضريبة IRG لمبلغ 220 000 دج؟",
+        "a": "قيمة الضريبة المقتطعة على الدخل الإجمالي (IRG) لراتب 220 000 دج خام هي 51 166 دج في ولايات الشمال، وتنخفض إلى 25 583 دج في ولايات الجنوب الكبير بفضل التخفيض القانوني المقدر بـ 50%."
+      },
+      {
+        "q": "كم يساوي هذا الراتب بملايين السنتيم الجزائري؟",
+        "a": "الراتب الخام البالغ 220 000 دج يساوي 22.00 مليون سنتيم، ويصبح الراتب الصافي للقبض بعد كل الاقتطاعات 14.90 مليون سنتيم."
+      }
+    ]
+  },
+  {
+    "slug": "250000-da",
+    "brut": 250000,
+    "isAdsensePriority": false,
+    "titleFr": "Salaire Net pour 250 000 DA Brut en Algérie (Calcul IRG & CNAS 2024)",
+    "titleAr": "الراتب الصافي لمبلغ 250 000 دج خام في الجزائر (حساب الضريبة والضمان الاجتماعي)",
+    "descriptionFr": "Découvrez le salaire net exact pour un salaire brut de 250 000 DA en Algérie : déduction CNAS (9%), impôt IRG barème 2024, comparaison Régime Nord vs Régime Sud.",
+    "descriptionAr": "اكتشف الراتب الصافي الدقيق لراتب خام قدره 250 000 دج في الجزائر: خصم الضمان الاجتماعي (9%)، ضريبة الدخل IRG، ومقارنة نظام الشمال ونظام الجنوب.",
+    "calc": {
+      "brut": 250000,
+      "cnas": 22500,
+      "salaireImposable": 227500,
+      "irgBrut": 61675,
+      "irgFinal": 60175,
+      "net": 167325,
+      "netMillions": "16.73",
+      "brutMillions": "25.00",
+      "cnasMillions": "2.25",
+      "irgMillions": "6.02"
+    },
+    "calcSud": {
+      "brut": 250000,
+      "cnas": 22500,
+      "salaireImposable": 227500,
+      "irgBrut": 61675,
+      "irgFinal": 30088,
+      "net": 197412,
+      "netMillions": "19.74",
+      "brutMillions": "25.00",
+      "cnasMillions": "2.25",
+      "irgMillions": "3.01"
+    },
+    "calcPrimes": {
+      "brut": 250000,
+      "cnas": 22500,
+      "salaireImposable": 237500,
+      "irgBrut": 64975,
+      "irgFinal": 63475,
+      "net": 174025,
+      "netMillions": "17.40",
+      "brutMillions": "25.00",
+      "cnasMillions": "2.25",
+      "irgMillions": "6.35"
+    },
+    "comparatif": [
+      {
+        "regimeFr": "Régime Nord (Standard)",
+        "regimeAr": "نظام الشمال (العادي)",
+        "brutDA": 250000,
+        "cnasDA": 22500,
+        "irgDA": 60175,
+        "netDA": 167325,
+        "netMillions": "16.73"
+      },
+      {
+        "regimeFr": "Régime Grand Sud (-50% IRG)",
+        "regimeAr": "نظام الجنوب الكبير (تخفيض 50% من الضريبة)",
+        "brutDA": 250000,
+        "cnasDA": 22500,
+        "irgDA": 30088,
+        "netDA": 197412,
+        "netMillions": "19.74"
+      },
+      {
+        "regimeFr": "Avec Primes Imposables (+10 000 DA)",
+        "regimeAr": "مع علاوات خاضعة (+10 000 دج)",
+        "brutDA": 260000,
+        "cnasDA": 22500,
+        "irgDA": 63475,
+        "netDA": 174025,
+        "netMillions": "17.40"
+      }
+    ],
+    "faqFr": [
+      {
+        "q": "Quel est le salaire net pour un salaire brut de 250 000 DA en Algérie ?",
+        "a": "Pour un salaire brut de 250 000 DA, le salaire net à percevoir est de 167 325 DA (soit environ 16.73 Millions de centimes) après déduction de 22 500 DA pour la CNAS (9%) et 60 175 DA d'IRG."
+      },
+      {
+        "q": "Combien paye-t-on d'impôt IRG sur un salaire de 250 000 DA ?",
+        "a": "Le montant prélevé au titre de l'Impôt sur le Revenu Global (IRG) pour 250 000 DA de salaire brut est de 60 175 DA dans le Régime Nord, et de seulement 30 088 DA dans le cadre du Régime Grand Sud grâce à l'abattement territorial de 50%."
+      },
+      {
+        "q": "Combien représente ce salaire en Millions de centimes ?",
+        "a": "Un salaire brut de 250 000 DA correspond à 25.00 Millions de centimes. Après l'ensemble des prélèvements sociaux et fiscaux, vous encaissez un montant net de 16.73 Millions de centimes."
+      }
+    ],
+    "faqAr": [
+      {
+        "q": "كم يبلغ الراتب الصافي لراتب خام قدره 250 000 دج في الجزائر؟",
+        "a": "لراتب خام قدره 250 000 دج، يبلغ الراتب الصافي المقبوض 167 325 دج (أي ما يعادل حوالي 16.73 مليون سنتيم)، بعد خصم 22 500 دج للضمان الاجتماعي و60 175 دج كضريبة على الدخل الإجمالي."
+      },
+      {
+        "q": "كم يبلغ اقتطاع ضريبة IRG لمبلغ 250 000 دج؟",
+        "a": "قيمة الضريبة المقتطعة على الدخل الإجمالي (IRG) لراتب 250 000 دج خام هي 60 175 دج في ولايات الشمال، وتنخفض إلى 30 088 دج في ولايات الجنوب الكبير بفضل التخفيض القانوني المقدر بـ 50%."
+      },
+      {
+        "q": "كم يساوي هذا الراتب بملايين السنتيم الجزائري؟",
+        "a": "الراتب الخام البالغ 250 000 دج يساوي 25.00 مليون سنتيم، ويصبح الراتب الصافي للقبض بعد كل الاقتطاعات 16.73 مليون سنتيم."
+      }
+    ]
+  }
+]
