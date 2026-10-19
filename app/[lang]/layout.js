@@ -40,6 +40,16 @@ export async function generateMetadata({ params }) {
       'سعر اليورو في السكوار اليوم',
     ],
     metadataBase: new URL(RATES_CONFIG.SITE_URL),
+    icons: {
+      icon: [
+        { url: '/icon.svg', type: 'image/svg+xml' },
+        { url: '/favicon.svg', type: 'image/svg+xml' },
+      ],
+      apple: [
+        { url: '/icon.svg' },
+      ],
+      shortcut: ['/icon.svg'],
+    },
     alternates: {
       canonical: `/${lang}`,
       languages: {
@@ -54,6 +64,14 @@ export async function generateMetadata({ params }) {
       siteName: isAr ? RATES_CONFIG.SITE_NAME_AR : RATES_CONFIG.SITE_NAME,
       locale: isAr ? 'ar_DZ' : 'fr_DZ',
       type: 'website',
+      images: [
+        {
+          url: '/icon.svg',
+          width: 128,
+          height: 128,
+          alt: 'HissabDZ Logo',
+        },
+      ],
     },
   };
 }
@@ -67,14 +85,16 @@ export default function LangLayout({ children, params }) {
       <head>
         <meta charSet="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <link rel="icon" href="/icon.svg" type="image/svg+xml" />
+        <link rel="apple-touch-icon" href="/icon.svg" />
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
         <link
-          href="https://fonts.googleapis.com/css2?family=Cairo:wght@400;500;600;700;800&family=Inter:wght@400;500;600;700;800&display=swap"
+          href="https://fonts.googleapis.com/css2?family=Cairo:wght@600;700;800;900&family=Tajawal:wght@700;800;900&family=Inter:wght@400;500;600;700;800&display=swap"
           rel="stylesheet"
         />
       </head>
-      <body className={`min-h-screen bg-slate-50 flex flex-col ${dir === 'rtl' ? 'font-arabic' : 'font-sans'}`}>
+      <body className={`min-h-screen bg-slate-50 flex flex-col ${dir === 'rtl' ? 'font-arabic font-semibold' : 'font-sans'}`}>
         <Navbar lang={lang} />
         <main className="flex-1">{children}</main>
         <Footer lang={lang} />
